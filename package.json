@@ -6,7 +6,9 @@
   "scripts": {
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "hugo --minify && node --test 'tests/**/*.test.mjs'",
+    "test:fast": "node --test 'tests/**/*.test.mjs'",
+    "test:e2e": "hugo --minify && node --test tests/e2e.test.mjs"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +17,8 @@
     "puppeteer": "^24.39.1"
   },
   "devDependencies": {
+    "cheerio": "^1.2.0",
+    "js-yaml": "^4.1.1",
     "prettier": "^3.5.0"
   }
 }
