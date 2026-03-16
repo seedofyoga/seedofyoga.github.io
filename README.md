@@ -1,7 +1,7 @@
 # Seed of Yoga
 
-![CI](https://github.com/<owner>/<repo>/actions/workflows/ci.yml/badge.svg)
-![Deploy](https://github.com/<owner>/<repo>/actions/workflows/deploy.yml/badge.svg)
+![CI](https://github.com/seedofyoga/seedofyoga.github.io/actions/workflows/ci.yml/badge.svg)
+![Deploy](https://github.com/seedofyoga/seedofyoga.github.io/actions/workflows/deploy.yml/badge.svg)
 
 _Nurturing your practice from seed to bloom_
 
