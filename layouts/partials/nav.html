@@ -1,0 +1,91 @@
+<nav id="site-nav" class="fixed top-0 left-0 right-0 z-50 bg-cream/95 backdrop-blur-sm border-b border-sage-200/60">
+  <div class="max-w-6xl mx-auto px-4 md:px-8 flex items-center justify-between h-16 md:h-20">
+    <!-- Logo + wordmark -->
+    <a href="/" class="flex items-center gap-2.5 hover:opacity-80">
+      <img src="/images/logo.png" alt="Seed of Yoga logo" class="h-10 md:h-12 w-auto">
+      <span class="font-display text-xl md:text-2xl text-sage-700">Seed of Yoga</span>
+    </a>
+
+    <!-- Desktop links -->
+    <ul class="hidden md:flex items-center gap-8">
+      {{ range .Site.Menus.main }}
+      <li>
+        <a href="{{ .URL }}"
+           class="nav-link text-sm font-semibold tracking-wide uppercase text-sage-500 hover:text-sage-700 focus-visible:text-sage-700"
+           {{ if not (hasPrefix .URL "/blog") }}data-section="{{ strings.TrimLeft "#/" .URL }}"{{ end }}>
+          {{ .Name }}
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+
+    <!-- Mobile hamburger -->
+    <button id="menu-toggle" class="md:hidden flex flex-col gap-1.5 p-2 -mr-2 rounded-lg hover:bg-sage-50" aria-label="Toggle menu" aria-expanded="false">
+      <span class="hamburger-bar block w-6 h-0.5 bg-sage-700 origin-center transition-transform duration-300 ease-out"></span>
+      <span class="hamburger-bar block w-6 h-0.5 bg-sage-700 transition-opacity duration-300 ease-out"></span>
+      <span class="hamburger-bar block w-6 h-0.5 bg-sage-700 origin-center transition-transform duration-300 ease-out"></span>
+    </button>
+  </div>
+
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="md:hidden overflow-hidden max-h-0 transition-[max-height] duration-500 ease-out bg-cream/98 border-t border-sage-200/40">
+    <ul class="flex flex-col px-6 py-4 gap-1">
+      {{ range .Site.Menus.main }}
+      <li>
+        <a href="{{ .URL }}"
+           class="mobile-nav-link block py-3 px-3 rounded-lg text-sage-700 font-semibold text-base hover:bg-sage-50 hover:text-sage-900"
+           {{ if not (hasPrefix .URL "/blog") }}data-section="{{ strings.TrimLeft "#/" .URL }}"{{ end }}>
+          {{ .Name }}
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</nav>
+
+<script>
+  // Mobile menu toggle
+  const toggle = document.getElementById('menu-toggle');
+  const menu = document.getElementById('mobile-menu');
+  const bars = toggle.querySelectorAll('.hamburger-bar');
+
+  toggle.addEventListener('click', () => {
+    const open = toggle.getAttribute('aria-expanded') === 'true';
+    toggle.setAttribute('aria-expanded', !open);
+    menu.style.maxHeight = open ? '0' : menu.scrollHeight + 'px';
+    bars[0].style.transform = open ? '' : 'translateY(4px) rotate(45deg)';
+    bars[1].style.opacity = open ? '' : '0';
+    bars[2].style.transform = open ? '' : 'translateY(-4px) rotate(-45deg)';
+  });
+
+  // Close mobile menu on link click
+  menu.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', () => {
+      toggle.setAttribute('aria-expanded', 'false');
+      menu.style.maxHeight = '0';
+      bars[0].style.transform = '';
+      bars[1].style.opacity = '';
+      bars[2].style.transform = '';
+    });
+  });
+
+  // Intersection Observer for active nav highlighting
+  const sections = document.querySelectorAll('section[id]');
+  const navLinks = document.querySelectorAll('.nav-link[data-section], .mobile-nav-link[data-section]');
+
+  if (sections.length) {
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          navLinks.forEach(link => {
+            const active = link.dataset.section === entry.target.id;
+            link.classList.toggle('text-sage-900', active);
+            link.classList.toggle('text-sage-500', !active && !link.classList.contains('mobile-nav-link'));
+          });
+        }
+      });
+    }, { rootMargin: '-20% 0px -75% 0px' });
+
+    sections.forEach(section => observer.observe(section));
+  }
+</script>

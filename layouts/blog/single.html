@@ -1,0 +1,66 @@
+{{ define "main" }}
+<article class="pt-24 md:pt-32 pb-16 md:pb-24">
+  <div class="max-w-3xl mx-auto px-4 md:px-8">
+    <!-- Back link -->
+    <a href="/blog/" class="inline-flex items-center gap-1.5 text-sage-500 text-sm hover:text-sage-700 mb-8">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18"/>
+      </svg>
+      Back to Blog
+    </a>
+
+    <!-- Header -->
+    <header class="mb-8">
+      <time class="text-sage-400 text-sm font-medium uppercase tracking-wide">
+        {{ .Date.Format "January 2, 2006" }}
+      </time>
+      <h1 class="font-display text-3xl md:text-4xl lg:text-5xl text-sage-900 tracking-display mt-3 mb-4 leading-tight">
+        {{ .Title }}
+      </h1>
+      {{ with .Params.tags }}
+      <div class="flex flex-wrap gap-2">
+        {{ range . }}
+        <span class="text-xs font-medium px-3 py-1 rounded-full bg-sage-100 text-sage-500 border border-sage-200">
+          {{ . }}
+        </span>
+        {{ end }}
+      </div>
+      {{ end }}
+    </header>
+
+    <!-- Featured image -->
+    {{ with .Params.image }}
+    <div class="relative rounded-2xl overflow-hidden mb-10 shadow-elevated aspect-[16/9]">
+      <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-full object-cover">
+      <div class="absolute inset-0 bg-gradient-to-t from-sage-900/15 to-transparent"></div>
+      <div class="absolute inset-0 bg-sage-500/5 mix-blend-multiply"></div>
+    </div>
+    {{ end }}
+
+    <!-- Content -->
+    <div class="prose prose-lg max-w-none
+                prose-headings:font-display prose-headings:text-sage-900 prose-headings:tracking-display
+                prose-p:text-sage-700 prose-p:leading-body
+                prose-a:text-rose-500 prose-a:no-underline hover:prose-a:text-rose-700 hover:prose-a:underline
+                prose-strong:text-sage-900
+                prose-blockquote:border-gold-300 prose-blockquote:text-sage-700 prose-blockquote:font-display prose-blockquote:italic
+                prose-li:text-sage-700
+                prose-hr:border-sage-200
+                prose-img:rounded-xl prose-img:shadow-elevated">
+      {{ .Content }}
+    </div>
+
+    <!-- Divider -->
+    <div class="mt-12 pt-8 border-t border-sage-200">
+      <a href="/blog/"
+         class="inline-flex items-center gap-2 text-rose-500 font-semibold text-sm hover:text-rose-700
+                border-b border-rose-300/50 hover:border-rose-500 pb-0.5">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18"/>
+        </svg>
+        All Posts
+      </a>
+    </div>
+  </div>
+</article>
+{{ end }}

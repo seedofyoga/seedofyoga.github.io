@@ -1,0 +1,55 @@
+<section id="location" class="bg-cream py-16 md:py-24 scroll-mt-20">
+  <div class="max-w-6xl mx-auto px-4 md:px-8">
+    <!-- Heading -->
+    <div class="text-center mb-12">
+      <h2 class="font-display text-3xl md:text-4xl text-sage-900 tracking-display mb-3">Find Us</h2>
+      <p class="text-sage-500 text-lg max-w-md mx-auto">We'd love to welcome you to the studio.</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-12 items-start">
+      <!-- Address & directions -->
+      <div>
+        <h3 class="font-display text-xl text-sage-900 mb-4">Studio Location</h3>
+
+        <div class="space-y-4 text-sage-700 text-sm leading-body">
+          <div class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-sage-500 shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z"/>
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 0115 0z"/>
+            </svg>
+            <p class="whitespace-pre-line">{{ .Site.Data.contact.address }}</p>
+          </div>
+
+          <div class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-sage-500 shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            <div>
+              <p class="font-semibold text-sage-900 mb-1">Hours</p>
+              <p class="whitespace-pre-line">{{ .Site.Data.contact.hours }}</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-6 p-4 bg-sage-50 rounded-xl border border-sage-200">
+          <p class="text-sage-500 text-xs font-semibold uppercase tracking-wide mb-2">Getting Here</p>
+          <p class="text-sage-700 text-sm leading-body">{{ .Site.Data.contact.directions }}</p>
+        </div>
+      </div>
+
+      <!-- Map -->
+      <div class="rounded-2xl overflow-hidden shadow-elevated border border-sage-200">
+        <iframe
+          src="{{ .Site.Data.contact.maps_embed }}"
+          width="100%"
+          height="380"
+          style="border:0;"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          title="Seed of Yoga studio location">
+        </iframe>
+      </div>
+    </div>
+  </div>
+</section>

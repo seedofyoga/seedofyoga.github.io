@@ -1,0 +1,50 @@
+{{ define "main" }}
+<div class="pt-24 md:pt-32 pb-16 md:pb-24">
+  <div class="max-w-6xl mx-auto px-4 md:px-8">
+    <!-- Heading -->
+    <div class="text-center mb-12">
+      <h1 class="font-display text-4xl md:text-5xl text-sage-900 tracking-display mb-3">{{ .Title }}</h1>
+      <p class="text-sage-500 text-lg max-w-lg mx-auto">{{ .Description }}</p>
+    </div>
+
+    <!-- Post grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {{ range .Paginator.Pages }}
+      <article class="relative group bg-cream rounded-2xl overflow-hidden shadow-subtle hover:shadow-elevated border border-sage-100 transition-shadow duration-300">
+        {{ with .Params.image }}
+        <div class="relative aspect-[16/9] overflow-hidden">
+          <img src="{{ . }}" alt="{{ $.Title }}"
+               class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500 ease-out">
+          <div class="absolute inset-0 bg-gradient-to-t from-sage-900/20 to-transparent"></div>
+          <div class="absolute inset-0 bg-sage-500/5 mix-blend-multiply"></div>
+        </div>
+        {{ end }}
+        <div class="p-5">
+          <time class="text-sage-400 text-xs font-medium uppercase tracking-wide">
+            {{ .Date.Format "January 2, 2006" }}
+          </time>
+          <h2 class="font-display text-lg text-sage-900 mt-2 mb-2 group-hover:text-sage-700 leading-snug">
+            <a href="{{ .RelPermalink }}" class="after:absolute after:inset-0">
+              {{ .Title }}
+            </a>
+          </h2>
+          <p class="text-sage-500 text-sm leading-relaxed line-clamp-3">
+            {{ .Description }}
+          </p>
+          {{ with .Params.tags }}
+          <div class="flex flex-wrap gap-1.5 mt-3">
+            {{ range . }}
+            <span class="text-xs px-2 py-0.5 rounded-full bg-sage-100 text-sage-500">{{ . }}</span>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </article>
+      {{ end }}
+    </div>
+
+    <!-- Pagination -->
+    {{ template "_internal/pagination.html" . }}
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,94 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.description }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Nunito+Sans:ital,opsz,wght@0,6..12,300..700;1,6..12,300..700&display=swap" rel="stylesheet">
+
+<!-- Tailwind CDN + Typography plugin -->
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          cream: '#FAF8F4',
+          sage: {
+            50: '#F4F6F2',
+            100: '#E4E9E0',
+            200: '#C5CFC0',
+            400: '#9BAE92',
+            500: '#8B9F82',
+            700: '#5E7355',
+            900: '#3A4A33',
+          },
+          rose: {
+            100: '#F5E2DE',
+            300: '#D9A79F',
+            500: '#C4847A',
+            700: '#A0625A',
+          },
+          gold: {
+            100: '#F2E8D5',
+            300: '#D4BC8A',
+            500: '#C6A96B',
+          },
+        },
+        fontFamily: {
+          display: ['"DM Serif Display"', 'Georgia', 'serif'],
+          body: ['"Nunito Sans"', 'system-ui', 'sans-serif'],
+        },
+        boxShadow: {
+          subtle: '0 1px 3px rgba(139, 159, 130, 0.08), 0 1px 2px rgba(139, 159, 130, 0.06)',
+          elevated: '0 4px 12px rgba(139, 159, 130, 0.15), 0 2px 4px rgba(139, 159, 130, 0.08)',
+          floating: '0 12px 32px rgba(139, 159, 130, 0.25), 0 4px 8px rgba(139, 159, 130, 0.1)',
+        },
+        letterSpacing: {
+          display: '-0.03em',
+        },
+        lineHeight: {
+          body: '1.7',
+        },
+      },
+    },
+  }
+</script>
+
+<style>
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+  body {
+    font-family: 'Nunito Sans', system-ui, sans-serif;
+    line-height: 1.7;
+    color: #3A4A33;
+    background-color: #FAF8F4;
+  }
+  /* SVG noise texture */
+  .noise-overlay::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    opacity: 0.3;
+    pointer-events: none;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.5'/%3E%3C/svg%3E");
+    background-size: 200px 200px;
+  }
+  /* Focus visible */
+  *:focus-visible {
+    outline: 2px solid #C4847A;
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+  /* Smooth transitions on interactive elements */
+  a, button {
+    transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  button:active, a:active {
+    transform: scale(0.98);
+  }
+</style>
