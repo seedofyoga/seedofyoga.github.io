@@ -1,0 +1,12 @@
+public/
+resources/_gen/
+node_modules/
+layouts/
+temporary screenshots/
+*.png
+*.jpg
+*.jpeg
+*.ico
+*.svg
+*.woff
+*.woff2

@@ -1,16 +1,16 @@
 ---
-title: "Finding Stillness in a Busy World"
+title: 'Finding Stillness in a Busy World'
 date: 2026-03-10
-description: "How a simple five-minute breathing practice can transform your entire day."
-image: "https://placehold.co/800x450/C5CFC0/3A4A33?text=Stillness"
-tags: ["mindfulness", "breathing", "beginner"]
+description: 'How a simple five-minute breathing practice can transform your entire day.'
+image: 'https://placehold.co/800x450/C5CFC0/3A4A33?text=Stillness'
+tags: ['mindfulness', 'breathing', 'beginner']
 ---
 
-We live in a world that celebrates doing. Productivity apps, hustle culture, the endless scroll — our nervous systems rarely get a moment to simply *be*.
+We live in a world that celebrates doing. Productivity apps, hustle culture, the endless scroll — our nervous systems rarely get a moment to simply _be_.
 
 ## The power of five minutes
 
-You don't need an hour-long meditation retreat to find stillness. Five minutes of conscious breathing — what we call *pranayama* in yoga — can shift your entire nervous system from fight-or-flight to rest-and-digest.
+You don't need an hour-long meditation retreat to find stillness. Five minutes of conscious breathing — what we call _pranayama_ in yoga — can shift your entire nervous system from fight-or-flight to rest-and-digest.
 
 Here's a simple practice you can try right now:
 
@@ -26,4 +26,4 @@ The key isn't duration — it's consistency. Five minutes every morning, before 
 
 I've seen students who started with just this simple practice go on to develop a deep, nourishing meditation practice. It all begins with one breath.
 
-*Come practice with us — our Yin Yoga and Restorative classes are perfect for cultivating stillness.*
+_Come practice with us — our Yin Yoga and Restorative classes are perfect for cultivating stillness._

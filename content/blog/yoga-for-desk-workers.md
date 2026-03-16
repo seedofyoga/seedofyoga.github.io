@@ -1,9 +1,9 @@
 ---
-title: "Yoga for Desk Workers: Release the Day"
+title: 'Yoga for Desk Workers: Release the Day'
 date: 2026-03-03
-description: "Five poses that undo the damage of sitting all day — no mat required."
-image: "https://placehold.co/800x450/F5E2DE/A0625A?text=Desk+Yoga"
-tags: ["poses", "office", "beginner"]
+description: 'Five poses that undo the damage of sitting all day — no mat required.'
+image: 'https://placehold.co/800x450/F5E2DE/A0625A?text=Desk+Yoga'
+tags: ['poses', 'office', 'beginner']
 ---
 
 If you spend eight hours a day at a desk, your body knows it. Tight hip flexors, rounded shoulders, a stiff neck — the modern workplace takes its toll on our bodies in predictable ways.
@@ -36,4 +36,4 @@ Drop your right ear toward your right shoulder. Place your right hand gently on 
 
 Set a timer for every 90 minutes during your workday. When it goes off, pick two of these poses and spend just three minutes moving. Your body will thank you by the end of the week.
 
-*Our Gentle Yoga and Hatha Basics classes are designed with beginners and desk workers in mind.*
+_Our Gentle Yoga and Hatha Basics classes are designed with beginners and desk workers in mind._

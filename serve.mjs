@@ -27,12 +27,16 @@ const server = http.createServer((req, res) => {
   const filepath = path.join(ROOT, urlPath);
 
   if (!filepath.startsWith(ROOT)) {
-    res.writeHead(403); res.end('Forbidden'); return;
+    res.writeHead(403);
+    res.end('Forbidden');
+    return;
   }
 
   fs.readFile(filepath, (err, data) => {
     if (err) {
-      res.writeHead(404); res.end('Not found'); return;
+      res.writeHead(404);
+      res.end('Not found');
+      return;
     }
     const ext = path.extname(filepath);
     res.writeHead(200, { 'Content-Type': MIME[ext] || 'application/octet-stream' });

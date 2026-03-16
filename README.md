@@ -1,6 +1,6 @@
 # Seed of Yoga
 
-*Nurturing your practice from seed to bloom*
+_Nurturing your practice from seed to bloom_
 
 A single-page landing site with blog for a yoga studio in Boulder, CO.
 Built with Hugo and styled with Tailwind CSS, the site is fully data-driven — class schedules, pricing plans, instructor bio, and contact details all live in simple YAML files.
@@ -18,14 +18,14 @@ Deployed automatically to GitHub Pages on every push.
 
 ## Tech Stack
 
-| Technology | Role |
-|---|---|
-| Hugo v0.147.1+ (extended) | Static site generator |
-| Tailwind CSS (CDN) | Utility-first styling with Typography plugin |
-| Google Fonts | DM Serif Display (headings) + Nunito Sans (body) |
-| Vanilla JS | Mobile menu, Intersection Observer scroll spy |
-| Puppeteer | Screenshot testing |
-| GitHub Actions | CI/CD deployment to GitHub Pages |
+| Technology                | Role                                             |
+| ------------------------- | ------------------------------------------------ |
+| Hugo v0.147.1+ (extended) | Static site generator                            |
+| Tailwind CSS (CDN)        | Utility-first styling with Typography plugin     |
+| Google Fonts              | DM Serif Display (headings) + Nunito Sans (body) |
+| Vanilla JS                | Mobile menu, Intersection Observer scroll spy    |
+| Puppeteer                 | Screenshot testing                               |
+| GitHub Actions            | CI/CD deployment to GitHub Pages                 |
 
 ## Getting Started
 
@@ -79,11 +79,11 @@ Create a new Markdown file in `content/blog/` with the following frontmatter:
 
 ```markdown
 ---
-title: "Your Post Title"
+title: 'Your Post Title'
 date: 2026-03-16
-description: "A short summary for the blog grid card."
-image: "/images/your-image.jpg"
-tags: ["yoga", "mindfulness"]
+description: 'A short summary for the blog grid card.'
+image: '/images/your-image.jpg'
+tags: ['yoga', 'mindfulness']
 ---
 
 Post content goes here.

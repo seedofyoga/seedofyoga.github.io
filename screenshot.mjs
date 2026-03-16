@@ -8,8 +8,8 @@ const label = process.argv[3] || '';
 const dir = './temporary screenshots';
 if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
 
-const existing = fs.readdirSync(dir).filter(f => f.startsWith('screenshot-') && f.endsWith('.png'));
-const nums = existing.map(f => parseInt(f.match(/screenshot-(\d+)/)?.[1] || '0')).filter(n => !isNaN(n));
+const existing = fs.readdirSync(dir).filter((f) => f.startsWith('screenshot-') && f.endsWith('.png'));
+const nums = existing.map((f) => parseInt(f.match(/screenshot-(\d+)/)?.[1] || '0')).filter((n) => !isNaN(n));
 const next = nums.length > 0 ? Math.max(...nums) + 1 : 1;
 
 const filename = label ? `screenshot-${next}-${label}.png` : `screenshot-${next}.png`;
