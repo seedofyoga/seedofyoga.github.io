@@ -26,7 +26,7 @@ Deployed to GitHub Pages via GitHub Actions.
 | `static/images/`               | Logo and static assets                                                                                 |
 | `brand_assets/`                | Source brand files (logo.png)                                                                          |
 | `hugo.toml`                    | Site config, nav menu, params                                                                          |
-| `.github/workflows/deploy.yml` | GitHub Pages deployment (Hugo 0.147.1)                                                                 |
+| `.github/workflows/`           | CI (`ci.yml`) and deploy (`deploy.yml`) workflows                                                      |
 
 ## Essential Commands
 
@@ -35,6 +35,11 @@ hugo server -D                      # Dev server at localhost:1313
 hugo --minify                       # Production build -> public/
 node serve.mjs                      # Static file server at localhost:3000 (serves public/)
 node screenshot.mjs URL [label]     # Puppeteer screenshot -> temporary screenshots/
+npm run format:check                # Check Prettier formatting
+npm run format                      # Fix formatting
+npm run test:unit                   # Unit tests (no Hugo needed)
+npm run test:build                  # Build tests (needs public/)
+npm test                            # Full test suite (builds Hugo first)
 ```
 
 ## Content Model
