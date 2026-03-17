@@ -6,6 +6,8 @@ defaultContentLanguageInSubdir = false
 [pagination]
   pagerSize = 9
 
+[taxonomies]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
