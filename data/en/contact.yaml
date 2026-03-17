@@ -1,0 +1,17 @@
+phone: '+1 (555) 234-5678'
+email: 'hello@seedofyoga.com'
+address: |
+  142 Willow Creek Road
+  Boulder, CO 80302
+social:
+  instagram: 'https://instagram.com/seedofyoga'
+  facebook: 'https://facebook.com/seedofyoga'
+hours: |
+  Mon–Fri: 6:30 AM – 7:30 PM
+  Sat–Sun: 9:00 AM – 1:00 PM
+maps_embed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48832.42937285498!2d-105.29!3d40.015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDAxJzAwLjAiTiAxMDXCsDE3JzI0LjAiVw!5e0!3m2!1sen!2sus!4v1'
+directions: |
+  We're located in the heart of downtown Boulder, just off Pearl Street.
+  Street parking is available on Willow Creek Road, and the Pearl Street
+  parking garage is a 3-minute walk away. Look for the green door
+  between the bookshop and the coffee house.

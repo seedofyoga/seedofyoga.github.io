@@ -1,0 +1,54 @@
+days:
+  - name: Lundi
+    classes:
+      - name: Flow matinal
+        time: '7:00 – 8:00'
+        level: All Levels
+      - name: Yoga doux
+        time: '12:00 – 13:00'
+        level: Beginner
+  - name: Mardi
+    classes:
+      - name: Vinyasa dynamique
+        time: '6:30 – 7:45'
+        level: Intermediate
+      - name: Yin Yoga
+        time: '17:30 – 18:45'
+        level: All Levels
+  - name: Mercredi
+    classes:
+      - name: Flow matinal
+        time: '7:00 – 8:00'
+        level: All Levels
+      - name: Yoga prénatal
+        time: '10:00 – 11:00'
+        level: All Levels
+  - name: Jeudi
+    classes:
+      - name: Vinyasa dynamique
+        time: '6:30 – 7:45'
+        level: Intermediate
+      - name: Restauratif
+        time: '18:00 – 19:15'
+        level: All Levels
+  - name: Vendredi
+    classes:
+      - name: Flow matinal
+        time: '7:00 – 8:00'
+        level: All Levels
+      - name: Hatha débutant
+        time: '12:00 – 13:00'
+        level: Beginner
+  - name: Samedi
+    classes:
+      - name: Flow du week-end
+        time: '9:00 – 10:15'
+        level: All Levels
+      - name: Yoga & Méditation
+        time: '11:00 – 12:15'
+        level: All Levels
+  - name: Dimanche
+    classes:
+      - name: Flow doux du dimanche
+        time: '10:00 – 11:15'
+        level: All Levels

@@ -1,10 +1,11 @@
+{{ $about := index .Site.Data .Site.Language.Lang "about" }}
 <section id="about" class="bg-sage-50 py-16 md:py-24 scroll-mt-20">
   <div class="max-w-6xl mx-auto px-4 md:px-8">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center">
       <!-- Photo -->
       <div class="relative">
         <div class="relative rounded-2xl overflow-hidden shadow-floating aspect-[4/5]">
-          <img src="{{ .Site.Data.about.photo }}" alt="{{ .Site.Data.about.name }}"
+          <img src="{{ $about.photo }}" alt="{{ $about.name }}"
                class="w-full h-full object-cover">
           <!-- Gradient overlay -->
           <div class="absolute inset-0 bg-gradient-to-t from-sage-900/30 via-transparent to-transparent"></div>
@@ -18,12 +19,12 @@
 
       <!-- Content -->
       <div>
-        <h2 class="font-display text-3xl md:text-4xl text-sage-900 tracking-display mb-2">{{ .Site.Data.about.name }}</h2>
-        <p class="text-rose-500 font-semibold text-sm uppercase tracking-wide mb-4">{{ .Site.Data.about.title }}</p>
+        <h2 class="font-display text-3xl md:text-4xl text-sage-900 tracking-display mb-2">{{ $about.name }}</h2>
+        <p class="text-rose-500 font-semibold text-sm uppercase tracking-wide mb-4">{{ $about.title }}</p>
 
         <!-- Certifications -->
         <div class="flex flex-wrap gap-2 mb-6">
-          {{ range .Site.Data.about.certifications }}
+          {{ range $about.certifications }}
           <span class="text-xs font-medium px-3 py-1 rounded-full bg-sage-100 text-sage-700 border border-sage-200">
             {{ . }}
           </span>
@@ -33,13 +34,13 @@
         <!-- Quote -->
         <blockquote class="border-l-2 border-gold-300 pl-4 mb-6">
           <p class="font-display italic text-lg text-sage-700 leading-relaxed">
-            "{{ .Site.Data.about.quote }}"
+            "{{ $about.quote }}"
           </p>
         </blockquote>
 
         <!-- Bio -->
         <div class="text-sage-700 text-sm leading-body space-y-4">
-          {{ .Site.Data.about.bio | markdownify }}
+          {{ $about.bio | markdownify }}
         </div>
       </div>
     </div>

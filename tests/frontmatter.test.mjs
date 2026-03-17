@@ -5,7 +5,7 @@ import path from 'path';
 import { CONTENT_DIR, parseFrontmatter } from './helpers.mjs';
 
 const blogDir = path.join(CONTENT_DIR, 'blog');
-const posts = fs.readdirSync(blogDir).filter((f) => f.endsWith('.md') && f !== '_index.md');
+const posts = fs.readdirSync(blogDir).filter((f) => f.endsWith('.md') && !f.startsWith('_index'));
 
 describe('Blog post frontmatter', () => {
   for (const file of posts) {

@@ -1,14 +1,15 @@
+{{ $schedule := index .Site.Data .Site.Language.Lang "schedule" }}
 <section id="schedule" class="bg-sage-50 py-16 md:py-24 scroll-mt-20">
   <div class="max-w-6xl mx-auto px-4 md:px-8">
     <!-- Heading -->
     <div class="text-center mb-12">
-      <h2 class="font-display text-3xl md:text-4xl text-sage-900 tracking-display mb-3">Class Schedule</h2>
-      <p class="text-sage-500 text-lg max-w-lg mx-auto">Find a class that fits your rhythm. All levels welcome.</p>
+      <h2 class="font-display text-3xl md:text-4xl text-sage-900 tracking-display mb-3">{{ i18n "class_schedule" }}</h2>
+      <p class="text-sage-500 text-lg max-w-lg mx-auto">{{ i18n "class_schedule_sub" }}</p>
     </div>
 
     <!-- Desktop grid (7 columns) -->
     <div class="hidden lg:grid grid-cols-7 gap-3">
-      {{ range .Site.Data.schedule.days }}
+      {{ range $schedule.days }}
       <div class="space-y-3">
         <h3 class="font-display text-base text-sage-700 text-center pb-2 border-b border-sage-200">{{ .name }}</h3>
         {{ range .classes }}
@@ -20,7 +21,7 @@
             {{ else if eq .level "Intermediate" }}bg-rose-100 text-rose-700
             {{ else }}bg-sage-100 text-sage-700
             {{ end }}">
-            {{ .level }}
+            {{ i18n .level }}
           </span>
         </div>
         {{ end }}
@@ -30,7 +31,7 @@
 
     <!-- Tablet grid (4 columns) -->
     <div class="hidden md:grid lg:hidden grid-cols-4 gap-3">
-      {{ range .Site.Data.schedule.days }}
+      {{ range $schedule.days }}
       <div class="space-y-3">
         <h3 class="font-display text-base text-sage-700 text-center pb-2 border-b border-sage-200">{{ .name }}</h3>
         {{ range .classes }}
@@ -42,7 +43,7 @@
             {{ else if eq .level "Intermediate" }}bg-rose-100 text-rose-700
             {{ else }}bg-sage-100 text-sage-700
             {{ end }}">
-            {{ .level }}
+            {{ i18n .level }}
           </span>
         </div>
         {{ end }}
@@ -52,7 +53,7 @@
 
     <!-- Mobile list -->
     <div class="md:hidden space-y-6">
-      {{ range .Site.Data.schedule.days }}
+      {{ range $schedule.days }}
       <div>
         <h3 class="font-display text-lg text-sage-700 mb-3 pb-2 border-b border-sage-200">{{ .name }}</h3>
         <div class="space-y-2.5">
@@ -67,7 +68,7 @@
               {{ else if eq .level "Intermediate" }}bg-rose-100 text-rose-700
               {{ else }}bg-sage-100 text-sage-700
               {{ end }}">
-              {{ .level }}
+              {{ i18n .level }}
             </span>
           </div>
           {{ end }}

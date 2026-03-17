@@ -6,7 +6,7 @@ import yaml from 'js-yaml';
 const PROJECT_ROOT = path.resolve(import.meta.dirname, '..');
 
 export const PUBLIC_DIR = path.join(PROJECT_ROOT, 'public');
-export const DATA_DIR = path.join(PROJECT_ROOT, 'data');
+export const DATA_DIR = path.join(PROJECT_ROOT, 'data', 'en');
 export const CONTENT_DIR = path.join(PROJECT_ROOT, 'content');
 
 export function loadHtml(relativePath) {

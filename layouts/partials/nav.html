@@ -1,7 +1,7 @@
 <nav id="site-nav" class="fixed top-0 left-0 right-0 z-50 bg-cream/95 backdrop-blur-sm border-b border-sage-200/60">
   <div class="max-w-6xl mx-auto px-4 md:px-8 flex items-center justify-between h-16 md:h-20">
     <!-- Logo + wordmark -->
-    <a href="/" class="flex items-center gap-2.5 hover:opacity-80">
+    <a href="{{ .Site.Home.RelPermalink }}" class="flex items-center gap-2.5 hover:opacity-80">
       <img src="/images/logo.png" alt="Seed of Yoga logo" class="h-10 md:h-12 w-auto">
       <span class="font-display text-xl md:text-2xl text-sage-700">Seed of Yoga</span>
     </a>
@@ -12,11 +12,40 @@
       <li>
         <a href="{{ .URL }}"
            class="nav-link text-sm font-semibold tracking-wide uppercase text-sage-500 hover:text-sage-700 focus-visible:text-sage-700"
-           {{ if not (hasPrefix .URL "/blog") }}data-section="{{ strings.TrimLeft "#/" .URL }}"{{ end }}>
+           {{ $fragment := "" }}{{ $parts := split .URL "#" }}{{ if gt (len $parts) 1 }}{{ $fragment = index $parts 1 }}{{ end }}{{ if $fragment }}data-section="{{ $fragment }}"{{ end }}>
           {{ .Name }}
         </a>
       </li>
       {{ end }}
+      <!-- Language switcher -->
+      <li class="flex items-center gap-1 text-sm font-semibold tracking-wide uppercase">
+        {{ range .Site.Languages }}
+          {{ $translationURL := "" }}
+          {{ if eq .Lang $.Site.Language.Lang }}
+            {{ $translationURL = $.RelPermalink }}
+          {{ else }}
+            {{ range $.Translations }}
+              {{ if eq .Language.Lang $.Site.Language.Lang }}
+              {{ else }}
+                {{ $translationURL = .RelPermalink }}
+              {{ end }}
+            {{ end }}
+            {{ if not $translationURL }}
+              {{ if eq .Lang "fr" }}
+                {{ $translationURL = "/fr/" }}
+              {{ else }}
+                {{ $translationURL = "/" }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          {{ if eq .Lang $.Site.Language.Lang }}
+            <a href="{{ $translationURL }}" class="text-sage-900">{{ .LanguageName }}</a>
+          {{ else }}
+            <a href="{{ $translationURL }}" class="text-sage-400 hover:text-sage-700">{{ .LanguageName }}</a>
+          {{ end }}
+          {{ if ne .Lang "fr" }}<span class="text-sage-300">|</span>{{ end }}
+        {{ end }}
+      </li>
     </ul>
 
     <!-- Mobile hamburger -->
@@ -34,11 +63,40 @@
       <li>
         <a href="{{ .URL }}"
            class="mobile-nav-link block py-3 px-3 rounded-lg text-sage-700 font-semibold text-base hover:bg-sage-50 hover:text-sage-900"
-           {{ if not (hasPrefix .URL "/blog") }}data-section="{{ strings.TrimLeft "#/" .URL }}"{{ end }}>
+           {{ $fragment := "" }}{{ $parts := split .URL "#" }}{{ if gt (len $parts) 1 }}{{ $fragment = index $parts 1 }}{{ end }}{{ if $fragment }}data-section="{{ $fragment }}"{{ end }}>
           {{ .Name }}
         </a>
       </li>
       {{ end }}
+      <!-- Mobile language switcher -->
+      <li class="flex items-center gap-2 py-3 px-3 text-base font-semibold">
+        {{ range .Site.Languages }}
+          {{ $translationURL := "" }}
+          {{ if eq .Lang $.Site.Language.Lang }}
+            {{ $translationURL = $.RelPermalink }}
+          {{ else }}
+            {{ range $.Translations }}
+              {{ if eq .Language.Lang $.Site.Language.Lang }}
+              {{ else }}
+                {{ $translationURL = .RelPermalink }}
+              {{ end }}
+            {{ end }}
+            {{ if not $translationURL }}
+              {{ if eq .Lang "fr" }}
+                {{ $translationURL = "/fr/" }}
+              {{ else }}
+                {{ $translationURL = "/" }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          {{ if eq .Lang $.Site.Language.Lang }}
+            <a href="{{ $translationURL }}" class="text-sage-900">{{ .LanguageName }}</a>
+          {{ else }}
+            <a href="{{ $translationURL }}" class="text-sage-400 hover:text-sage-700">{{ .LanguageName }}</a>
+          {{ end }}
+          {{ if ne .Lang "fr" }}<span class="text-sage-300">|</span>{{ end }}
+        {{ end }}
+      </li>
     </ul>
   </div>
 </nav>

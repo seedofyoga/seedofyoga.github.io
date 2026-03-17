@@ -1,0 +1,34 @@
+plans:
+  - name: Drop-In
+    price: '$20'
+    period: 'per class'
+    description: 'Perfect for visitors or trying something new'
+    features:
+      - 'Single class access'
+      - 'All class styles welcome'
+      - 'Mat rental included'
+    highlighted: false
+    cta: 'Book a Class'
+
+  - name: Monthly Unlimited
+    price: '$120'
+    period: 'per month'
+    description: 'Your daily practice, fully supported'
+    features:
+      - 'Unlimited classes'
+      - 'Priority booking'
+      - 'Free mat storage'
+      - '10% off workshops'
+    highlighted: true
+    cta: 'Start Membership'
+
+  - name: 10-Class Pack
+    price: '$160'
+    period: 'valid 3 months'
+    description: 'Flexible commitment at a great value'
+    features:
+      - '10 classes to use anytime'
+      - 'All class styles welcome'
+      - 'Shareable with a friend'
+    highlighted: false
+    cta: 'Buy Pack'

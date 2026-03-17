@@ -21,7 +21,7 @@
         {{ end }}
         <div class="p-5">
           <time class="text-sage-400 text-xs font-medium uppercase tracking-wide">
-            {{ .Date.Format "January 2, 2006" }}
+            {{ time.Format ":date_long" .Date }}
           </time>
           <h2 class="font-display text-lg text-sage-900 mt-2 mb-2 group-hover:text-sage-700 leading-snug">
             <a href="{{ .RelPermalink }}" class="after:absolute after:inset-0">

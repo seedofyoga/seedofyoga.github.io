@@ -1,0 +1,73 @@
+# Hero
+- id: view_schedule
+  translation: "Voir les horaires"
+
+# Schedule
+- id: class_schedule
+  translation: "Horaires des cours"
+- id: class_schedule_sub
+  translation: "Trouvez un cours qui s'adapte à votre rythme. Tous niveaux bienvenus."
+
+# Pricing
+- id: pricing
+  translation: "Tarifs"
+- id: pricing_sub
+  translation: "Des tarifs simples et transparents. Sans frais cachés, sans engagement."
+- id: most_popular
+  translation: "Le plus populaire"
+
+# Location
+- id: find_us
+  translation: "Nous trouver"
+- id: find_us_sub
+  translation: "Nous serions ravis de vous accueillir au studio."
+- id: studio_location
+  translation: "Emplacement du studio"
+- id: hours
+  translation: "Horaires"
+- id: getting_here
+  translation: "Comment venir"
+
+# Contact
+- id: get_in_touch
+  translation: "Nous contacter"
+- id: get_in_touch_sub
+  translation: "N'hésitez pas à nous écrire ou nous appeler."
+- id: call_us
+  translation: "Appelez-nous"
+- id: email_us
+  translation: "Écrivez-nous"
+- id: follow_along
+  translation: "Suivez-nous"
+
+# Blog preview
+- id: from_journal
+  translation: "Du journal"
+- id: from_journal_sub
+  translation: "Réflexions sur le yoga, la pleine conscience et l'art de bien vivre."
+- id: view_all_posts
+  translation: "Voir tous les articles"
+
+# Blog single
+- id: back_to_blog
+  translation: "Retour au blog"
+- id: all_posts
+  translation: "Tous les articles"
+
+# Footer
+- id: quick_links
+  translation: "Liens rapides"
+- id: footer_tagline
+  translation: "Cultiver votre pratique, de la graine à l'épanouissement. Un studio de yoga accueillant à Boulder, Colorado."
+- id: all_rights
+  translation: "Tous droits réservés."
+- id: cultivating
+  translation: "Cultiver la communauté, un souffle à la fois."
+
+# Level badges
+- id: All Levels
+  translation: "Tous niveaux"
+- id: Beginner
+  translation: "Débutant"
+- id: Intermediate
+  translation: "Intermédiaire"

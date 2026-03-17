@@ -1,6 +1,7 @@
 baseURL = "https://seedofyoga.com/"
-languageCode = "en-us"
 title = "Seed of Yoga"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 
 [pagination]
   pagerSize = 9
@@ -10,32 +11,65 @@ title = "Seed of Yoga"
     [markup.goldmark.renderer]
       unsafe = true
 
-[params]
-  description = "Nurturing your practice from seed to bloom"
-  tagline = "Nurturing your practice from seed to bloom"
-
-[menu]
-  [[menu.main]]
-    name = "Schedule"
-    url = "/#schedule"
+[languages]
+  [languages.en]
+    languageName = "EN"
     weight = 1
-  [[menu.main]]
-    name = "Pricing"
-    url = "/#pricing"
+    [languages.en.params]
+      description = "Nurturing your practice from seed to bloom"
+      tagline = "Nurturing your practice from seed to bloom"
+    [[languages.en.menu.main]]
+      name = "Schedule"
+      url = "/#schedule"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "Pricing"
+      url = "/#pricing"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/#about"
+      weight = 3
+    [[languages.en.menu.main]]
+      name = "Location"
+      url = "/#location"
+      weight = 4
+    [[languages.en.menu.main]]
+      name = "Blog"
+      url = "/blog/"
+      weight = 5
+    [[languages.en.menu.main]]
+      name = "Contact"
+      url = "/#contact"
+      weight = 6
+
+  [languages.fr]
+    languageName = "FR"
     weight = 2
-  [[menu.main]]
-    name = "About"
-    url = "/#about"
-    weight = 3
-  [[menu.main]]
-    name = "Location"
-    url = "/#location"
-    weight = 4
-  [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
-    weight = 5
-  [[menu.main]]
-    name = "Contact"
-    url = "/#contact"
-    weight = 6
+    [languages.fr.params]
+      description = "Cultiver votre pratique, de la graine à l'épanouissement"
+      tagline = "Cultiver votre pratique, de la graine à l'épanouissement"
+    [[languages.fr.menu.main]]
+      name = "Horaires"
+      url = "/fr/#schedule"
+      weight = 1
+    [[languages.fr.menu.main]]
+      name = "Tarifs"
+      url = "/fr/#pricing"
+      weight = 2
+    [[languages.fr.menu.main]]
+      name = "À propos"
+      url = "/fr/#about"
+      weight = 3
+    [[languages.fr.menu.main]]
+      name = "Accès"
+      url = "/fr/#location"
+      weight = 4
+    [[languages.fr.menu.main]]
+      name = "Blog"
+      url = "/fr/blog/"
+      weight = 5
+    [[languages.fr.menu.main]]
+      name = "Contact"
+      url = "/fr/#contact"
+      weight = 6

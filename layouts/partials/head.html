@@ -92,3 +92,16 @@
     transform: scale(0.98);
   }
 </style>
+
+{{ if and .IsHome (eq .Site.Language.Lang "en") }}
+<script>
+(function(){
+  if (sessionStorage.getItem('lang_redirect')) return;
+  var l = (navigator.language || '').toLowerCase();
+  if (l.startsWith('fr')) {
+    sessionStorage.setItem('lang_redirect','1');
+    window.location.replace('/fr/');
+  }
+})();
+</script>
+{{ end }}
