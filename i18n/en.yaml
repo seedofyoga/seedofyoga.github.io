@@ -1,73 +1,73 @@
 # Hero
 - id: view_schedule
-  translation: "View Class Schedule"
+  translation: 'View Class Schedule'
 
 # Schedule
 - id: class_schedule
-  translation: "Class Schedule"
+  translation: 'Class Schedule'
 - id: class_schedule_sub
-  translation: "Find a class that fits your rhythm. All levels welcome."
+  translation: 'Find a class that fits your rhythm. All levels welcome.'
 
 # Pricing
 - id: pricing
-  translation: "Pricing"
+  translation: 'Pricing'
 - id: pricing_sub
-  translation: "Simple, honest pricing. No hidden fees, no contracts."
+  translation: 'Simple, honest pricing. No hidden fees, no contracts.'
 - id: most_popular
-  translation: "Most Popular"
+  translation: 'Most Popular'
 
 # Location
 - id: find_us
-  translation: "Find Us"
+  translation: 'Find Us'
 - id: find_us_sub
   translation: "We'd love to welcome you to the studio."
 - id: studio_location
-  translation: "Studio Location"
+  translation: 'Studio Location'
 - id: hours
-  translation: "Hours"
+  translation: 'Hours'
 - id: getting_here
-  translation: "Getting Here"
+  translation: 'Getting Here'
 
 # Contact
 - id: get_in_touch
-  translation: "Get in Touch"
+  translation: 'Get in Touch'
 - id: get_in_touch_sub
   translation: "We'd love to hear from you. Reach out anytime."
 - id: call_us
-  translation: "Call Us"
+  translation: 'Call Us'
 - id: email_us
-  translation: "Email Us"
+  translation: 'Email Us'
 - id: follow_along
-  translation: "Follow Along"
+  translation: 'Follow Along'
 
 # Blog preview
 - id: from_journal
-  translation: "From the Journal"
+  translation: 'From the Journal'
 - id: from_journal_sub
-  translation: "Thoughts on yoga, mindfulness, and living well."
+  translation: 'Thoughts on yoga, mindfulness, and living well.'
 - id: view_all_posts
-  translation: "View All Posts"
+  translation: 'View All Posts'
 
 # Blog single
 - id: back_to_blog
-  translation: "Back to Blog"
+  translation: 'Back to Blog'
 - id: all_posts
-  translation: "All Posts"
+  translation: 'All Posts'
 
 # Footer
 - id: quick_links
-  translation: "Quick Links"
+  translation: 'Quick Links'
 - id: footer_tagline
-  translation: "Nurturing your practice from seed to bloom. A welcoming yoga studio in Boulder, Colorado."
+  translation: 'Nurturing your practice from seed to bloom. A welcoming yoga studio in Boulder, Colorado.'
 - id: all_rights
-  translation: "All rights reserved."
+  translation: 'All rights reserved.'
 - id: cultivating
-  translation: "Cultivating community, one breath at a time."
+  translation: 'Cultivating community, one breath at a time.'
 
 # Level badges
 - id: All Levels
-  translation: "All Levels"
+  translation: 'All Levels'
 - id: Beginner
-  translation: "Beginner"
+  translation: 'Beginner'
 - id: Intermediate
-  translation: "Intermediate"
+  translation: 'Intermediate'

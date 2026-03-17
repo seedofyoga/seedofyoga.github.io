@@ -29,6 +29,6 @@ plans:
     features:
       - '10 cours à utiliser à votre rythme'
       - 'Tous les styles de cours'
-      - "Partageable avec un(e) ami(e)"
+      - 'Partageable avec un(e) ami(e)'
     highlighted: false
     cta: 'Acheter le carnet'

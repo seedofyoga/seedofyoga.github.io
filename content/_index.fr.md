@@ -1,3 +1,3 @@
 ---
-title: "Seed of Yoga"
+title: 'Seed of Yoga'
 ---

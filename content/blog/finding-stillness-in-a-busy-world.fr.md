@@ -1,9 +1,9 @@
 ---
-title: "Trouver le calme dans un monde agité"
+title: 'Trouver le calme dans un monde agité'
 date: 2026-03-10
-description: "Comment une simple pratique de respiration de cinq minutes peut transformer votre journée."
-image: "https://placehold.co/800x450/C5CFC0/3A4A33?text=Calme"
-tags: ["pleine conscience", "respiration", "débutant"]
+description: 'Comment une simple pratique de respiration de cinq minutes peut transformer votre journée.'
+image: 'https://placehold.co/800x450/C5CFC0/3A4A33?text=Calme'
+tags: ['pleine conscience', 'respiration', 'débutant']
 ---
 
 Nous vivons dans un monde qui célèbre l'action. Les applications de productivité, la culture du « toujours plus », le défilement sans fin — notre système nerveux a rarement un moment pour simplement _être_.

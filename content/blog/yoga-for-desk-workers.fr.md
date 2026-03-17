@@ -1,9 +1,9 @@
 ---
-title: "Yoga pour les travailleurs de bureau : libérez les tensions"
+title: 'Yoga pour les travailleurs de bureau : libérez les tensions'
 date: 2026-03-03
-description: "Cinq postures qui défont les dégâts de la position assise prolongée — pas besoin de tapis."
-image: "https://placehold.co/800x450/F5E2DE/A0625A?text=Yoga+Bureau"
-tags: ["postures", "bureau", "débutant"]
+description: 'Cinq postures qui défont les dégâts de la position assise prolongée — pas besoin de tapis.'
+image: 'https://placehold.co/800x450/F5E2DE/A0625A?text=Yoga+Bureau'
+tags: ['postures', 'bureau', 'débutant']
 ---
 
 Si vous passez huit heures par jour assis à un bureau, votre corps le sait. Fléchisseurs de hanches tendus, épaules arrondies, nuque raide — le lieu de travail moderne malmène notre corps de manière prévisible.

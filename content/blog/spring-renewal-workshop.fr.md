@@ -1,9 +1,9 @@
 ---
-title: "Renouveau printanier : un atelier de week-end"
+title: 'Renouveau printanier : un atelier de week-end'
 date: 2026-02-25
 description: "Rejoignez-nous pour un week-end spécial de pratique, d'écriture et de partage pour accueillir la nouvelle saison."
-image: "https://placehold.co/800x450/F2E8D5/5E7355?text=Atelier+Printemps"
-tags: ["atelier", "communauté", "saison"]
+image: 'https://placehold.co/800x450/F2E8D5/5E7355?text=Atelier+Printemps'
+tags: ['atelier', 'communauté', 'saison']
 ---
 
 Quand la terre s'éveille après le repos hivernal, c'est un moment naturel pour nous aussi de faire de même. Ce printemps, nous organisons un atelier spécial de week-end conçu pour vous aider à lâcher ce qui ne vous sert plus et à planter des graines pour la saison à venir.
