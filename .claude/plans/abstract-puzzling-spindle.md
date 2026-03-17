@@ -9,11 +9,13 @@ The "closes mobile menu when a nav link is clicked" E2E test passes locally but 
 **File:** `tests/e2e.test.mjs`, line ~74
 
 Replace:
+
 ```js
 const link = await page.$('#mobile-menu a');
 ```
 
 With:
+
 ```js
 const link = await page.waitForSelector('#mobile-menu a', { visible: true });
 ```

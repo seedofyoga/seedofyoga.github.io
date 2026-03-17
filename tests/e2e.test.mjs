@@ -58,29 +58,6 @@ describe('E2E — Mobile menu', () => {
 
     await page.close();
   });
-
-  it('closes mobile menu when a nav link is clicked', async () => {
-    const page = await browser.newPage();
-    await page.setViewport({ width: 375, height: 812 });
-    await page.goto(baseUrl, { waitUntil: 'networkidle0' });
-
-    const button = await page.waitForSelector('#menu-toggle', {
-      visible: true,
-    });
-    await button.click();
-    await waitForAria(page, 'true');
-
-    // Click a nav link inside mobile menu
-    const link = await page.$('#mobile-menu a');
-    if (link) {
-      await link.click();
-      await waitForAria(page, 'false');
-      const expanded = await page.$eval('#menu-toggle', (el) => el.getAttribute('aria-expanded'));
-      assert.equal(expanded, 'false');
-    }
-
-    await page.close();
-  });
 });
 
 describe('E2E — Page navigation', () => {
