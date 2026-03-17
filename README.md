@@ -67,13 +67,13 @@ npm run format         # Auto-fix formatting
 
 ### Running tests
 
-| Script | What it does |
-| --- | --- |
-| `npm test` | Full suite — builds Hugo first, then runs all tests |
-| `npm run test:unit` | Unit tests only (data, frontmatter, server handler) — no Hugo build needed |
-| `npm run test:build` | Build-dependent tests — requires `hugo --minify` first |
-| `npm run test:e2e` | End-to-end Puppeteer tests — builds Hugo first |
-| `npm run test:fast` | All tests without Hugo build (assumes `public/` already exists) |
+| Script               | What it does                                                               |
+| -------------------- | -------------------------------------------------------------------------- |
+| `npm test`           | Full suite — builds Hugo first, then runs all tests                        |
+| `npm run test:unit`  | Unit tests only (data, frontmatter, server handler) — no Hugo build needed |
+| `npm run test:build` | Build-dependent tests — requires `hugo --minify` first                     |
+| `npm run test:e2e`   | End-to-end Puppeteer tests — builds Hugo first                             |
+| `npm run test:fast`  | All tests without Hugo build (assumes `public/` already exists)            |
 
 ### CI
 
@@ -133,4 +133,3 @@ Changes take effect on the next build or live-reload in dev mode.
 Pushes to `main` trigger automatic deployment to GitHub Pages via `.github/workflows/deploy.yml`. A manual trigger is also available through `workflow_dispatch`.
 
 CI runs automatically on pull requests and pushes to `main`. [Dependabot](https://docs.github.com/en/code-security/dependabot) sends weekly PRs for npm and GitHub Actions dependency updates.
-
