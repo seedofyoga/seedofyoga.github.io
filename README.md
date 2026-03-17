@@ -134,6 +134,3 @@ Pushes to `main` trigger automatic deployment to GitHub Pages via `.github/workf
 
 CI runs automatically on pull requests and pushes to `main`. [Dependabot](https://docs.github.com/en/code-security/dependabot) sends weekly PRs for npm and GitHub Actions dependency updates.
 
-## License
-
-ISC
