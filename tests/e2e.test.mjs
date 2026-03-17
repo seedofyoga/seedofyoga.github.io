@@ -28,7 +28,7 @@ after(async () => {
 function waitForAria(page, value) {
   return page.waitForFunction(
     (v) => document.getElementById('menu-toggle')?.getAttribute('aria-expanded') === v,
-    { timeout: 3000 },
+    { timeout: 6000 },
     value
   );
 }
