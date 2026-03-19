@@ -6,7 +6,7 @@
 - id: class_schedule
   translation: 'Horaires des cours'
 - id: class_schedule_sub
-  translation: "Je propose des cours de yoga de 60 minutes en français et en anglais, ouverts à tous les niveaux."
+  translation: 'Je propose des cours de yoga de 60 minutes en français et en anglais, ouverts à tous les niveaux.'
 - id: schedule_coming_soon
   translation: 'Bientôt disponible'
 - id: schedule_coming_soon_sub
@@ -62,11 +62,11 @@
 - id: quick_links
   translation: 'Liens rapides'
 - id: footer_tagline
-  translation: "Cultiver votre pratique, de la graine à l'épanouissement."
+  translation: 'Cours de yoga sur Narbonne.'
 - id: all_rights
   translation: 'Tous droits réservés.'
 - id: cultivating
-  translation: 'Cultiver la communauté, un souffle à la fois.'
+  translation: "Cultiver votre pratique, de la graine à l'épanouissement."
 
 # Level badges
 - id: All Levels

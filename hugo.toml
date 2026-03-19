@@ -18,8 +18,8 @@ defaultContentLanguageInSubdir = false
     languageName = "EN"
     weight = 1
     [languages.en.params]
-      description = "Nurturing your practice from seed to bloom"
-      tagline = "Nurturing your practice from seed to bloom"
+      description = "Yoga classes in Narbonne"
+      tagline = "Yoga classes in Narbonne"
     [[languages.en.menu.main]]
       name = "Schedule"
       url = "/#schedule"
@@ -49,8 +49,8 @@ defaultContentLanguageInSubdir = false
     languageName = "FR"
     weight = 2
     [languages.fr.params]
-      description = "Cultiver votre pratique, de la graine à l'épanouissement"
-      tagline = "Cultiver votre pratique, de la graine à l'épanouissement"
+      description = "Cours de yoga sur Narbonne"
+      tagline = "Cours de yoga sur Narbonne"
     [[languages.fr.menu.main]]
       name = "Horaires"
       url = "/fr/#schedule"

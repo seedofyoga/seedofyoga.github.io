@@ -1,4 +1,4 @@
 ---
 title: 'Seed of Yoga'
-description: 'Nurturing your practice from seed to bloom'
+description: 'Yoga classes in Narbonne'
 ---

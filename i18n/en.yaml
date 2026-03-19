@@ -36,7 +36,7 @@
 - id: get_in_touch
   translation: 'Get in Touch'
 - id: get_in_touch_sub
-  translation: "Please get in touch to book a class or ask any questions."
+  translation: 'Please get in touch to book a class or ask any questions.'
 - id: call_us
   translation: 'Phone'
 - id: email_us
@@ -62,11 +62,11 @@
 - id: quick_links
   translation: 'Quick Links'
 - id: footer_tagline
-  translation: 'Nurturing your practice from seed to bloom.'
+  translation: 'Yoga classes in Narbonne.'
 - id: all_rights
   translation: 'All rights reserved.'
 - id: cultivating
-  translation: 'Cultivating community, one breath at a time.'
+  translation: 'Cultivating your practice, from seed to bloom.'
 
 # Level badges
 - id: All Levels
