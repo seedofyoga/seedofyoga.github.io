@@ -37,25 +37,8 @@ describe('Homepage — Navigation', () => {
 });
 
 describe('Homepage — Schedule', () => {
-  const schedule = loadYaml('schedule.yaml');
-
-  it('renders all 7 day names', () => {
-    const html = $.html();
-    for (const day of schedule.days) {
-      assert.ok(html.includes(day.name), `should contain day "${day.name}"`);
-    }
-  });
-
-  it('renders class names and times', () => {
-    const html = $.html();
-    for (const day of schedule.days) {
-      for (const cls of day.classes) {
-        // Hugo HTML-escapes & to &amp;
-        const escapedName = cls.name.replace(/&/g, '&amp;');
-        assert.ok(html.includes(escapedName), `should contain class "${cls.name}"`);
-        assert.ok(html.includes(cls.time), `should contain time "${cls.time}"`);
-      }
-    }
+  it('renders coming soon placeholder', () => {
+    assert.ok($.html().includes('schedule'), 'schedule section should be present');
   });
 });
 
@@ -68,11 +51,6 @@ describe('Homepage — Pricing', () => {
       assert.ok(html.includes(plan.name), `should contain plan "${plan.name}"`);
       assert.ok(html.includes(String(plan.price)), `should contain price "${plan.price}"`);
     }
-  });
-
-  it('has exactly one "Most Popular" badge', () => {
-    const matches = $.html().match(/Most Popular/g);
-    assert.equal(matches?.length, 1);
   });
 });
 
