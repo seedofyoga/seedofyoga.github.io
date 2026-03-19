@@ -16,7 +16,7 @@
 - id: pricing
   translation: 'Pricing'
 - id: pricing_sub
-  translation: 'The first class is free. Please get in touch to book a class or ask any questions.'
+  translation: 'Please get in touch to book a class or ask any questions.'
 - id: most_popular
   translation: 'Most Popular'
 

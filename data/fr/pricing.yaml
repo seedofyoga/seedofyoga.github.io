@@ -2,10 +2,11 @@ plans:
   - name: À l'unité
     price: '15€'
     period: 'par cours'
-    description: 'Idéal pour les visiteurs ou pour découvrir'
+    description: 'Pour les visiteurs ou pour découvrir'
     features:
       - 'Accès à un cours'
-      - 'Tous les styles de cours et niveaux'
+      - 'Premier cours gratuit'
+      - 'Tous styles de cours et niveaux'
     highlighted: false
     cta: 'Réserver un cours'
 
@@ -15,7 +16,7 @@ plans:
     description: 'Pour un engagement flexible'
     features:
       - '10 cours à utiliser à votre rythme'
-      - 'Tous les styles de cours et niveaux'
+      - 'Tous styles de cours et niveaux'
     highlighted: false
     cta: 'Acheter le carnet'
 
@@ -25,6 +26,6 @@ plans:
     description: 'Pour une pratique quotidienne'
     features:
       - 'Cours illimités'
-      - 'Tous les styles de cours et niveaux'
+      - 'Tous styles de cours et niveaux'
     highlighted: true
     cta: "S'abonner"

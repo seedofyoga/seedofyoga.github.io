@@ -5,6 +5,7 @@ plans:
     description: 'Perfect for visitors or trying something new'
     features:
       - 'Single class'
+      - 'First class is free'
       - 'All class styles and levels'
     highlighted: false
     cta: 'Book a Class'

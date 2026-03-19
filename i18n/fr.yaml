@@ -16,7 +16,7 @@
 - id: pricing
   translation: 'Tarifs'
 - id: pricing_sub
-  translation: "Le premier cours est gratuit. N'hésitez pas à me contacter pour réserver un cours ou poser des questions."
+  translation: "N'hésitez pas à me contacter pour réserver un cours ou poser des questions."
 - id: most_popular
   translation: 'Le plus populaire'
 
