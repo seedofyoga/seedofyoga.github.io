@@ -6,21 +6,21 @@
 - id: class_schedule
   translation: 'Horaires des cours'
 - id: class_schedule_sub
-  translation: "Trouvez un cours qui s'adapte à votre rythme. Tous niveaux bienvenus."
+  translation: "Je propose des cours de yoga de 60 minutes en français et en anglais, ouverts à tous les niveaux."
 
 # Pricing
 - id: pricing
   translation: 'Tarifs'
 - id: pricing_sub
-  translation: 'Des tarifs simples et transparents. Sans frais cachés, sans engagement.'
+  translation: "Le premier cours est gratuit. N'hésitez pas à me contacter pour réserver un cours ou poser des questions."
 - id: most_popular
   translation: 'Le plus populaire'
 
 # Location
 - id: find_us
-  translation: 'Nous trouver'
+  translation: 'Emplacement'
 - id: find_us_sub
-  translation: 'Nous serions ravis de vous accueillir au studio.'
+  translation: 'Vous êtes les bienvenus au studio.'
 - id: studio_location
   translation: 'Emplacement du studio'
 - id: hours
@@ -32,19 +32,19 @@
 - id: get_in_touch
   translation: 'Nous contacter'
 - id: get_in_touch_sub
-  translation: "N'hésitez pas à nous écrire ou nous appeler."
+  translation: "N'hésitez pas à me contacter pour réserver un cours ou poser des questions."
 - id: call_us
-  translation: 'Appelez-nous'
+  translation: 'Téléphone'
 - id: email_us
-  translation: 'Écrivez-nous'
+  translation: 'Email'
 - id: follow_along
-  translation: 'Suivez-nous'
+  translation: 'Réseaux sociaux'
 
 # Blog preview
 - id: from_journal
-  translation: 'Du journal'
+  translation: 'Blog'
 - id: from_journal_sub
-  translation: "Réflexions sur le yoga, la pleine conscience et l'art de bien vivre."
+  translation: "Quelques réflexions sur le yoga, la pleine conscience et l'art de bien vivre."
 - id: view_all_posts
   translation: 'Voir tous les articles'
 
@@ -58,7 +58,7 @@
 - id: quick_links
   translation: 'Liens rapides'
 - id: footer_tagline
-  translation: "Cultiver votre pratique, de la graine à l'épanouissement. Un studio de yoga accueillant à Boulder, Colorado."
+  translation: "Cultiver votre pratique, de la graine à l'épanouissement."
 - id: all_rights
   translation: 'Tous droits réservés.'
 - id: cultivating

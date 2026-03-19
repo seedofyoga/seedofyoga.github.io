@@ -6,21 +6,21 @@
 - id: class_schedule
   translation: 'Class Schedule'
 - id: class_schedule_sub
-  translation: 'Find a class that fits your rhythm. All levels welcome.'
+  translation: 'I offer 60-minute yoga classes in French and English, open to all levels.'
 
 # Pricing
 - id: pricing
   translation: 'Pricing'
 - id: pricing_sub
-  translation: 'Simple, honest pricing. No hidden fees, no contracts.'
+  translation: 'The first class is free. Please get in touch to book a class or ask any questions.'
 - id: most_popular
   translation: 'Most Popular'
 
 # Location
 - id: find_us
-  translation: 'Find Us'
+  translation: 'Location'
 - id: find_us_sub
-  translation: "We'd love to welcome you to the studio."
+  translation: "You're very welcome to the studio."
 - id: studio_location
   translation: 'Studio Location'
 - id: hours
@@ -32,19 +32,19 @@
 - id: get_in_touch
   translation: 'Get in Touch'
 - id: get_in_touch_sub
-  translation: "We'd love to hear from you. Reach out anytime."
+  translation: "Please get in touch to book a class or ask any questions."
 - id: call_us
-  translation: 'Call Us'
+  translation: 'Phone'
 - id: email_us
-  translation: 'Email Us'
+  translation: 'Email'
 - id: follow_along
-  translation: 'Follow Along'
+  translation: 'Social Media'
 
 # Blog preview
 - id: from_journal
-  translation: 'From the Journal'
+  translation: 'Blog'
 - id: from_journal_sub
-  translation: 'Thoughts on yoga, mindfulness, and living well.'
+  translation: 'Some thoughts on yoga, mindfulness, and living well.'
 - id: view_all_posts
   translation: 'View All Posts'
 
@@ -58,7 +58,7 @@
 - id: quick_links
   translation: 'Quick Links'
 - id: footer_tagline
-  translation: 'Nurturing your practice from seed to bloom. A welcoming yoga studio in Boulder, Colorado.'
+  translation: 'Nurturing your practice from seed to bloom.'
 - id: all_rights
   translation: 'All rights reserved.'
 - id: cultivating
