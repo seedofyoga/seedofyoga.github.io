@@ -7,6 +7,10 @@
   translation: 'Horaires des cours'
 - id: class_schedule_sub
   translation: "Je propose des cours de yoga de 60 minutes en français et en anglais, ouverts à tous les niveaux."
+- id: schedule_coming_soon
+  translation: 'Bientôt disponible'
+- id: schedule_coming_soon_sub
+  translation: 'Les cours seront annoncés prochainement. Revenez bientôt ou contactez-moi.'
 
 # Pricing
 - id: pricing
@@ -18,11 +22,11 @@
 
 # Location
 - id: find_us
-  translation: 'Emplacement'
+  translation: 'Adresse'
 - id: find_us_sub
   translation: 'Vous êtes les bienvenus au studio.'
 - id: studio_location
-  translation: 'Emplacement du studio'
+  translation: 'Adresse du studio'
 - id: hours
   translation: 'Horaires'
 - id: getting_here

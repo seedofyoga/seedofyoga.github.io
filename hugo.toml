@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
       url = "/fr/#about"
       weight = 3
     [[languages.fr.menu.main]]
-      name = "Accès"
+      name = "Adresse"
       url = "/fr/#location"
       weight = 4
     [[languages.fr.menu.main]]
