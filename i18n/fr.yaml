@@ -34,7 +34,7 @@
 
 # Contact
 - id: get_in_touch
-  translation: 'Nous contacter'
+  translation: 'Me contacter'
 - id: get_in_touch_sub
   translation: "N'hésitez pas à me contacter pour réserver un cours ou poser des questions."
 - id: call_us
