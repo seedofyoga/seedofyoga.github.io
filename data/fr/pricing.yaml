@@ -1,34 +1,30 @@
 plans:
   - name: À l'unité
-    price: '$20'
+    price: '15€'
     period: 'par cours'
     description: 'Idéal pour les visiteurs ou pour découvrir'
     features:
       - 'Accès à un cours'
-      - 'Tous les styles de cours'
-      - 'Tapis fourni'
+      - 'Tous les styles de cours et niveaux'
     highlighted: false
     cta: 'Réserver un cours'
 
-  - name: Abonnement mensuel
-    price: '$120'
-    period: 'par mois'
-    description: 'Votre pratique quotidienne, pleinement accompagnée'
-    features:
-      - 'Cours illimités'
-      - 'Réservation prioritaire'
-      - 'Rangement tapis gratuit'
-      - '-10 % sur les ateliers'
-    highlighted: true
-    cta: "S'abonner"
-
   - name: Carnet de 10 cours
-    price: '$160'
+    price: '120€'
     period: 'valable 3 mois'
-    description: 'Un engagement flexible à un excellent tarif'
+    description: 'Pour un engagement flexible'
     features:
       - '10 cours à utiliser à votre rythme'
-      - 'Tous les styles de cours'
-      - 'Partageable avec un(e) ami(e)'
+      - 'Tous les styles de cours et niveaux'
     highlighted: false
     cta: 'Acheter le carnet'
+
+  - name: Abonnement mensuel
+    price: '80€'
+    period: 'par mois'
+    description: 'Pour une pratique quotidienne'
+    features:
+      - 'Cours illimités'
+      - 'Tous les styles de cours et niveaux'
+    highlighted: true
+    cta: "S'abonner"

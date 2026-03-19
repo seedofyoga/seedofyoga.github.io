@@ -1,12 +1,11 @@
-name: 'Sarah Mitchell'
-title: 'Founder & Lead Instructor'
+name: 'Pierre'
+title: 'Founder & Yoga instructor'
 photo: 'https://placehold.co/600x750/C5CFC0/3A4A33?text=Sarah'
 certifications:
-  - 'E-RYT 500'
-  - 'YACEP'
-  - 'Prenatal Certified'
-  - 'Meditation Teacher'
-quote: "Yoga is not about touching your toes — it's about what you learn on the way down."
+  - 'RYS 200 - SoShanti Yoga School'
+  - 'Immersion Course - Himalayan Iyengar Yoga Centre'
+  - 'Vipassana Meditation Practitioner'
+# quote: "Yoga is not about touching your toes — it's about what you learn on the way down."
 bio: |
   With over 15 years of dedicated practice and teaching, Sarah founded Seed of Yoga
   with a simple belief: that every person carries within them the seed of transformation.
