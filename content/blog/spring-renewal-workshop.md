@@ -35,4 +35,4 @@ This workshop is open to all levels. Whether you've been practicing for years or
 
 Space is limited to 20 participants to keep the experience intimate.
 
-_Register by emailing hello@seedofyoga.com or dropping by the studio._
+_Register by emailing pierre@seedofyoga.com or dropping by the studio._

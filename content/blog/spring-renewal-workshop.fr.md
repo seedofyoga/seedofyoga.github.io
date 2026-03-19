@@ -35,4 +35,4 @@ Cet atelier est ouvert à tous les niveaux. Que vous pratiquiez depuis des anné
 
 Les places sont limitées à 20 participants pour préserver l'intimité de l'expérience.
 
-_Inscrivez-vous en écrivant à hello@seedofyoga.com ou en passant au studio._
+_Inscrivez-vous en écrivant à pierre@seedofyoga.com ou en passant au studio._

@@ -3,7 +3,7 @@
 ![CI](https://github.com/seedofyoga/seedofyoga.github.io/actions/workflows/ci.yml/badge.svg)
 ![Deploy](https://github.com/seedofyoga/seedofyoga.github.io/actions/workflows/deploy.yml/badge.svg)
 
-A single-page landing site with blog for a yoga studio in Boulder, CO.
+A single-page landing site with blog for a yoga studio.
 Built with Hugo and styled with Tailwind CSS, the site is fully data-driven — class schedules, pricing plans, instructor bio, and contact details all live in simple YAML files.
 Deployed automatically to GitHub Pages on every push.
 
