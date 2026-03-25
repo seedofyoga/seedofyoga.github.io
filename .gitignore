@@ -12,3 +12,6 @@ Thumbs.db
 
 # Temporary
 temporary screenshots/
+
+# Claude
+.claude/
