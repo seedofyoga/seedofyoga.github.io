@@ -10,15 +10,15 @@ La plupart d'entre nous découvrons le yoga par une seule porte — un cours, un
 
 ## 1. Les styles de yoga traditionnels et classiques
 
-Ces styles s'enracinent dans la tradition classique du yoga. La plupart remontent à des enseignants ou à des textes précis, et ils considèrent la pratique physique (*asana*, posture) comme une partie d'un chemin plus vaste de transformation intérieure — et non comme une fin en soi.
+Ces styles s'enracinent dans la tradition classique du yoga. La plupart remontent à des enseignants ou à des textes précis, et ils considèrent la pratique physique (_asana_, posture) comme une partie d'un chemin plus vaste de transformation intérieure — et non comme une fin en soi.
 
 ### Hatha Yoga
 
-*Hatha* est le tronc commun dont descend la plupart du yoga physique. En sanskrit, *ha* désigne le soleil et *tha* la lune — l'union des forces opposées. En pratique, un cours de Hatha se déroule à un rythme modéré, en maintenant les postures assez longtemps pour en comprendre l'alignement et en ressentir l'effet. Pour ceux qui débutent le yoga, le Hatha est souvent le point d'entrée le plus accessible.
+_Hatha_ est le tronc commun dont descend la plupart du yoga physique. En sanskrit, _ha_ désigne le soleil et _tha_ la lune — l'union des forces opposées. En pratique, un cours de Hatha se déroule à un rythme modéré, en maintenant les postures assez longtemps pour en comprendre l'alignement et en ressentir l'effet. Pour ceux qui débutent le yoga, le Hatha est souvent le point d'entrée le plus accessible.
 
 ### Ashtanga Yoga
 
-L'Ashtanga a été systématisé par Sri K. Pattabhi Jois à Mysore, en Inde, à partir d'enseignements anciens. Il suit une série fixe de postures, reliées par le souffle et le mouvement — une méthode appelée *vinyasa* (mouvement synchronisé avec la respiration). La pratique est physiquement exigeante et très structurée : on apprend la même série à chaque séance, en progressant à son propre rythme. Beaucoup de pratiquants expérimentés y trouvent une méditation en mouvement.
+L'Ashtanga a été systématisé par Sri K. Pattabhi Jois à Mysore, en Inde, à partir d'enseignements anciens. Il suit une série fixe de postures, reliées par le souffle et le mouvement — une méthode appelée _vinyasa_ (mouvement synchronisé avec la respiration). La pratique est physiquement exigeante et très structurée : on apprend la même série à chaque séance, en progressant à son propre rythme. Beaucoup de pratiquants expérimentés y trouvent une méditation en mouvement.
 
 ### Iyengar Yoga
 
@@ -26,11 +26,11 @@ Développé par B.K.S. Iyengar, ce style se distingue par son attention à l'ali
 
 ### Kundalini Yoga
 
-Le Kundalini appartient à la tradition tantrique. Le mot *kundalini* désigne une forme d'énergie latente — souvent décrite comme lovée à la base de la colonne vertébrale — que cette pratique vise à éveiller et à faire remonter dans le corps. Les cours comprennent généralement du travail sur le souffle (*pranayama*), des mantras, des *mudra* (gestes des mains) et des séquences appelées *kriyas* (combinaisons précises de mouvement, de souffle et de son). L'expérience est souvent plus intérieure — et parfois intense — qu'un cours de yoga physique classique.
+Le Kundalini appartient à la tradition tantrique. Le mot _kundalini_ désigne une forme d'énergie latente — souvent décrite comme lovée à la base de la colonne vertébrale — que cette pratique vise à éveiller et à faire remonter dans le corps. Les cours comprennent généralement du travail sur le souffle (_pranayama_), des mantras, des _mudra_ (gestes des mains) et des séquences appelées _kriyas_ (combinaisons précises de mouvement, de souffle et de son). L'expérience est souvent plus intérieure — et parfois intense — qu'un cours de yoga physique classique.
 
 ### Sivananda Yoga
 
-Le système Sivananda a été développé par Swami Vishnudevananda, disciple de Swami Sivananda, dans les années 1960. Il repose sur cinq points : l'exercice correct (*asana*), la respiration correcte (*pranayama*), la relaxation correcte (*savasana*, la posture de repos final), une alimentation saine, et la méditation. Les mêmes 12 postures de base sont pratiquées à chaque cours, ce qui en fait l'une des approches les plus cohérentes et les plus structurées du yoga.
+Le système Sivananda a été développé par Swami Vishnudevananda, disciple de Swami Sivananda, dans les années 1960. Il repose sur cinq points : l'exercice correct (_asana_), la respiration correcte (_pranayama_), la relaxation correcte (_savasana_, la posture de repos final), une alimentation saine, et la méditation. Les mêmes 12 postures de base sont pratiquées à chaque cours, ce qui en fait l'une des approches les plus cohérentes et les plus structurées du yoga.
 
 ## 2. Les styles de yoga modernes
 
@@ -58,7 +58,7 @@ Le Yoga Restauratif utilise des accessoires — bolsters, couvertures, blocs —
 
 ### Jivamukti Yoga
 
-Fondé à New York en 1984 par Sharon Gannon et David Life, le Jivamukti tire son nom du sanskrit *jivamuktih* — la libération de son vivant. Les cours sont physiquement intenses (de style Vinyasa) et entremêlés de chants, de lectures de textes sacrés, de musique, et d'une forte dimension éthique, incluant le respect des animaux et la conscience environnementale. C'est le yoga compris comme pratique spirituelle, et pas seulement comme pratique physique.
+Fondé à New York en 1984 par Sharon Gannon et David Life, le Jivamukti tire son nom du sanskrit _jivamuktih_ — la libération de son vivant. Les cours sont physiquement intenses (de style Vinyasa) et entremêlés de chants, de lectures de textes sacrés, de musique, et d'une forte dimension éthique, incluant le respect des animaux et la conscience environnementale. C'est le yoga compris comme pratique spirituelle, et pas seulement comme pratique physique.
 
 ### Anusara Yoga
 
