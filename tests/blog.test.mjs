@@ -5,12 +5,12 @@ import { loadHtml } from './helpers.mjs';
 describe('Blog list page', () => {
   const $ = loadHtml('blog/index.html');
 
-  it('renders all 3 blog posts', () => {
+  it('renders all 2 blog posts', () => {
     const articles = $('article');
-    assert.equal(articles.length, 3);
+    assert.equal(articles.length, 2);
   });
 
-  for (const title of ['Finding Stillness in a Busy World', 'Spring Renewal', 'Yoga for Desk Workers']) {
+  for (const title of ['Title sample', 'The Many Faces of Yoga: A Guide to the Main Styles']) {
     it(`shows post "${title}"`, () => {
       assert.ok($.html().includes(title));
     });
@@ -18,17 +18,17 @@ describe('Blog list page', () => {
 });
 
 describe('Blog single post', () => {
-  const $ = loadHtml('blog/finding-stillness-in-a-busy-world/index.html');
+  const $ = loadHtml('blog/yoga-styles/index.html');
 
   it('has title in h1', () => {
     const h1 = $('h1');
-    assert.ok(h1.text().includes('Finding Stillness'));
+    assert.ok(h1.text().includes('Many Faces of Yoga'));
   });
 
   it('renders tags', () => {
     const html = $.html().toLowerCase();
-    assert.ok(html.includes('mindfulness'));
-    assert.ok(html.includes('breathing'));
+    assert.ok(html.includes('yoga styles'));
+    assert.ok(html.includes('hatha'));
   });
 
   it('has "Back to Blog" link', () => {

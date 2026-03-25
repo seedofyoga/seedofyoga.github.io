@@ -77,7 +77,7 @@ describe('Homepage — Blog Preview', () => {
   it('shows exactly 3 blog preview cards', () => {
     const section = $("#blog-preview, section:has(a[href='/blog/'])");
     const articles = section.find('article');
-    assert.equal(articles.length, 3);
+    assert.equal(articles.length, 2);
   });
 
   it('has "View All Posts" link', () => {

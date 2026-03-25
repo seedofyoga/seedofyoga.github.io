@@ -3,7 +3,7 @@ title: 'Les nombreux visages du yoga : un guide des principaux styles'
 date: 2026-03-25
 description: "Du Hatha ancien à l'AcroYoga contemporain — un tour d'horizon des principaux styles de yoga, de ce qui les distingue, et comment trouver celui qui vous correspond."
 image: 'static/images/yoga-styles.png'
-tags: ['styles de yoga', 'hatha', 'ashtanga', 'vinyasa', 'débutants']
+tags: ['styles de yoga', 'hatha', 'ashtanga', 'vinyasa']
 ---
 
 La plupart d'entre nous découvrons le yoga par une seule porte — un cours, une recommandation, un moment de curiosité. Ce que beaucoup réalisent ensuite, cependant, c'est que « le yoga » n'est pas une pratique unique. C'est une famille de disciplines aux racines différentes, aux intentions différentes, et à des rapports très différents au corps et à l'esprit. Dans cet article, nous explorerons les principaux styles de yoga : d'où chacun vient, ce qui le distingue, et à qui il convient le mieux.

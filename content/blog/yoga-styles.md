@@ -3,7 +3,7 @@ title: 'The Many Faces of Yoga: A Guide to the Main Styles'
 date: 2026-03-25
 description: 'From ancient Hatha to modern AcroYoga — an overview of the main yoga styles, what makes each one distinct, and how to find your path.'
 image: '/images/yoga-styles-thumbnail.png'
-tags: ['yoga styles', 'hatha', 'ashtanga', 'vinyasa', 'beginners']
+tags: ['yoga styles', 'hatha', 'ashtanga', 'vinyasa']
 ---
 
 Most of us come to yoga through a single door — a class, a recommendation, a moment of curiosity. What many discover, however, is that "yoga" is not one thing. It is a family of practices with different roots, different purposes, and different relationships to the body and the mind. In this article, we will explore the main yoga styles: where each one comes from, what makes it distinct, and who it tends to suit.
