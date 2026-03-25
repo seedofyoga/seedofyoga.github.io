@@ -2,7 +2,7 @@
 title: 'The Many Faces of Yoga: A Guide to the Main Styles'
 date: 2026-03-25
 description: 'From ancient Hatha to modern AcroYoga — an overview of the main yoga styles, what makes each one distinct, and how to find your path.'
-image: 'https://placehold.co/800x450/E8F0E8/4A7A5A?text=Yoga+Styles'
+image: '/images/yoga-styles-thumbnail.png'
 tags: ['yoga styles', 'hatha', 'ashtanga', 'vinyasa', 'beginners']
 ---
 
@@ -13,6 +13,8 @@ Most of us come to yoga through a single door — a class, a recommendation, a m
 These styles have roots in the classical yoga tradition. Most trace back to specific teachers or texts, and they tend to treat physical practice (*asana*, posture) as one part of a broader path of self-transformation — not an end in itself.
 
 ### Hatha Yoga
+
+![hatha yoga](/images/yoga-styles-hatha.png)
 
 *Hatha* is the umbrella from which most physical yoga descends. In Sanskrit, *ha* means sun and *tha* means moon — the union of opposing forces. In practice, a Hatha class tends to move at a moderate pace, holding postures long enough to understand their alignment and feel their effect. For those new to yoga, Hatha is often the most accessible starting point.
 
@@ -49,6 +51,8 @@ Power Yoga developed in the United States in the 1990s as a more athletic, acces
 Bikram Yoga, founded by Bikram Choudhury, consists of a fixed sequence of 26 postures and 2 breathing exercises practiced in a room heated to approximately 40°C. Proponents say the heat allows deeper stretching and helps flush out toxins. It is a very specific practice — you will know exactly what to expect each session.
 
 ### Yin Yoga
+
+![hatha yoga](/images/yoga-styles-yin.png)
 
 In contrast to the active styles, Yin Yoga asks you to hold passive postures for three to five minutes — sometimes longer. The aim is to work into the deeper connective tissues (fascia, ligaments, joints) rather than the muscles. Yin is meditative by nature: holding stillness long enough that the mind, not just the body, is asked to soften and let go.
 

@@ -217,3 +217,128 @@ Most people who try yoga have tried one style.
 There are 14. Hatha and Yin and Restorative and Kundalini and Ashtanga are not the same practice — they just share a name.
 
 A guide to the main styles, what makes each distinct, and how to find the one that suits you: [link]
+
+
+# AI Image generation prompts
+
+
+---                                                                              
+  Main Thumbnail — 800×450
+                                                                                   
+  ▎ Studio Ghibli-style hand-drawn illustration, wide landscape composition. A 
+  serene wooden yoga studio with high ceilings and large open windows overlooking a
+   lush green garden. Several rolled yoga mats rest against the wall in sage green,
+   dusty rose, and cream tones. Morning light floods the room in warm gold, casting
+   long soft shadows across the wooden floor. A single small potted plant sits on 
+  the windowsill. The garden outside is full of gently swaying leaves. No people.
+  Rich background detail in the Ghibli tradition — warm, painterly, lush, and
+  quietly alive. Color palette: sage green, warm cream, muted gold, soft amber.
+  Aspect ratio 16:9, no text.
+
+  ---
+  Image 1 — Hatha Yoga
+                      
+  ▎ Studio Ghibli-style hand-drawn illustration. A young woman sitting cross-legged
+   on a cream yoga mat in a cozy wooden room, hands resting gently on her knees,   
+  eyes softly closed. Warm morning light filters through paper-screen windows 
+  behind her, haloing her figure in pale gold. A small green plant and a clay cup  
+  of tea sit beside the mat. The floorboards are warm amber. Outside the window, a 
+  lush garden is visible in soft focus. Peaceful, grounded, accessible mood.
+  Painterly Ghibli brushwork with rich background detail. Palette: warm cream, sage
+   green, amber, soft rose. No text.
+
+  ---
+  Image 2 — Yin Yoga
+                    
+  ▎ Studio Ghibli-style hand-drawn illustration. A young woman lying in a deeply 
+  supported reclined pose, spine over a large cream bolster, knees falling open,   
+  arms resting wide. Eyes closed, face completely at rest. Soft blankets in cream 
+  and sage tones are folded beside her. The room is dim and warm — a single paper  
+  lantern glows gently in the corner. Through a low open window, a moonlit garden 
+  is faintly visible. Dust motes float in the still air. The mood is one of
+  complete surrender and quiet. Painterly Ghibli style, soft and nocturnal palette:
+   deep cream, muted sage, warm gold lantern light, soft shadow blues. No text.
+
+  ---
+  Image 3 — Vinyasa / Flow Yoga
+                               
+  ▎ Studio Ghibli-style hand-drawn illustration. A young woman in Warrior II 
+  posture on a sage green mat, arms stretched wide, gaze forward, long hair swept  
+  back as if caught in a breeze. She is practicing outdoors on a wooden deck 
+  surrounded by tall grass and wildflowers swaying in the wind. The sky behind her 
+  is a soft watercolor blue with drifting clouds. Golden afternoon light catches 
+  the movement of the fabric of her clothes. The scene feels alive — wind, breath,
+  and movement all present at once. Dynamic yet serene, full of natural energy.
+  Painterly Ghibli brushwork, lush outdoor setting. Palette: sage green, sky blue,
+  warm gold, cream. No text.
+
+  ---
+  Image 4 — Aerial Yoga
+                       
+  ▎ Studio Ghibli-style hand-drawn illustration. A young woman cocooned in a 
+  flowing cream fabric hammock suspended high inside a sunlit wooden dojo, doing a 
+  peaceful backbend inversion, arms open wide, long hair hanging down. Golden 
+  afternoon light streams through tall paper-screen windows, casting soft warm rays
+   and floating dust particles across the scene. The hammock fabric billows gently 
+  as if caught in a slow breeze. Small green potted plants line the windowsill. The
+   wooden floor below glows with warm amber light. Soft painterly brushwork, lush
+  background detail. Palette: warm cream, sage green, muted gold, gentle rose.
+  Dreamy and serene, quiet magic. No text.
+
+
+OLD :
+
+
+---                                                                              
+  Main Thumbnail — 800×450
+                                                                                   
+  ▎ A wide landscape photograph of several yoga mats arranged side by side on a  
+  warm wooden floor, each mat a different subtle color (sage green, dusty rose,    
+  cream, warm tan), shot from a low angle with soft morning light streaming in from
+   the left. A rolled mat, a wooden block, and a folded blanket rest on the nearest
+   mat. No people. Calm, spacious, inviting. Palette: sage green, cream, warm 
+  neutrals. Style: natural light photography, minimalist, editorial. Aspect ratio
+  16:9.
+
+  ---
+  Image 1 — Hatha Yoga (Traditional styles section)
+                                                                                   
+  ▎ A person sitting in a simple cross-legged meditation pose on a cream yoga mat, 
+  hands resting on knees in gyan mudra. Shot from slightly above and to the side,  
+  full body visible. Natural window light from the right creating a soft shadow. 
+  Background: plain cream wall, one potted green plant partially in frame. Calm and
+   grounded mood. Palette: cream, sage green, warm skin tones. Style: natural light
+   photography, quiet and accessible, no props visible except the mat.
+
+  ---
+  Image 2 — Yin Yoga (Stillness & connective tissue)
+                                                    
+  ▎ A person lying in supported reclined butterfly pose (supta baddha konasana), a 
+  large cream bolster under the spine, folded blankets under each knee, arms open  
+  at the sides. Eyes closed, face relaxed. Shot from slightly above, full body in 
+  frame, horizontal composition. Soft, diffuse light, no harsh shadows. Props in   
+  warm cream and sage tones. Mood: deep rest, surrender, stillness. Style: natural 
+  light photography, meditative and quiet.
+
+  ---
+  Image 3 — Vinyasa / Flow Yoga (Modern styles section)
+                                                                                   
+  ▎ A person in Warrior II posture (Virabhadrasana II) on a sage green yoga mat, 
+  arms extended wide, gaze forward, back leg strong. Shot at eye level from the    
+  front-side angle to show the full extension of the arms and the open chest. 
+  Bright natural light, airy studio with light wood floors and cream walls. Sense  
+  of fluid movement and breath. Palette: sage green, cream, warm neutrals. Style: 
+  natural light photography, dynamic but not aggressive, focused and alive.
+
+  ---
+  Image 4 — Aerial Yoga (Contemporary styles section)
+                                                     
+  ▎ A person cocooned in a soft cream fabric yoga hammock suspended from the 
+  ceiling, doing a gentle backbend inversion, head hanging down, arms relaxed open.
+   Hammock fabric wraps around the hips. Shot from a medium distance to show the 
+  full suspended form. Natural light from above, warm wooden floor below. The mood 
+  is playful and light, not athletic. Background is minimal — cream walls, clean 
+  space. Palette: cream, warm sage, soft gold light. Style: natural light
+  photography, calm and slightly whimsical.
+
+  ---

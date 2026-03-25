@@ -2,7 +2,7 @@
 title: 'Les nombreux visages du yoga : un guide des principaux styles'
 date: 2026-03-25
 description: "Du Hatha ancien à l'AcroYoga contemporain — un tour d'horizon des principaux styles de yoga, de ce qui les distingue, et comment trouver celui qui vous correspond."
-image: 'https://placehold.co/800x450/E8F0E8/4A7A5A?text=Styles+de+Yoga'
+image: 'static/images/yoga-styles.png'
 tags: ['styles de yoga', 'hatha', 'ashtanga', 'vinyasa', 'débutants']
 ---
 
