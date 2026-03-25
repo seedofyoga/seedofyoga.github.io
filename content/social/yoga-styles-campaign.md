@@ -8,19 +8,33 @@
 
 ## Facebook Post
 
-Most people who try yoga have tried one style. One teacher, one studio, one way of moving.
 
-What's less obvious is that "yoga" isn't one thing. It's a family of 14 distinct practices — some rooted in classical Indian traditions going back centuries, others invented in California in the 1990s. Hatha and Ashtanga share a name with Power Yoga and Aerial Yoga the way jazz and EDM share the word "music." They're related, but they're not the same.
+Most people have only tried one yoga style. One teacher, one studio, one way of moving.                                                                      
 
-The differences matter. If you came to yoga looking for something quiet and restorative, a Vinyasa flow class might have felt like the wrong room. If you were looking for a physical challenge, Restorative might have seemed pointless. Neither reaction means yoga isn't for you — it might just mean you haven't found the door that opens for you.
+But there are actually many different forms of yoga. Some are rooted in classical Indian traditions, such as Hatha, Iyengar, Ashtanga or Sivananda. Others are more modern, such as Vinyasa, Bikram, Yin or Restaurative.
 
-I wrote a guide to the 14 main styles — what each one is, where it comes from, and who it tends to suit. Whether you're brand new or have been practicing for years and are curious about what else is out there, it's worth a read.
+That matters. If you came to yoga looking for something quiet and restorative, a Vinyasa flow class might have felt like the wrong room. If you were after a physical challenge, Restorative might have seemed pointless. Those reactions don't mean yoga isn't for you. They might just mean you haven't found the right door yet.
 
-→ [link to article]
+I wrote a guide to the main styles: what each one is, where it comes from, and who it tends to suit.
+
+→ https://www.seedofyoga.com/blog/yoga-styles/
+
+**Hashtags:** #yoga #yogastyles #yogapractice
 
 ---
 
 ## Instagram Carousel
+
+**Caption:**
+Most people who try yoga have tried one style. One teacher, one room. That room becomes yoga for them.
+
+There are 14 distinct practices — some ancient, some invented in the 1990s, all different in pace, purpose, and what they ask of you.
+
+Swipe through for a brief introduction to the main ones.
+
+Full guide → link in bio.
+
+---
 
 _8 slides. Text for each slide + Nano Banana image prompt._
 
@@ -127,6 +141,8 @@ Yin, Vinyasa, Restorative, Aerial, and more.
 **Nano Banana prompt:**
 A flat lay of a simple open journal, a small plant sprig, and a smooth stone on a cream linen surface, soft sage accents, warm morning light, top-down composition, clean and minimal, no text visible, photographic style.
 
+**Hashtags:** #yoga #yogastyles #hathayoga #vinyasayoga #ashtangayoga #yinyoga #restorativeyoga #kundaliniyoga #iyengaryoga #aerialyoga #acroyoga #yogaforbeginners #yogateacher #yogapractice #yoganarbonne
+
 ---
 
 ## Instagram Reel
@@ -166,6 +182,15 @@ Full guide — link in bio.
 
 ---
 
+**Caption:**
+14 yoga styles. Most people have tried one.
+A short walk through what makes each one different.
+Full guide → link in bio.
+
+**Hashtags:** #yoga #yogastyles #yogareel #vinyasayoga #yinyoga #yogaforbeginners #yogapractice #mindfulmovement #yogateacher #yogainspiration
+
+---
+
 ## Instagram Story
 
 ### Text Content
@@ -181,6 +206,8 @@ I wrote a full guide.
 → Link in bio
 
 _[Link sticker label:] Read the guide_
+
+**Hashtags:** #yoga #yogastyles #yogapractice #yogalife #yogateacher
 
 ### Nano Banana Prompt
 
@@ -210,15 +237,31 @@ Create a 60-second vertical video (9:16 format) in a calm, editorial style. Tone
 
 ---
 
-## X / Bluesky Post
+**Caption/Description:**
+There are 14 different yoga styles. Most people who try yoga have tried one.
 
-Most people who try yoga have tried one style.
+Hatha and Vinyasa and Restorative and Kundalini share the word "yoga" the way jazz and classical music share the word "music." Related — but not the same thing.
 
-There are 14. Hatha and Yin and Restorative and Kundalini and Ashtanga are not the same practice — they just share a name.
+This short walks through the main styles and what makes each distinct.
 
-A guide to the main styles, what makes each distinct, and how to find the one that suits you: [link]
+Full guide → [link in description]
 
-# AI Image generation prompts
+**Tags:** yoga, yoga styles, hatha yoga, vinyasa yoga, yin yoga, restorative yoga, ashtanga yoga, kundalini yoga, iyengar yoga, yoga for beginners, yoga teacher, mindfulness, yoga philosophy
+
+---
+
+## X / Bluesky Post (< 300 characters)
+
+Most people have only tried one yoga style. One teacher, one studio, one way of moving. But there are actually many different forms of yoga. 
+
+From Hatha to Ashtanga to Kundalini, they are not the same practice, they just share a name.
+
+A guide to the main styles, what makes each distinct, and how to find the one that suits you: https://www.seedofyoga.com/blog/yoga-styles/
+
+#yoga #yogastyles #yogapractice
+
+
+# AI Image generation prompts for article images
 
 ---
 
@@ -288,63 +331,33 @@ wooden floor below glows with warm amber light. Soft painterly brushwork, lush
 background detail. Palette: warm cream, sage green, muted gold, gentle rose.
 Dreamy and serene, quiet magic. No text.
 
-OLD :
+---
+
+Image 5 — Iyengar Yoga
+
+▎ Studio Ghibli-style hand-drawn illustration. A young woman in a precise standing
+triangle pose on a cream mat, one hand resting lightly on a smooth wooden block
+placed beside her front foot, the other arm reaching straight upward. Her
+alignment is exact — every limb intentional, calm concentration on her face. The
+room is bright and ordered: wooden blocks of different heights are stacked neatly
+against one wall, a folded strap rests on a shelf beside small potted plants. Tall
+windows let in clear afternoon light that catches the geometry of the pose and
+casts clean shadows across the pale floor. The mood is quiet precision — focused
+without tension, still without stiffness. Painterly Ghibli brushwork with warm
+background detail. Palette: warm cream, sage green, amber wood tones, soft white
+light. No text.
 
 ---
 
-Main Thumbnail — 800×450
+Image 6 — AcroYoga
 
-▎ A wide landscape photograph of several yoga mats arranged side by side on a  
- warm wooden floor, each mat a different subtle color (sage green, dusty rose,  
- cream, warm tan), shot from a low angle with soft morning light streaming in from
-the left. A rolled mat, a wooden block, and a folded blanket rest on the nearest
-mat. No people. Calm, spacious, inviting. Palette: sage green, cream, warm
-neutrals. Style: natural light photography, minimalist, editorial. Aspect ratio
-16:9.
-
----
-
-Image 1 — Hatha Yoga (Traditional styles section)
-
-▎ A person sitting in a simple cross-legged meditation pose on a cream yoga mat,
-hands resting on knees in gyan mudra. Shot from slightly above and to the side,  
- full body visible. Natural window light from the right creating a soft shadow.
-Background: plain cream wall, one potted green plant partially in frame. Calm and
-grounded mood. Palette: cream, sage green, warm skin tones. Style: natural light
-photography, quiet and accessible, no props visible except the mat.
-
----
-
-Image 2 — Yin Yoga (Stillness & connective tissue)
-
-▎ A person lying in supported reclined butterfly pose (supta baddha konasana), a
-large cream bolster under the spine, folded blankets under each knee, arms open  
- at the sides. Eyes closed, face relaxed. Shot from slightly above, full body in
-frame, horizontal composition. Soft, diffuse light, no harsh shadows. Props in  
- warm cream and sage tones. Mood: deep rest, surrender, stillness. Style: natural
-light photography, meditative and quiet.
-
----
-
-Image 3 — Vinyasa / Flow Yoga (Modern styles section)
-
-▎ A person in Warrior II posture (Virabhadrasana II) on a sage green yoga mat,
-arms extended wide, gaze forward, back leg strong. Shot at eye level from the  
- front-side angle to show the full extension of the arms and the open chest.
-Bright natural light, airy studio with light wood floors and cream walls. Sense  
- of fluid movement and breath. Palette: sage green, cream, warm neutrals. Style:
-natural light photography, dynamic but not aggressive, focused and alive.
-
----
-
-Image 4 — Aerial Yoga (Contemporary styles section)
-
-▎ A person cocooned in a soft cream fabric yoga hammock suspended from the
-ceiling, doing a gentle backbend inversion, head hanging down, arms relaxed open.
-Hammock fabric wraps around the hips. Shot from a medium distance to show the
-full suspended form. Natural light from above, warm wooden floor below. The mood
-is playful and light, not athletic. Background is minimal — cream walls, clean
-space. Palette: cream, warm sage, soft gold light. Style: natural light
-photography, calm and slightly whimsical.
-
----
+▎ Studio Ghibli-style hand-drawn illustration. Two young women practicing
+AcroYoga in a sun-filled wooden studio. The base lies on her back on a cream mat,
+legs extended upward, feet supporting the hips of the flyer who balances above
+her — arms open wide, body horizontal, face lit with quiet delight. Soft morning
+light pours through tall windows and spills across the wooden floor in warm gold
+panels. A few rolled mats and small plants line the walls. The mood is playful and
+trusting, light without being performative — two people in easy concentration. The
+scene has the gentle magic of a Ghibli moment: ordinary and quietly extraordinary
+at the same time. Painterly Ghibli brushwork, warm and airy. Palette: warm cream,
+sage green, soft gold, muted rose. No text.

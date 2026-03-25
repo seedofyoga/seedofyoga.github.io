@@ -24,6 +24,8 @@ Ashtanga was systematized by Sri K. Pattabhi Jois in Mysore, India, drawing on a
 
 ### Iyengar Yoga
 
+![iyengar yoga](/images/yoga-styles-iyengar.png)
+
 Developed by B.K.S. Iyengar, this style is defined by its attention to alignment and its use of props: blocks, straps, bolsters, chairs. Postures are held longer than in most other styles, giving the body time to find its correct position. Iyengar is particularly well-suited to people recovering from injury, those managing chronic pain, and anyone who wants to understand the architecture of each pose before moving through it quickly.
 
 ### Kundalini Yoga
@@ -40,6 +42,8 @@ These styles emerged in the 20th and 21st centuries, often as adaptations of cla
 
 ### Vinyasa (Flow) Yoga
 
+![vinyasa yoga](/images/yoga-styles-vinyasa.png)
+
 Vinyasa draws from Ashtanga but removes the fixed sequence. Each teacher creates their own class, linking postures through breath in a continuous, flowing movement. It is probably the most common style in Western studios today. The challenge is that without a set sequence, the quality of a Vinyasa class depends largely on the teacher — so finding someone you trust matters more here than in many other styles.
 
 ### Power Yoga
@@ -52,7 +56,7 @@ Bikram Yoga, founded by Bikram Choudhury, consists of a fixed sequence of 26 pos
 
 ### Yin Yoga
 
-![hatha yoga](/images/yoga-styles-yin.png)
+![yin yoga](/images/yoga-styles-yin.png)
 
 In contrast to the active styles, Yin Yoga asks you to hold passive postures for three to five minutes — sometimes longer. The aim is to work into the deeper connective tissues (fascia, ligaments, joints) rather than the muscles. Yin is meditative by nature: holding stillness long enough that the mind, not just the body, is asked to soften and let go.
 
@@ -73,6 +77,8 @@ Anusara was founded in 1997 by John Friend, drawing on tantric philosophy and a 
 Aerial Yoga uses a suspended fabric hammock to support and extend the practice. Inversions — postures where the head is below the heart — become more accessible, and there is the added benefit of spinal decompression. The practice is playful and can suit people who find floor-based inversions difficult or uncomfortable.
 
 ### AcroYoga
+
+![acro yoga](/images/yoga-styles-acroyoga.png)
 
 AcroYoga is a partner practice that combines yoga postures, acrobatics, and elements of Thai massage. One person (the base) supports the other (the flyer) using hands and feet. It requires communication, trust, and a willingness to play. While it is quite different from classical yoga, the physical and relational awareness it builds is genuine.
 
