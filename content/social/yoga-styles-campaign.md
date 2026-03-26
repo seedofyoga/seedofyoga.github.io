@@ -8,8 +8,7 @@
 
 ## Facebook Post
 
-
-Most people have only tried one yoga style. One teacher, one studio, one way of moving.                                                                      
+Most people have only tried one yoga style. One teacher, one studio, one way of moving.
 
 But there are actually many different forms of yoga. Some are rooted in classical Indian traditions, such as Hatha, Iyengar, Ashtanga or Sivananda. Others are more modern, such as Vinyasa, Bikram, Yin or Restaurative.
 
@@ -26,13 +25,15 @@ I wrote a guide to the main styles: what each one is, where it comes from, and w
 ## Instagram Carousel
 
 **Caption:**
-Most people who try yoga have tried one style. One teacher, one room. That room becomes yoga for them.
+Most people who try yoga have tried one style, one teacher, one studio.
 
-There are 14 distinct practices — some ancient, some invented in the 1990s, all different in pace, purpose, and what they ask of you.
+There are actually many different distinct practices — some traditionals and other more modern, all different in pace, purpose, and what they ask of you.
 
 Swipe through for a brief introduction to the main ones.
 
 Full guide → link in bio.
+
+#yoga #yogastyles #hathayoga #vinyasayoga #ashtangayoga #yinyoga #restorativeyoga #kundaliniyoga #iyengaryoga #aerialyoga #acroyoga #yogateacher #yogapractice
 
 ---
 
@@ -140,8 +141,6 @@ Yin, Vinyasa, Restorative, Aerial, and more.
 
 **Nano Banana prompt:**
 A flat lay of a simple open journal, a small plant sprig, and a smooth stone on a cream linen surface, soft sage accents, warm morning light, top-down composition, clean and minimal, no text visible, photographic style.
-
-**Hashtags:** #yoga #yogastyles #hathayoga #vinyasayoga #ashtangayoga #yinyoga #restorativeyoga #kundaliniyoga #iyengaryoga #aerialyoga #acroyoga #yogaforbeginners #yogateacher #yogapractice #yoganarbonne
 
 ---
 
@@ -252,14 +251,11 @@ Full guide → [link in description]
 
 ## X / Bluesky Post (< 300 characters)
 
-Most people have only tried one yoga style. One teacher, one studio, one way of moving. But there are actually many different forms of yoga. 
+Do you know the difference between all the different yoga styles : Hatha, Ashtanga, Yin, Vinyasa ?
 
-From Hatha to Ashtanga to Kundalini, they are not the same practice, they just share a name.
-
-A guide to the main styles, what makes each distinct, and how to find the one that suits you: https://www.seedofyoga.com/blog/yoga-styles/
+Here is my guide to the main styles : https://www.seedofyoga.com/blog/yoga-styles/
 
 #yoga #yogastyles #yogapractice
-
 
 # AI Image generation prompts for article images
 
