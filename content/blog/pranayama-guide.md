@@ -195,15 +195,3 @@ These techniques lower body temperature, slow the nervous system, and prepare th
 **Benefits:** The name _murcha_ means "fainting" or "swooning" — not a literal loss of consciousness, but a pleasant dissolution of ordinary mental chatter. The combination of retention and the inward-directed gaze draws attention away from the senses and toward a quiet interior space. It is as much a meditative technique as a breathing one.
 
 **Best time:** Before meditation. This is an advanced practice — I would not recommend approaching it without guidance from a teacher, and it requires prior comfort with breath retention.
-
-## Conclusion
-
-The breath is always with us. These techniques are not separate from the rest of practice — they are the rest of practice, made explicit. What changes when we work with the breath intentionally is not just the breath itself, but the quality of presence it brings with it.
-
-A few practical notes to close with:
-
-- Start with one or two techniques, not all at once. Nadi Shodhana and Sama Vritti are the most accessible entry points.
-- Match the technique to what the moment calls for: energy in the morning, balance before meditation, cooling in the heat, calm in the evening.
-- Be patient. The deeper effects of pranayama develop over weeks and months of regular practice, not in a single session.
-
-If you practice with me at Seed of Yoga, you will recognize some of these from class. Others we can explore together — I am happy to guide any of them in person.

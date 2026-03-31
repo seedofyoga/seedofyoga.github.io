@@ -195,15 +195,3 @@ Ces techniques abaissent la température corporelle, ralentissent le système ne
 **Bénéfices :** Le nom _murcha_ signifie « évanouissement » ou « défaillance » — non pas une perte de conscience littérale, mais une dissolution agréable du bavardage mental ordinaire. La combinaison de la rétention et du regard dirigé vers l'intérieur détourne l'attention des sens et ouvre un espace intérieur silencieux. C'est autant une technique méditative qu'une technique respiratoire.
 
 **Meilleur moment :** Avant la méditation. C'est une pratique avancée — je ne recommande pas de l'aborder sans les conseils d'un professeur, et elle nécessite d'être à l'aise avec la rétention du souffle au préalable.
-
-## Conclusion
-
-Le souffle est toujours là. Ces techniques ne sont pas séparées du reste de la pratique — elles en sont le cœur, rendu explicite. Ce qui change lorsqu'on travaille le souffle intentionnellement, ce n'est pas seulement la respiration elle-même, mais la qualité de présence qu'elle apporte avec elle.
-
-Quelques points pratiques pour conclure :
-
-- Commencez par une ou deux techniques, pas par toutes à la fois. Le Nadi Shodhana et le Sama Vritti sont les points d'entrée les plus accessibles.
-- Adaptez la technique à ce que le moment demande : de l'énergie le matin, de l'équilibre avant la méditation, du rafraîchissement en cas de chaleur, du calme le soir.
-- Soyez patient. Les effets plus profonds du pranayama se développent sur des semaines et des mois de pratique régulière, pas en une seule séance.
-
-Si vous pratiquez avec moi à Seed of Yoga, vous reconnaîtrez certaines de ces techniques en cours. D'autres peuvent s'explorer ensemble — je suis heureux de les guider en personne.
