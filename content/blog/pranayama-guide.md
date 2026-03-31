@@ -1,7 +1,7 @@
 ---
 title: 'Pranayama: A Guide to the Main Breathing Techniques'
 date: 2026-03-31
-description: 'The breath is yoga''s most direct tool. This guide covers 14 pranayama techniques — energizing, balancing, cooling, and more — with instructions, benefits, and the best time of day to practice each one.'
+description: 'The breath is yoga''s most direct tool. This guide covers 18 pranayama techniques — energizing, balancing, cooling, and more — with instructions, benefits, and the best time of day to practice each one.'
 image: '/images/pranayama-thumbnail.png'
 tags: ['pranayama', 'breathwork', 'yoga', 'meditation']
 ---
@@ -10,7 +10,7 @@ We usually breathe without thinking about it. That, in fact, is the point. Breat
 
 This is what pranayama is about. The word comes from Sanskrit: *prana* means life force or breath, and *ayama* means extension or regulation. Pranayama is the practice of working with the breath deliberately — not just inhaling and exhaling, but shaping, directing, and using the breath as a tool for the mind and body.
 
-In this article, we will explore the main pranayama techniques, organized into four categories: energizing practices, balancing practices, cooling and calming practices, and breath retention. For each technique, you will find how to practice it, what it is good for, and the best time of day to use it.
+In this article, we will explore the main pranayama techniques, organized into four categories: energizing practices, balancing practices, cooling and calming practices, and a handful of special techniques. For each technique, you will find how to practice it, what it is good for, and the best time of day to use it.
 
 ---
 
@@ -22,7 +22,7 @@ A few practical points before starting:
 - Practice on an empty or light stomach; mornings work well for most techniques
 - Unless stated otherwise, breathe through the nose
 - Never force the breath. Dizziness or discomfort means you should return to normal breathing
-- Kapalabhati, Bhastrika, and Kumbhaka are contraindicated during pregnancy and for those with high blood pressure or heart conditions. If in doubt, ask a teacher first.
+- Kapalabhati, Bhastrika, Agni Sara, and Murcha are contraindicated during pregnancy and for those with high blood pressure or heart conditions. If in doubt, ask a teacher first.
 
 ---
 
@@ -72,11 +72,25 @@ These techniques activate the body, build heat, and sharpen the mind. They work 
 
 ---
 
+### Simhasana Pranayama (Lion's breath)
+
+**How to practice:** Sit in a comfortable position. Inhale deeply through the nose. On the exhale, open the mouth wide, extend the tongue toward the chin, and release the breath forcefully with a "ha" sound. Eyes open wide, gaze directed upward toward the eyebrow center. Repeat 3–5 times.
+
+**Benefits:** Releases tension held in the jaw, throat, and face. Simhasana (*simha* means lion) activates the *vishuddha* chakra (the throat center) and encourages a complete exhalation, clearing stale air from the lower lungs. Despite its dramatic appearance, practitioners often find it unexpectedly liberating.
+
+**Best time:** Morning or before physical practice. Also useful whenever tension accumulates in the face, jaw, or throat.
+
+---
+
 ## Balancing Practices
 
 *Best time: any time of day; particularly good before meditation*
 
 These techniques balance the two main energy channels in the body — the solar and lunar nadis — and bring the nervous system into equilibrium. Their effect is neither stimulating nor sedating. They simply steady the system.
+
+*Alternate nostril breathing*
+
+Two of the most important balancing techniques use alternate nostril breathing to regulate the flow of prana between the solar and lunar channels.
 
 ### Nadi Shodhana (channel purification)
 
@@ -98,13 +112,27 @@ These techniques balance the two main energy channels in the body — the solar 
 
 ---
 
+*Box breathing*
+
+The following two techniques use counted, structured breathing — the breath is divided into segments of equal or unequal duration. They are among the most practical tools pranayama offers, accessible outside of formal practice.
+
 ### Sama Vritti (equal breathing)
 
-**How to practice:** Inhale for 4 counts, exhale for 4 counts. For a box breath variation, add a hold after the inhale and after the exhale: inhale 4, hold 4, exhale 4, hold 4.
+**How to practice:** Inhale for 4 counts, exhale for 4 counts. For a box breath variation, add a hold after the inhale and after the exhale: inhale 4, hold 4, exhale 4, hold 4. This four-part version is sometimes called *Chaturtha pranayama* — chaturtha meaning "fourth," referring to the four phases of the breath cycle.
 
 **Benefits:** Sama Vritti (sama means equal, vritti means movement or fluctuation) trains the mind toward steadiness by keeping the breath perfectly even. It is among the most accessible pranayama techniques — and one of the most underestimated.
 
 **Best time:** Any time. Particularly useful in moments of anxiety, before a difficult situation, or as an entry point into meditation.
+
+---
+
+### Visama Vritti (uneven breathing)
+
+**How to practice:** Breathe in unequal ratios — inhale and exhale are deliberately different lengths. The classic calming ratio is 1:2 (inhale 4 counts, exhale 8). A more energizing ratio lengthens the inhale relative to the exhale. Retentions can be added as the practice matures. Unlike Sama Vritti, the asymmetry is intentional.
+
+**Benefits:** Visama Vritti (*visama* means unequal or uneven) is more flexible than Sama Vritti — by adjusting the ratio, the practitioner can tune the breath to a specific need. A longer exhale activates the parasympathetic nervous system and is one of the most direct tools available for calming an agitated mind.
+
+**Best time:** Any time. The 1:2 ratio (exhale double the inhale) is particularly effective during stress or before sleep.
 
 ---
 
@@ -166,16 +194,29 @@ These techniques lower body temperature, slow the nervous system, and prepare th
 
 ---
 
-## Kumbhaka: Breath Retention
+### Murcha (fainting breath)
 
-Kumbhaka (from *kumbha*, meaning a pot or vessel — the image is of the breath held inside) is breath retention. It appears in two forms:
+**How to practice:** Inhale fully, then hold the breath (*antara kumbhaka* — retention with lungs full). Tilt the head back and fix the gaze at the eyebrow center (*shambhavi mudra*). Hold as long as comfortable, without strain. Exhale slowly and return the head to neutral before inhaling again.
 
-- **Antara kumbhaka** — retention after the inhale, lungs full
-- **Bahya kumbhaka** — retention after the exhale, lungs empty
+**Benefits:** The name *murcha* means "fainting" or "swooning" — not a literal loss of consciousness, but a pleasant dissolution of ordinary mental chatter. The combination of retention and the inward-directed gaze draws attention away from the senses and toward a quiet interior space. It is as much a meditative technique as a breathing one.
 
-Kumbhaka is not a standalone technique but a component that can be added to other pranayamas — most commonly Nadi Shodhana and Anuloma Viloma. In the yogic texts, it is described as the moment when prana is held inside and the mind, for a brief period, becomes naturally still.
+**Best time:** Before meditation. This is an advanced practice — I would not recommend approaching it without guidance from a teacher, and it requires prior comfort with breath retention.
 
-However, it is also the most demanding aspect of pranayama practice. Forced retention — especially bahya kumbhaka — before the body is ready creates tension rather than stillness. I am not by any means an expert on the deeper dimensions of kumbhaka, and I recommend exploring it with a teacher before practicing independently. Begin with antara kumbhaka and short, comfortable holds.
+---
+
+## Special Techniques
+
+Some pranayamas do not fit neatly into the categories above. They are classical practices, mentioned in the texts, but they belong more to the territory of exploration than daily routine.
+
+### Plavini Pranayama (swallowing breath)
+
+**How to practice:** Rather than breathing air into the lungs, you gulp and swallow air into the stomach — the same mechanism as swallowing food, but with air. The belly fills and distends visibly. This is held briefly, then the air is released.
+
+**Benefits:** In the classical texts, Plavini is described as allowing the practitioner to float effortlessly on water, as though the body itself becomes buoyant. Whether or not one takes this literally, the practice develops unusual awareness of the relationship between the breath and the digestive system.
+
+**Best time:** Not tied to a specific time of day. Practice on an empty stomach.
+
+This is genuinely one of the stranger techniques in the pranayama tradition. I include it here for completeness and out of curiosity — it does not belong to a typical daily practice. Approach it as an exploration rather than a prescription.
 
 ---
 

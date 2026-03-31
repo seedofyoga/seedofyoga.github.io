@@ -1,7 +1,7 @@
 ---
 title: 'Le Pranayama : guide des principales techniques de respiration'
 date: 2026-03-31
-description: 'La respiration est l''outil le plus direct du yoga. Ce guide présente 14 techniques de pranayama — énergisantes, équilibrantes, rafraîchissantes et plus encore — avec des instructions, les bénéfices et le meilleur moment de la journée pour les pratiquer.'
+description: 'La respiration est l''outil le plus direct du yoga. Ce guide présente 18 techniques de pranayama — énergisantes, équilibrantes, rafraîchissantes et plus encore — avec des instructions, les bénéfices et le meilleur moment de la journée pour les pratiquer.'
 image: '/images/pranayama-thumbnail.png'
 tags: ['pranayama', 'respiration', 'yoga', 'méditation']
 ---
@@ -10,7 +10,7 @@ En général, on respire sans y penser. C'est précisément le but. La respirati
 
 C'est là tout le sens du pranayama. Le mot vient du sanskrit : *prana* signifie force vitale ou souffle, et *ayama* signifie extension ou régulation. Le pranayama est la pratique de travailler le souffle de façon délibérée — non pas simplement inspirer et expirer, mais façonner, diriger et utiliser la respiration comme un outil pour le corps et l'esprit.
 
-Dans cet article, nous allons explorer les principales techniques de pranayama, organisées en quatre catégories : pratiques énergisantes, pratiques équilibrantes, pratiques rafraîchissantes et calmantes, et rétention du souffle. Pour chaque technique, vous trouverez comment la pratiquer, à quoi elle sert, et le meilleur moment de la journée pour l'utiliser.
+Dans cet article, nous allons explorer les principales techniques de pranayama, organisées en quatre catégories : pratiques énergisantes, pratiques équilibrantes, pratiques rafraîchissantes et calmantes, et quelques techniques spéciales. Pour chaque technique, vous trouverez comment la pratiquer, à quoi elle sert, et le meilleur moment de la journée pour l'utiliser.
 
 ---
 
@@ -22,7 +22,7 @@ Quelques points pratiques avant de démarrer :
 - Pratiquez à jeun ou l'estomac léger ; le matin convient bien pour la plupart des techniques
 - Sauf indication contraire, respirez par le nez
 - Ne forcez jamais le souffle. Des vertiges ou une gêne signifient qu'il faut revenir à une respiration normale
-- Kapalabhati, Bhastrika et Kumbhaka sont contre-indiqués pendant la grossesse et pour les personnes souffrant d'hypertension ou de maladies cardiaques. En cas de doute, consultez un professeur au préalable.
+- Kapalabhati, Bhastrika, Agni Sara et Murcha sont contre-indiqués pendant la grossesse et pour les personnes souffrant d'hypertension ou de maladies cardiaques. En cas de doute, consultez un professeur au préalable.
 
 ---
 
@@ -72,11 +72,25 @@ Ces techniques activent le corps, génèrent de la chaleur et affûtent l'esprit
 
 ---
 
+### Simhasana Pranayama (le souffle du lion)
+
+**Comment pratiquer :** Asseyez-vous dans une position confortable. Inspirez profondément par le nez. À l'expiration, ouvrez grand la bouche, tirez la langue vers le menton et relâchez le souffle avec force en produisant un son « ha ». Yeux grands ouverts, regard dirigé vers le centre du front. Répétez 3 à 5 fois.
+
+**Bénéfices :** Libère les tensions accumulées dans la mâchoire, la gorge et le visage. Simhasana (*simha* signifie lion) active le chakra *vishuddha* (le centre de la gorge) et favorise une expiration complète, éliminant l'air résiduel du bas des poumons. Malgré son aspect dramatique, cette technique est souvent vécue comme étonnamment libératrice.
+
+**Meilleur moment :** Le matin ou avant la pratique physique. Également utile lorsque des tensions s'accumulent dans le visage, la mâchoire ou la gorge.
+
+---
+
 ## Pratiques équilibrantes
 
 *Meilleur moment : à tout moment de la journée ; particulièrement adapté avant la méditation*
 
 Ces techniques équilibrent les deux principaux canaux énergétiques du corps — les nadis solaire et lunaire — et amènent le système nerveux à un état d'équilibre. Leur effet n'est ni stimulant ni sédatif. Elles stabilisent simplement le système.
+
+*Respiration alternée*
+
+Deux des techniques équilibrantes les plus importantes utilisent la respiration alternée pour réguler la circulation du prana entre les canaux solaire et lunaire.
 
 ### Nadi Shodhana (la purification des canaux)
 
@@ -98,13 +112,27 @@ Ces techniques équilibrent les deux principaux canaux énergétiques du corps �
 
 ---
 
+*Respiration en carré*
+
+Les deux techniques suivantes utilisent une respiration comptée et structurée — le souffle est divisé en phases de durée égale ou inégale. Ce sont parmi les outils les plus pratiques qu'offre le pranayama, accessibles en dehors de la pratique formelle.
+
 ### Sama Vritti (la respiration égale)
 
-**Comment pratiquer :** Inspirez en 4 temps, expirez en 4 temps. Pour la variante en carré, ajoutez une rétention après l'inspiration et après l'expiration : inspiration 4, rétention 4, expiration 4, rétention 4.
+**Comment pratiquer :** Inspirez en 4 temps, expirez en 4 temps. Pour la variante en carré, ajoutez une rétention après l'inspiration et après l'expiration : inspiration 4, rétention 4, expiration 4, rétention 4. Cette version en quatre phases est parfois appelée *Chaturtha pranayama* — chaturtha signifiant « quatrième », en référence aux quatre phases du cycle respiratoire.
 
 **Bénéfices :** Sama Vritti (*sama* signifie égal, *vritti* signifie mouvement ou fluctuation) entraîne l'esprit vers la stabilité en maintenant la respiration parfaitement égale. C'est l'une des techniques de pranayama les plus accessibles — et l'une des plus sous-estimées.
 
 **Meilleur moment :** À tout moment. Particulièrement utile dans les moments d'anxiété, avant une situation difficile ou comme point d'entrée dans la méditation.
+
+---
+
+### Visama Vritti (la respiration inégale)
+
+**Comment pratiquer :** Respirez en ratios inégaux — inspiration et expiration ont délibérément des durées différentes. Le ratio calmant classique est 1:2 (inspiration 4 temps, expiration 8). Un ratio plus énergisant allonge l'inspiration par rapport à l'expiration. Des rétentions peuvent être ajoutées à mesure que la pratique mûrit. Contrairement au Sama Vritti, l'asymétrie est intentionnelle.
+
+**Bénéfices :** Visama Vritti (*visama* signifie inégal ou irrégulier) est plus souple que le Sama Vritti — en ajustant le ratio, le pratiquant peut adapter le souffle à un besoin précis. Une expiration plus longue active le système nerveux parasympathique et constitue l'un des outils les plus directs pour calmer un esprit ou un système nerveux agité.
+
+**Meilleur moment :** À tout moment. Le ratio 1:2 (expiration double de l'inspiration) est particulièrement efficace en cas de stress ou avant le sommeil.
 
 ---
 
@@ -166,16 +194,29 @@ Ces techniques abaissent la température corporelle, ralentissent le système ne
 
 ---
 
-## Kumbhaka : la rétention du souffle
+### Murcha (le souffle de l'évanouissement)
 
-Kumbhaka (de *kumbha*, signifiant une jarre ou un vase — l'image est celle du souffle retenu à l'intérieur) désigne la rétention du souffle. Il se présente sous deux formes :
+**Comment pratiquer :** Inspirez pleinement, puis retenez le souffle (*antara kumbhaka* — rétention poumons pleins). Inclinez doucement la tête en arrière et fixez le regard vers le centre des sourcils (*shambhavi mudra*). Maintenez aussi longtemps que confortable, sans forcer. Expirez lentement et ramenez la tête en position neutre avant d'inspirer à nouveau.
 
-- **Antara kumbhaka** — rétention après l'inspiration, poumons pleins
-- **Bahya kumbhaka** — rétention après l'expiration, poumons vides
+**Bénéfices :** Le nom *murcha* signifie « évanouissement » ou « défaillance » — non pas une perte de conscience littérale, mais une dissolution agréable du bavardage mental ordinaire. La combinaison de la rétention et du regard dirigé vers l'intérieur détourne l'attention des sens et ouvre un espace intérieur silencieux. C'est autant une technique méditative qu'une technique respiratoire.
 
-Le kumbhaka n'est pas une technique autonome mais un composant que l'on peut ajouter à d'autres pranayamas — le plus souvent le Nadi Shodhana et l'Anuloma Viloma. Dans les textes yogiques, il est décrit comme le moment où le prana est retenu à l'intérieur et où l'esprit, pour un bref instant, devient naturellement silencieux.
+**Meilleur moment :** Avant la méditation. C'est une pratique avancée — je ne recommande pas de l'aborder sans les conseils d'un professeur, et elle nécessite d'être à l'aise avec la rétention du souffle au préalable.
 
-Cependant, c'est aussi l'aspect le plus exigeant de la pratique du pranayama. Une rétention forcée — en particulier le bahya kumbhaka — avant que le corps ne soit prêt crée de la tension plutôt que du calme. Je ne suis pas du tout un expert des dimensions profondes du kumbhaka, et je recommande de l'explorer avec un professeur avant de le pratiquer de façon autonome. Commencez par l'antara kumbhaka et des rétentions courtes et confortables.
+---
+
+## Techniques spéciales
+
+Certains pranayamas ne s'inscrivent pas aisément dans les catégories précédentes. Ce sont des pratiques classiques, mentionnées dans les textes, qui appartiennent davantage au domaine de l'exploration que de la routine quotidienne.
+
+### Plavini Pranayama (le souffle de la déglutition)
+
+**Comment pratiquer :** Plutôt que de faire entrer l'air dans les poumons, on avale l'air dans l'estomac — le même mécanisme que pour avaler de la nourriture, mais avec de l'air. Le ventre se remplit et se distend visiblement. On retient brièvement, puis on relâche l'air.
+
+**Bénéfices :** Dans les textes classiques, Plavini est décrit comme permettant au pratiquant de flotter sans effort sur l'eau, comme si le corps devenait lui-même flottant. Qu'on prenne cela au pied de la lettre ou non, la pratique développe une conscience inhabituelle de la relation entre le souffle et le système digestif.
+
+**Meilleur moment :** Non lié à un moment précis de la journée. À pratiquer à jeun.
+
+C'est véritablement l'une des techniques les plus singulières de la tradition du pranayama. Je l'inclus ici par souci d'exhaustivité et par curiosité — elle ne s'inscrit pas dans une pratique quotidienne ordinaire. Abordez-la comme une exploration plutôt que comme une prescription.
 
 ---
 
