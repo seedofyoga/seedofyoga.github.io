@@ -6,7 +6,7 @@
 - id: class_schedule
   translation: 'Class Schedule'
 - id: class_schedule_sub
-  translation: 'I offer 60-minute yoga classes in French and English, open to all levels.'
+  translation: 'I offer 60-minute yoga classes in French and/or English, open to all levels.'
 - id: schedule_coming_soon
   translation: 'Coming soon'
 - id: schedule_coming_soon_sub
