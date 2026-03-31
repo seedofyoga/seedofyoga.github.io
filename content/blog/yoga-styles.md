@@ -2,7 +2,7 @@
 title: 'The Many Faces of Yoga: A Guide to the Main Styles'
 date: 2026-03-25
 description: 'From ancient Hatha to modern AcroYoga — an overview of the main yoga styles, what makes each one distinct, and how to find your path.'
-image: '/images/yoga-styles-thumbnail.png'
+image: '/images/yoga-styles/yoga-styles-thumbnail.png'
 tags: ['yoga styles', 'hatha', 'ashtanga', 'vinyasa']
 ---
 
@@ -14,7 +14,7 @@ These styles have roots in the classical yoga tradition. Most trace back to spec
 
 ### Hatha Yoga
 
-![hatha yoga](/images/yoga-styles-hatha.png)
+![hatha yoga](/images/yoga-styles/hatha.png)
 
 _Hatha_ is the umbrella from which most physical yoga descends. In Sanskrit, _ha_ means sun and _tha_ means moon — the union of opposing forces. In practice, a Hatha class tends to move at a moderate pace, holding postures long enough to understand their alignment and feel their effect. For those new to yoga, Hatha is often the most accessible starting point.
 
@@ -24,7 +24,7 @@ Ashtanga was systematized by Sri K. Pattabhi Jois in Mysore, India, drawing on a
 
 ### Iyengar Yoga
 
-![iyengar yoga](/images/yoga-styles-iyengar.png)
+![iyengar yoga](/images/yoga-styles/iyengar.png)
 
 Developed by B.K.S. Iyengar, this style is defined by its attention to alignment and its use of props: blocks, straps, bolsters, chairs. Postures are held longer than in most other styles, giving the body time to find its correct position. Iyengar is particularly well-suited to people recovering from injury, those managing chronic pain, and anyone who wants to understand the architecture of each pose before moving through it quickly.
 
@@ -42,7 +42,7 @@ These styles emerged in the 20th and 21st centuries, often as adaptations of cla
 
 ### Vinyasa (Flow) Yoga
 
-![vinyasa yoga](/images/yoga-styles-vinyasa.png)
+![vinyasa yoga](/images/yoga-styles/vinyasa.png)
 
 Vinyasa draws from Ashtanga but removes the fixed sequence. Each teacher creates their own class, linking postures through breath in a continuous, flowing movement. It is probably the most common style in Western studios today. The challenge is that without a set sequence, the quality of a Vinyasa class depends largely on the teacher — so finding someone you trust matters more here than in many other styles.
 
@@ -56,7 +56,7 @@ Bikram Yoga, founded by Bikram Choudhury, consists of a fixed sequence of 26 pos
 
 ### Yin Yoga
 
-![yin yoga](/images/yoga-styles-yin.png)
+![yin yoga](/images/yoga-styles/yin.png)
 
 In contrast to the active styles, Yin Yoga asks you to hold passive postures for three to five minutes — sometimes longer. The aim is to work into the deeper connective tissues (fascia, ligaments, joints) rather than the muscles. Yin is meditative by nature: holding stillness long enough that the mind, not just the body, is asked to soften and let go.
 
@@ -78,7 +78,7 @@ Aerial Yoga uses a suspended fabric hammock to support and extend the practice. 
 
 ### AcroYoga
 
-![acro yoga](/images/yoga-styles-acroyoga.png)
+![acro yoga](/images/yoga-styles/acroyoga.png)
 
 AcroYoga is a partner practice that combines yoga postures, acrobatics, and elements of Thai massage. One person (the base) supports the other (the flyer) using hands and feet. It requires communication, trust, and a willingness to play. While it is quite different from classical yoga, the physical and relational awareness it builds is genuine.
 
