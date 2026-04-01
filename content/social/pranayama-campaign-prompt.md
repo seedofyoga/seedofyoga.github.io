@@ -8,13 +8,13 @@
 
 ## Facebook Post
 
-Pranayama — yogic breathwork — is one of the core element of yoga. There are many different Pranayama techniques with different effects : energizing, balancing, or calming. Knowing which to use, and when, changes what the practice can offer you.
+Pranayama — yogic breathwork — is a core element of yoga. There are many different Pranayama techniques with different effects : energizing, balancing, or calming. Knowing which to use and when will benefit your practice.
 
-I've written a guide covering 15 of the main pranayama techniques, organized by their effect and the best time of day to practice each.
+I've written a guide covering 15 of the main pranayama techniques, organized by effect and the best time of day to practice each.
 
-Link in the comments.
+https://www.seedofyoga.com/blog/pranayama-guide/
 
-#pranayama #breathwork #yoga #meditation #seedofyoga
+#pranayama #breathwork #yoga #yogapractice #seedofyoga
 
 ---
 
@@ -69,13 +69,13 @@ Full guide on the blog → link in bio.
 
 ### Caption
 
-Not all breathwork does the same thing — and using the wrong technique at the wrong moment can work against you.
+Pranayama — yogic breathwork — is a core element of yoga. There are many different Pranayama techniques with different effects : energizing, balancing, or calming. Knowing which to use and when will benefit your practice.
 
-Three directions: energize, balance, calm. Full guide on the 15 main pranayama techniques on the blog.
+I've written a guide covering 15 of the main pranayama techniques, organized by effect and the best time of day to practice each.
 
 Link in bio.
 
-#pranayama #breathwork #yoga #yogapractice #nadishodhana #kapalabhati #bhramari #seedofyoga #narbonne
+#pranayama #breathwork #yoga #yogapractice #nadishodhana #kapalabhati #bhramari
 
 ---
 
@@ -176,14 +176,9 @@ Full guide on 15 techniques → link in description.
 
 ## X / Bluesky
 
-Pranayama — yogic breathwork — is one of the core element of yoga.
+Pranayama — yogic breathwork — is a core element of yoga. Each Pranayama techniques has different effects : energizing, balancing, or calming. Knowing which to use and when will benefit your practice.
 
-Not all Pranayama technique is the same:
-— morning: energize (Kapalabhati, Bhastrika)
-— any time: balance (Nadi Shodhana)
-— evening: calm (Bhramari, Sheetali)
-
-15 techniques, all explained: [link]
+15 techniques, all explained: https://www.seedofyoga.com/blog/pranayama-guide/
 
 #pranayama #breathwork #yoga
 
