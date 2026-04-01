@@ -14,9 +14,9 @@ In this article, we will trace the main periods of yoga's development, from its 
 
 ## 1. The Vedic Period (c. 1500–500 BCE) — The Rishis
 
-The word "yoga" first appears in the *Rig Veda*, one of the oldest sacred texts of Indian civilization, dated to around 1500 BCE. At this stage, yoga had nothing to do with physical postures. The word comes from the Sanskrit root *yuj*, meaning to yoke or unite — the idea being an alignment between the individual and the divine.
+The word "yoga" first appears in the _Rig Veda_, one of the oldest sacred texts of Indian civilization, dated to around 1500 BCE. At this stage, yoga had nothing to do with physical postures. The word comes from the Sanskrit root _yuj_, meaning to yoke or unite — the idea being an alignment between the individual and the divine.
 
-Vedic yoga was practiced by the *Rishis* (seers or sages), who transmitted these teachings orally across generations. Their practice involved ritual, chant, and inner discipline — a way of orienting consciousness toward a larger cosmic order. There was no single teacher; this was collective wisdom passed through lineages.
+Vedic yoga was practiced by the _Rishis_ (seers or sages), who transmitted these teachings orally across generations. Their practice involved ritual, chant, and inner discipline — a way of orienting consciousness toward a larger cosmic order. There was no single teacher; this was collective wisdom passed through lineages.
 
 What the Vedic period established was the basic orientation that would remain consistent across all later developments: there is a state of greater clarity and union to move toward, and practice is the means of getting there.
 
@@ -24,9 +24,9 @@ What the Vedic period established was the basic orientation that would remain co
 
 ## 2. The Pre-Classical Period (c. 800 BCE–200 CE) — Krishna
 
-The *Upanishads*, a collection of philosophical texts composed between roughly 800 and 200 BCE, mark a significant shift in direction. Where the Vedas pointed outward — toward ritual, cosmic order, and correct action — the Upanishads turned attention inward. The source of suffering and liberation was now located in the mind, not in the performance of rites.
+The _Upanishads_, a collection of philosophical texts composed between roughly 800 and 200 BCE, mark a significant shift in direction. Where the Vedas pointed outward — toward ritual, cosmic order, and correct action — the Upanishads turned attention inward. The source of suffering and liberation was now located in the mind, not in the performance of rites.
 
-This period's most influential teacher appears in the *Bhagavad Gita* (c. 200 BCE–200 CE), one of India's most widely translated texts. In it, the deity Krishna speaks to the warrior Arjuna before battle, outlining multiple paths of yoga: *jnana yoga* (the path of knowledge and discernment), *bhakti yoga* (the path of devotion), and *karma yoga* (the path of selfless action).
+This period's most influential teacher appears in the _Bhagavad Gita_ (c. 200 BCE–200 CE), one of India's most widely translated texts. In it, the deity Krishna speaks to the warrior Arjuna before battle, outlining multiple paths of yoga: _jnana yoga_ (the path of knowledge and discernment), _bhakti yoga_ (the path of devotion), and _karma yoga_ (the path of selfless action).
 
 What makes the Gita enduring is that Krishna presents yoga not as the exclusive domain of priests or renunciants, but as a path available to anyone living an ordinary life. That opening matters. It is part of why the Gita is still read and studied today.
 
@@ -34,11 +34,11 @@ What makes the Gita enduring is that Krishna presents yoga not as the exclusive 
 
 ## 3. The Classical Period (c. 400 CE) — Patanjali
 
-Around the 4th or 5th century CE, a sage named Patanjali compiled the *Yoga Sutras*: 196 short aphorisms that form the first systematic written framework for yoga practice. Patanjali did not invent yoga. He organized and clarified teachings that already existed, giving them a coherent shape.
+Around the 4th or 5th century CE, a sage named Patanjali compiled the _Yoga Sutras_: 196 short aphorisms that form the first systematic written framework for yoga practice. Patanjali did not invent yoga. He organized and clarified teachings that already existed, giving them a coherent shape.
 
-His definition of yoga remains the most cited in the tradition: *yoga citta vritti nirodha* — yoga is the cessation of the fluctuations of the mind. The goal is not physical fitness or flexibility. It is a stilling of the mental noise that ordinarily obscures clear awareness.
+His definition of yoga remains the most cited in the tradition: _yoga citta vritti nirodha_ — yoga is the cessation of the fluctuations of the mind. The goal is not physical fitness or flexibility. It is a stilling of the mental noise that ordinarily obscures clear awareness.
 
-Patanjali describes the *ashtanga* (eight-limbed) path: ethical principles (*yamas* and *niyamas*), posture (*asana*), breath regulation (*pranayama*), sense withdrawal (*pratyahara*), concentration (*dharana*), meditation (*dhyana*), and absorption (*samadhi*). Asana — the physical postures — is only one limb of eight, and Patanjali dedicates fewer than five sutras to it. The practice, in his framework, is far broader than what happens on the mat.
+Patanjali describes the _ashtanga_ (eight-limbed) path: ethical principles (_yamas_ and _niyamas_), posture (_asana_), breath regulation (_pranayama_), sense withdrawal (_pratyahara_), concentration (_dharana_), meditation (_dhyana_), and absorption (_samadhi_). Asana — the physical postures — is only one limb of eight, and Patanjali dedicates fewer than five sutras to it. The practice, in his framework, is far broader than what happens on the mat.
 
 ---
 
@@ -46,9 +46,9 @@ Patanjali describes the *ashtanga* (eight-limbed) path: ethical principles (*yam
 
 It was only around the 9th century that the physical body began to take a central role in yoga practice. This shift came largely through Tantra, a tradition that viewed the body not as an obstacle to liberation but as its vehicle. The goal remained the same — freedom of consciousness — but the method was to work through the body rather than in spite of it.
 
-The sage *Gorakhnath*, who lived in the 9th–10th century, is credited with establishing Hatha yoga as a systematic path and founding the Nath tradition. His teachings laid the groundwork for what would be codified centuries later.
+The sage _Gorakhnath_, who lived in the 9th–10th century, is credited with establishing Hatha yoga as a systematic path and founding the Nath tradition. His teachings laid the groundwork for what would be codified centuries later.
 
-In the 15th century, Swami Swatmarama wrote the *Hatha Yoga Pradipika*, the earliest major manual devoted to physical practice. For the first time, we have detailed descriptions of asanas, pranayama, *mudras* (energetic gestures), and *bandhas* (internal locks). This is where the physical tradition we recognize today begins to take shape. If you have ever held a posture and been asked to engage the root lock (*mula bandha*), you are following a thread that runs back to this text.
+In the 15th century, Swami Swatmarama wrote the _Hatha Yoga Pradipika_, the earliest major manual devoted to physical practice. For the first time, we have detailed descriptions of asanas, pranayama, _mudras_ (energetic gestures), and _bandhas_ (internal locks). This is where the physical tradition we recognize today begins to take shape. If you have ever held a posture and been asked to engage the root lock (_mula bandha_), you are following a thread that runs back to this text.
 
 ---
 
@@ -56,17 +56,17 @@ In the 15th century, Swami Swatmarama wrote the *Hatha Yoga Pradipika*, the earl
 
 For most of its history, yoga was practiced in India by relatively small groups — renunciants, sadhus, and students within teacher lineages. The late 19th century changed that fundamentally.
 
-In 1893, *Swami Vivekananda* addressed the Parliament of World's Religions in Chicago, introducing yoga philosophy to a Western audience for the first time. His approach was intellectual: yoga as a universal science of consciousness, not tied to any particular religion. He was invited to lecture across the United States and Europe. Yoga had crossed an ocean.
+In 1893, _Swami Vivekananda_ addressed the Parliament of World's Religions in Chicago, introducing yoga philosophy to a Western audience for the first time. His approach was intellectual: yoga as a universal science of consciousness, not tied to any particular religion. He was invited to lecture across the United States and Europe. Yoga had crossed an ocean.
 
-However, the teacher most directly responsible for the physical yoga practiced worldwide today is *Tirumalai Krishnamacharya* (1888–1989). Teaching in Mysore, India, he developed a dynamic, breath-synchronized practice and, over his long career, taught four students who would each go on to define a major lineage: B.K.S. Iyengar, Pattabhi Jois, Indra Devi, and his own son T.K.V. Desikachar. Nearly every major yoga tradition practiced globally today traces back through one of these four.
+However, the teacher most directly responsible for the physical yoga practiced worldwide today is _Tirumalai Krishnamacharya_ (1888–1989). Teaching in Mysore, India, he developed a dynamic, breath-synchronized practice and, over his long career, taught four students who would each go on to define a major lineage: B.K.S. Iyengar, Pattabhi Jois, Indra Devi, and his own son T.K.V. Desikachar. Nearly every major yoga tradition practiced globally today traces back through one of these four.
 
-Krishnamacharya also adapted his teaching to each individual student — a principle he called *viniyoga* — which is still considered a mark of good teaching.
+Krishnamacharya also adapted his teaching to each individual student — a principle he called _viniyoga_ — which is still considered a mark of good teaching.
 
 ---
 
 ## 6. Contemporary Yoga (Mid-20th Century–Present) — B.K.S. Iyengar
 
-From Krishnamacharya's lineage, *B.K.S. Iyengar* (1918–2014) built a global practice. His 1966 book *Light on Yoga* became the most widely read yoga manual of the 20th century, with photographs of hundreds of postures and precise instructions. More than that, Iyengar introduced the systematic use of props — blocks, straps, blankets, bolsters — making the practice accessible to people who would otherwise be excluded by physical limitations. He brought anatomical precision to a tradition that had previously been transmitted mostly through direct demonstration.
+From Krishnamacharya's lineage, _B.K.S. Iyengar_ (1918–2014) built a global practice. His 1966 book _Light on Yoga_ became the most widely read yoga manual of the 20th century, with photographs of hundreds of postures and precise instructions. More than that, Iyengar introduced the systematic use of props — blocks, straps, blankets, bolsters — making the practice accessible to people who would otherwise be excluded by physical limitations. He brought anatomical precision to a tradition that had previously been transmitted mostly through direct demonstration.
 
 Today, yoga is practiced by an estimated 300 million people worldwide. The styles look nothing like each other: Iyengar yoga uses props for careful anatomical alignment; Ashtanga follows a fixed sequence at a demanding pace; Yin yoga holds postures for several minutes at a time; Vinyasa links breath and movement in flowing sequences. Whether this diversity reflects vitality or dilution is a question worth sitting with.
 
