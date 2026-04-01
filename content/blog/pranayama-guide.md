@@ -30,7 +30,7 @@ These techniques activate the body, build heat, and sharpen the mind. They work 
 
 ### 1. Kapalabhati (skull-shining breath)
 
-![Kapalabhati](/images/pranayama/Kapalabhati.png)
+![Kapalabhati](/images/pranayama/Kapalabhati.webp)
 
 **How to practice:** Sit comfortably with the belly relaxed. Take a gentle inhale, then sharply contract the lower belly to push air out through the nose. The exhale is active; the inhale is passive and automatic. Begin with 30 pumps per round, rest for a few breaths, then repeat 2–3 times.
 
@@ -40,7 +40,7 @@ These techniques activate the body, build heat, and sharpen the mind. They work 
 
 ### 2. Bhastrika (bellows breath)
 
-![Bhastrika](/images/pranayama/Bhastrika.png)
+![Bhastrika](/images/pranayama/Bhastrika.webp)
 
 **How to practice:** Similar to Kapalabhati, but here both the inhale and the exhale are forceful and equal. Breathe rapidly through the nose, expanding and contracting the belly fully. The pace is slower than Kapalabhati — roughly one full breath per second. Do 20–30 breaths, then rest.
 
@@ -50,9 +50,9 @@ These techniques activate the body, build heat, and sharpen the mind. They work 
 
 ### 3. Agni Sara (fire essence)
 
-![Agni Sara](/images/pranayama/Agni_Sara.png)
+![Agni Sara](/images/pranayama/Agni_Sara.webp)
 
-**How to practice:** Exhale fully and hold the breath out. While the breath is held, pump the belly rapidly in and out — draw it back toward the spine, then release forward — as many times as comfortable. Inhale when you need to, rest, and repeat.
+**How to practice:** Stand with knees bent, hands on thighs. Exhale fully and hold the breath out with chin locked to chest. Pump the abdomen rhythmically—expanding and contracting rapidly. Release the chin lock, inhale gently, and rest. Repeat 2–3 rounds.
 
 **Benefits:** Agni Sara (from _agni_, fire, and _sara_, essence) stimulates the digestive fire, tones the abdominal muscles, and activates the solar plexus. In the hatha yoga tradition, it is valued for its effect on digestion and overall vitality. The belly movement here is the practice — the breath is the frame around it.
 
@@ -60,7 +60,7 @@ These techniques activate the body, build heat, and sharpen the mind. They work 
 
 ### 4. Surya Bhedana (sun-piercing breath)
 
-![Surya Bhedana](/images/pranayama/Surya_Bhedana-chatgpt.png)
+![Surya Bhedana](/images/pranayama/Surya_Bhedana.webp)
 
 **How to practice:** Bring the right hand to _vishnu mudra_ (fold the index and middle fingers). Close the left nostril with the ring finger. Inhale through the right nostril. Close the right nostril with the thumb and exhale through the left. Continue for several rounds — always inhaling right, exhaling left.
 
@@ -70,7 +70,7 @@ These techniques activate the body, build heat, and sharpen the mind. They work 
 
 ### 5. Simhasana Pranayama (Lion's breath)
 
-![Simhasana](/images/pranayama/Simhasana-chatgpt.png)
+![Simhasana](/images/pranayama/Simhasana.webp)
 
 **How to practice:** Sit in a comfortable position. Inhale deeply through the nose. On the exhale, open the mouth wide, extend the tongue toward the chin, and release the breath forcefully with a "ha" sound. Eyes open wide, gaze directed upward toward the eyebrow center. Repeat 3–5 times.
 
@@ -88,7 +88,7 @@ Two of the most important balancing techniques use alternate nostril breathing t
 
 ### 6. Nadi Shodhana (channel purification - alternate nostril breathing)
 
-![Nadi Shodhana](/images/pranayama/Nadi_Shodhana.png)
+![Nadi Shodhana](/images/pranayama/Nadi_Shodhana.webp)
 
 **How to practice:** Use _vishnu mudra_ with the right hand. Inhale through the right nostril, close it, exhale through the left. Inhale left, close, exhale right. That is one complete cycle. Continue for 5–10 minutes without holding the breath.
 
@@ -98,7 +98,7 @@ Two of the most important balancing techniques use alternate nostril breathing t
 
 ### 7. Anuloma Viloma (against the grain - alternate nostril breathing)
 
-![Anuloma Viloma](/images/pranayama/Anuloma_Viloma.png)
+![Anuloma Viloma](/images/pranayama/Anuloma_Viloma.webp)
 
 **How to practice:** The same alternate nostril pattern as Nadi Shodhana, but with _kumbhaka_ (breath retention) added. The classical ratio is 1:4:2 — if you inhale for 4 counts, you hold for 16 and exhale for 8. For example: inhale right 4, hold 16, exhale left 8; inhale left 4, hold 16, exhale right 8.
 
@@ -110,7 +110,7 @@ The following two techniques use counted, structured breathing — the breath is
 
 ### 8. Sama Vritti (equal breathing - box breathing)
 
-![Sama Vritti](/images/pranayama/Sama_Vritti.png)
+![Sama Vritti](/images/pranayama/Sama_Vritti.webp)
 
 **How to practice:** Inhale for 4 counts, exhale for 4 counts. For a box breath variation, add a hold after the inhale and after the exhale: inhale 4, hold 4, exhale 4, hold 4. This four-part version is sometimes called _Chaturtha pranayama_ — chaturtha meaning "fourth," referring to the four phases of the breath cycle.
 
@@ -120,7 +120,7 @@ The following two techniques use counted, structured breathing — the breath is
 
 ### 9. Visama Vritti (uneven breathing - box breathing)
 
-![Visama Vritti](/images/pranayama/Visama_Vritti.png)
+![Visama Vritti](/images/pranayama/Visama_Vritti.webp)
 
 **How to practice:** Breathe in unequal ratios — inhale and exhale are deliberately different lengths. The classic calming ratio is 1:2 (inhale 4 counts, exhale 8). A more energizing ratio lengthens the inhale relative to the exhale. Retentions can be added as the practice matures. Unlike Sama Vritti, the asymmetry is intentional.
 
@@ -130,7 +130,7 @@ The following two techniques use counted, structured breathing — the breath is
 
 ### 10. Ujjayi (victorious breath, ocean breath)
 
-![Ujjayi](/images/pranayama/Ujjayi.png)
+![Ujjayi](/images/pranayama/Ujjayi.webp)
 
 **How to practice:** Gently constrict the back of the throat — as though you are about to fog up a mirror, but with the mouth closed. Breathe in and out through the nose, producing a soft oceanic sound.
 
@@ -146,7 +146,7 @@ These techniques lower body temperature, slow the nervous system, and prepare th
 
 ### 11. Sheetali (cooling breath)
 
-![Sheetali](/images/pranayama/Sheetali.png)
+![Sheetali](/images/pranayama/Sheetali.webp)
 
 **How to practice:** Roll the tongue into a tube and extend it slightly past the lips. Inhale slowly through the rolled tongue — you will feel the air cooling the tongue and the back of the mouth. Close the mouth and exhale through the nose. Repeat for 8–15 breaths.
 
@@ -158,7 +158,7 @@ These techniques lower body temperature, slow the nervous system, and prepare th
 
 ### 12. Sheetkari (hissing breath)
 
-![Sheetkari](/images/pranayama/Sheetkari.png)
+![Sheetkari](/images/pranayama/Sheetkari.webp)
 
 **How to practice:** Bring the teeth gently together, part the lips, and inhale through the teeth with a soft hissing sound. Close the mouth and exhale through the nose.
 
@@ -168,7 +168,7 @@ These techniques lower body temperature, slow the nervous system, and prepare th
 
 ### 13. Chandra Bhedana (moon-piercing breath)
 
-![Chandra Bhedana](/images/pranayama/Chandra_Bhedana.png)
+![Chandra Bhedana](/images/pranayama/Chandra_Bhedana.webp)
 
 **How to practice:** The mirror image of Surya Bhedana. Inhale through the left nostril, exhale through the right. Repeat for several rounds — always inhaling left, exhaling right.
 
@@ -178,7 +178,7 @@ These techniques lower body temperature, slow the nervous system, and prepare th
 
 ### 14. Bhramari (humming bee breath)
 
-![Bhramari](/images/pranayama/Bhramari.png)
+![Bhramari](/images/pranayama/Bhramari.webp)
 
 **How to practice:** Sit quietly. Inhale fully. On the exhale, produce a gentle, continuous hum — low and steady. For a deeper effect, plug the ears with the thumbs and place the fingers lightly over the eyes and face (_shanmukhi mudra_, the six-gate seal). Feel the vibration in the skull and chest. Repeat 5–10 times.
 
@@ -188,7 +188,7 @@ These techniques lower body temperature, slow the nervous system, and prepare th
 
 ### 15. Murcha (fainting breath)
 
-![Murcha](/images/pranayama/Murcha.png)
+![Murcha](/images/pranayama/Murcha.webp)
 
 **How to practice:** Inhale fully, then hold the breath (_antara kumbhaka_ — retention with lungs full). Tilt the head back and fix the gaze at the eyebrow center (_shambhavi mudra_). Hold as long as comfortable, without strain. Exhale slowly and return the head to neutral before inhaling again.
 

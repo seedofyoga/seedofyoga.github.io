@@ -30,7 +30,7 @@ Ces techniques activent le corps, génèrent de la chaleur et affûtent l'esprit
 
 ### 1. Kapalabhati (le souffle du crâne lumineux)
 
-![Kapalabhati](/images/pranayama/Kapalabhati.png)
+![Kapalabhati](/images/pranayama/Kapalabhati.webp)
 
 **Comment pratiquer :** Asseyez-vous confortablement, le ventre relâché. Prenez une inspiration douce, puis contractez brusquement le bas-ventre pour expulser l'air par le nez. L'expiration est active ; l'inspiration est passive et automatique. Commencez par 30 pompes par cycle, reposez-vous quelques respirations, puis répétez 2 à 3 fois.
 
@@ -40,7 +40,7 @@ Ces techniques activent le corps, génèrent de la chaleur et affûtent l'esprit
 
 ### 2. Bhastrika (le souffle du soufflet)
 
-![Bhastrika](/images/pranayama/Bhastrika.png)
+![Bhastrika](/images/pranayama/Bhastrika.webp)
 
 **Comment pratiquer :** Similaire au Kapalabhati, mais ici l'inspiration et l'expiration sont toutes deux actives et égales. Respirez rapidement par le nez en gonflant et en rétractant pleinement le ventre. Le rythme est plus lent que le Kapalabhati — environ un cycle complet par seconde. Effectuez 20 à 30 respirations, puis reposez-vous.
 
@@ -50,9 +50,9 @@ Ces techniques activent le corps, génèrent de la chaleur et affûtent l'esprit
 
 ### 3. Agni Sara (l'essence du feu)
 
-![Agni Sara](/images/pranayama/Agni_Sara.png)
+![Agni Sara](/images/pranayama/Agni_Sara.webp)
 
-**Comment pratiquer :** Expirez complètement, puis retenez le souffle poumons vides. Pendant cette rétention, pompez le ventre rapidement en dedans et en dehors — ramenez-le vers la colonne, puis relâchez vers l'avant — autant de fois que confortablement possible. Inspirez quand vous en avez besoin, reposez-vous, puis recommencez.
+**Comment pratiquer :** Tenez-vous debout, genoux fléchis, mains sur les cuisses. Expirez complètement et retenez votre souffle en verrouillant le menton contre la poitrine. Pompez l’abdomen de façon rythmée en l’alternant entre expansion et contraction rapides. Relâchez le verrouillage du menton, inspirez doucement et reposez-vous. Répétez 2 à 3 rounds.
 
 **Bénéfices :** Agni Sara (de _agni_, feu, et _sara_, essence) stimule le feu digestif, tonifie les muscles abdominaux et active le plexus solaire. Dans la tradition du hatha yoga, cette pratique est particulièrement valorisée pour ses effets sur la digestion et la vitalité générale. Le mouvement du ventre constitue ici la pratique à proprement parler — la respiration n'en est que le cadre.
 
@@ -60,7 +60,7 @@ Ces techniques activent le corps, génèrent de la chaleur et affûtent l'esprit
 
 ### 4. Surya Bhedana (le souffle qui perce le soleil)
 
-![Surya Bhedana](/images/pranayama/Surya_Bhedana-chatgpt.png)
+![Surya Bhedana](/images/pranayama/Surya_Bhedana.webp)
 
 **Comment pratiquer :** Formez le _vishnu mudra_ avec la main droite (index et majeur repliés). Fermez la narine gauche avec l'annulaire. Inspirez par la narine droite. Fermez la narine droite avec le pouce et expirez par la gauche. Continuez ainsi plusieurs cycles — en inspirant toujours par la droite et en expirant par la gauche.
 
@@ -70,7 +70,7 @@ Ces techniques activent le corps, génèrent de la chaleur et affûtent l'esprit
 
 ### 5. Simhasana Pranayama (le souffle du lion)
 
-![Simhasana](/images/pranayama/Simhasana-chatgpt.png)
+![Simhasana](/images/pranayama/Simhasana.webp)
 
 **Comment pratiquer :** Asseyez-vous dans une position confortable. Inspirez profondément par le nez. À l'expiration, ouvrez grand la bouche, tirez la langue vers le menton et relâchez le souffle avec force en produisant un son « ha ». Yeux grands ouverts, regard dirigé vers le centre du front. Répétez 3 à 5 fois.
 
@@ -88,7 +88,7 @@ Deux des techniques équilibrantes les plus importantes utilisent la respiration
 
 ### 6. Nadi Shodhana (la purification des canaux - respiration alternée)
 
-![Nadi Shodhana](/images/pranayama/Nadi_Shodhana.png)
+![Nadi Shodhana](/images/pranayama/Nadi_Shodhana.webp)
 
 **Comment pratiquer :** Utilisez le _vishnu mudra_ avec la main droite. Inspirez par la narine droite, fermez-la, expirez par la gauche. Inspirez par la gauche, fermez-la, expirez par la droite. C'est un cycle complet. Continuez pendant 5 à 10 minutes sans retenir le souffle.
 
@@ -98,7 +98,7 @@ Deux des techniques équilibrantes les plus importantes utilisent la respiration
 
 ### 7. Anuloma Viloma (à contre-sens - respiration alternée)
 
-![Anuloma Viloma](/images/pranayama/Anuloma_Viloma.png)
+![Anuloma Viloma](/images/pranayama/Anuloma_Viloma.webp)
 
 **Comment pratiquer :** Le même schéma de respiration alternée que le Nadi Shodhana, mais avec l'ajout du _kumbhaka_ (rétention). Le ratio classique est 1:4:2 — si vous inspirez en 4 temps, vous retenez en 16 et expirez en 8. Par exemple : inspirer à droite 4 temps, retenir 16, expirer à gauche 8 ; inspirer à gauche 4 temps, retenir 16, expirer à droite 8.
 
@@ -110,7 +110,7 @@ Les deux techniques suivantes utilisent une respiration comptée et structurée 
 
 ### 8. Sama Vritti (la respiration égale - respiration en carré)
 
-![Sama Vritti](/images/pranayama/Sama_Vritti.png)
+![Sama Vritti](/images/pranayama/Sama_Vritti.webp)
 
 **Comment pratiquer :** Inspirez en 4 temps, expirez en 4 temps. Pour la variante en carré, ajoutez une rétention après l'inspiration et après l'expiration : inspiration 4, rétention 4, expiration 4, rétention 4. Cette version en quatre phases est parfois appelée _Chaturtha pranayama_ — chaturtha signifiant « quatrième », en référence aux quatre phases du cycle respiratoire.
 
@@ -120,7 +120,7 @@ Les deux techniques suivantes utilisent une respiration comptée et structurée 
 
 ### 9. Visama Vritti (la respiration inégale - respiration en carré)
 
-![Visama Vritti](/images/pranayama/Visama_Vritti.png)
+![Visama Vritti](/images/pranayama/Visama_Vritti.webp)
 
 **Comment pratiquer :** Respirez en ratios inégaux — inspiration et expiration ont délibérément des durées différentes. Le ratio calmant classique est 1:2 (inspiration 4 temps, expiration 8). Un ratio plus énergisant allonge l'inspiration par rapport à l'expiration. Des rétentions peuvent être ajoutées à mesure que la pratique mûrit. Contrairement au Sama Vritti, l'asymétrie est intentionnelle.
 
@@ -130,7 +130,7 @@ Les deux techniques suivantes utilisent une respiration comptée et structurée 
 
 ### 10. Ujjayi (le souffle victorieux, la respiration de l'océan)
 
-![Ujjayi](/images/pranayama/Ujjayi.png)
+![Ujjayi](/images/pranayama/Ujjayi.webp)
 
 **Comment pratiquer :** Contractez légèrement l'arrière de la gorge — comme si vous alliez embuer un miroir, mais bouche fermée. Respirez par le nez en produisant un léger son océanique.
 
@@ -146,7 +146,7 @@ Ces techniques abaissent la température corporelle, ralentissent le système ne
 
 ### 11. Sheetali (le souffle rafraîchissant)
 
-![Sheetali](/images/pranayama/Sheetali.png)
+![Sheetali](/images/pranayama/Sheetali.webp)
 
 **Comment pratiquer :** Roulez la langue en tube et laissez-la légèrement dépasser des lèvres. Inspirez lentement à travers cette paille naturelle — vous sentirez l'air rafraîchir la langue et l'arrière de la bouche. Fermez la bouche et expirez par le nez. Répétez 8 à 15 fois.
 
@@ -158,7 +158,7 @@ Ces techniques abaissent la température corporelle, ralentissent le système ne
 
 ### 12. Sheetkari (le souffle sifflant)
 
-![Sheetkari](/images/pranayama/Sheetkari.png)
+![Sheetkari](/images/pranayama/Sheetkari.webp)
 
 **Comment pratiquer :** Rapprochez doucement les dents, entrouvrez les lèvres et inspirez à travers les dents en produisant un léger sifflement. Fermez la bouche et expirez par le nez.
 
@@ -168,7 +168,7 @@ Ces techniques abaissent la température corporelle, ralentissent le système ne
 
 ### 13. Chandra Bhedana (le souffle qui perce la lune)
 
-![Chandra Bhedana](/images/pranayama/Chandra_Bhedana.png)
+![Chandra Bhedana](/images/pranayama/Chandra_Bhedana.webp)
 
 **Comment pratiquer :** L'image miroir du Surya Bhedana. Inspirez par la narine gauche, expirez par la droite. Répétez plusieurs cycles — en inspirant toujours par la gauche et en expirant par la droite.
 
@@ -178,7 +178,7 @@ Ces techniques abaissent la température corporelle, ralentissent le système ne
 
 ### 14. Bhramari (le souffle de l'abeille)
 
-![Bhramari](/images/pranayama/Bhramari.png)
+![Bhramari](/images/pranayama/Bhramari.webp)
 
 **Comment pratiquer :** Asseyez-vous tranquillement. Inspirez pleinement. À l'expiration, produisez un bourdonnement doux et continu — grave et régulier. Pour un effet plus profond, bouchez les oreilles avec les pouces et posez les doigts délicatement sur les yeux et le visage (_shanmukhi mudra_, le sceau des six portes). Sentez la vibration dans le crâne et la poitrine. Répétez 5 à 10 fois.
 
@@ -188,7 +188,7 @@ Ces techniques abaissent la température corporelle, ralentissent le système ne
 
 ### 15. Murcha (le souffle de l'évanouissement)
 
-![Murcha](/images/pranayama/Murcha.png)
+![Murcha](/images/pranayama/Murcha.webp)
 
 **Comment pratiquer :** Inspirez pleinement, puis retenez le souffle (_antara kumbhaka_ — rétention poumons pleins). Inclinez doucement la tête en arrière et fixez le regard vers le centre des sourcils (_shambhavi mudra_). Maintenez aussi longtemps que confortable, sans forcer. Expirez lentement et ramenez la tête en position neutre avant d'inspirer à nouveau.
 
