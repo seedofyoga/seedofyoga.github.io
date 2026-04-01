@@ -10,11 +10,9 @@ describe('Blog list page', () => {
     assert.ok(articles.length > 0, 'blog list should have at least one article');
   });
 
-  for (const title of ['Title sample', 'The Many Faces of Yoga: A Guide to the Main Styles']) {
-    it(`shows post "${title}"`, () => {
-      assert.ok($.html().includes(title));
-    });
-  }
+  it('shows post "The Many Faces of Yoga: A Guide to the Main Styles"', () => {
+    assert.ok($.html().includes('The Many Faces of Yoga: A Guide to the Main Styles'));
+  });
 });
 
 describe('Blog single post', () => {

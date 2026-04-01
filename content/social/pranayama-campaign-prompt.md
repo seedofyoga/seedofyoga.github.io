@@ -8,7 +8,7 @@
 
 ## Facebook Post
 
-Pranayama — yogic breathwork — is a core element of yoga. There are many different Pranayama techniques with different effects : energizing, balancing, or calming. Knowing which to use and when will benefit your practice.
+Pranayama — yogic breathwork — is a core element of yoga. There are many different Pranayama techniques with different effects : energizing, balancing, or calming. Knowing which to use and when is essential for your practice.
 
 I've written a guide covering 15 of the main pranayama techniques, organized by effect and the best time of day to practice each.
 
@@ -69,7 +69,7 @@ Full guide on the blog → link in bio.
 
 ### Caption
 
-Pranayama — yogic breathwork — is a core element of yoga. There are many different Pranayama techniques with different effects : energizing, balancing, or calming. Knowing which to use and when will benefit your practice.
+Pranayama — yogic breathwork — is a core element of yoga. Each Pranayama technique has different effects : energizing, balancing, or calming. Knowing which to use and when is essential for your practice.
 
 I've written a guide covering 15 of the main pranayama techniques, organized by effect and the best time of day to practice each.
 
@@ -176,7 +176,7 @@ Full guide on 15 techniques → link in description.
 
 ## X / Bluesky
 
-Pranayama — yogic breathwork — is a core element of yoga. Each Pranayama techniques has different effects : energizing, balancing, or calming. Knowing which to use and when will benefit your practice.
+Pranayama — yogic breathwork — is a core element of yoga. Each Pranayama technique has different effects : energizing, balancing, or calming. Knowing which to use and when is essential for your practice.
 
 15 techniques, all explained: https://www.seedofyoga.com/blog/pranayama-guide/
 
