@@ -96,7 +96,7 @@ Studio Ghibli-style hand-drawn illustration. A close-up scene: a pair of hands r
 **Text:**
 **So Hum**
 A breath mantra: "I am that."
-*So* on the inhale. *Hum* on the exhale.
+_So_ on the inhale. _Hum_ on the exhale.
 It is already built into the breath — you simply listen to what is already happening.
 
 **Nano Banana prompt:**
@@ -121,9 +121,9 @@ Studio Ghibli-style hand-drawn illustration. A small group of five people seated
 
 **Text:**
 **Om Shanti Shanti Shanti**
-*Shanti* — peace. Not the absence of noise, but a deep, settled stillness.
+_Shanti_ — peace. Not the absence of noise, but a deep, settled stillness.
 The triple repetition invokes peace at three levels: body, mind, and outer world.
-By the third *Shanti*, something in the room tends to shift.
+By the third _Shanti_, something in the room tends to shift.
 
 **Nano Banana prompt:**
 Studio Ghibli-style hand-drawn illustration. A single person sits in meditation in a quiet garden at dusk, beneath a wide-canopied tree. The sky is a deep gradient from soft indigo above to pale rose at the horizon. The garden around them is perfectly still — no wind, no movement. Fireflies glow faintly among the grass. The figure is small within the scene, surrounded by a deep, encompassing quiet. The mood is of complete and unhurried peace. Painterly Ghibli brushwork, twilight palette. Palette: deep indigo, soft rose, pale gold fireflies, sage green, warm cream. Aspect ratio 4:5, no text.

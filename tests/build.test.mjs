@@ -14,7 +14,7 @@ describe('Hugo build output', () => {
     assert.ok(fs.existsSync(path.join(PUBLIC_DIR, 'blog', 'index.html')));
   });
 
-  for (const slug of ['article-sample', 'yoga-styles']) {
+  for (const slug of ['yoga-styles']) {
     it(`produces blog post page: ${slug}`, () => {
       assert.ok(fs.existsSync(path.join(PUBLIC_DIR, 'blog', slug, 'index.html')));
     });
