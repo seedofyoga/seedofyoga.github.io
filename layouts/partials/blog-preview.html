@@ -13,7 +13,8 @@
         {{ with .Params.image }}
         <div class="relative aspect-[16/9] overflow-hidden">
           <img src="{{ . }}" alt="{{ $.Title }}"
-               class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500 ease-out">
+               class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500 ease-out"
+               loading="lazy">
           <div class="absolute inset-0 bg-gradient-to-t from-sage-900/20 to-transparent"></div>
           <div class="absolute inset-0 bg-sage-500/5 mix-blend-multiply"></div>
         </div>

@@ -1,5 +1,6 @@
 baseURL = "https://seedofyoga.com/"
 title = "Seed of Yoga"
+languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 

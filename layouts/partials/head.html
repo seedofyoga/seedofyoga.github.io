@@ -4,6 +4,49 @@
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
 
+<!-- Canonical & hreflang -->
+<link rel="canonical" href="{{ .Permalink }}">
+{{ if .IsTranslated }}
+{{ range .Translations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}
+
+<!-- Open Graph -->
+{{ $ogTitle := cond .IsHome (printf "%s — %s" .Site.Title .Site.Params.description) .Title }}
+{{ $ogDesc := cond (ne .Description "") .Description .Site.Params.description }}
+{{ $ogImage := cond (and (isset .Params "image") (ne .Params.image "")) .Params.image "/images/logo.png" }}
+<meta property="og:title" content="{{ $ogTitle }}">
+<meta property="og:description" content="{{ $ogDesc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:type" content="{{ cond (eq .Section "blog") "article" "website" }}">
+<meta property="og:image" content="{{ $ogImage | absURL }}">
+<meta property="og:locale" content="{{ cond (eq .Language.Lang "fr") "fr_FR" "en_US" }}">
+<meta property="og:locale:alternate" content="{{ cond (eq .Language.Lang "fr") "en_US" "fr_FR" }}">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $ogTitle }}">
+<meta name="twitter:description" content="{{ $ogDesc }}">
+<meta name="twitter:image" content="{{ $ogImage | absURL }}">
+
+<!-- JSON-LD: Organization -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Seed of Yoga",
+  "url": "https://seedofyoga.com",
+  "logo": "https://seedofyoga.com/images/logo.png",
+  "sameAs": [
+    "https://www.instagram.com/seed.of.yoga/",
+    "https://www.facebook.com/seedofyoga/"
+  ]
+}
+</script>
+
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
