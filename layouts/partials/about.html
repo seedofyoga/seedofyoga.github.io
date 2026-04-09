@@ -1,4 +1,4 @@
-{{ $about := index .Site.Data .Site.Language.Lang "about" }}
+{{ $about := index hugo.Data .Site.Language.Lang "about" }}
 <section id="about" class="bg-sage-50 py-16 md:py-24 scroll-mt-20">
   <div class="max-w-6xl mx-auto px-4 md:px-8">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center">

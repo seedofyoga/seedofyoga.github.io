@@ -19,31 +19,32 @@
       {{ end }}
       <!-- Language switcher -->
       <li class="flex items-center gap-1 text-sm font-semibold tracking-wide uppercase">
-        {{ range .Site.Languages }}
+        {{ range hugo.Sites }}
+          {{ $lang := .Language.Lang }}
+          {{ $langName := .Language.LanguageName }}
           {{ $translationURL := "" }}
-          {{ if eq .Lang $.Site.Language.Lang }}
+          {{ if eq $lang $.Site.Language.Lang }}
             {{ $translationURL = $.RelPermalink }}
           {{ else }}
             {{ range $.Translations }}
-              {{ if eq .Language.Lang $.Site.Language.Lang }}
-              {{ else }}
+              {{ if ne .Language.Lang $.Site.Language.Lang }}
                 {{ $translationURL = .RelPermalink }}
               {{ end }}
             {{ end }}
             {{ if not $translationURL }}
-              {{ if eq .Lang "fr" }}
+              {{ if eq $lang "fr" }}
                 {{ $translationURL = "/fr/" }}
               {{ else }}
                 {{ $translationURL = "/" }}
               {{ end }}
             {{ end }}
           {{ end }}
-          {{ if eq .Lang $.Site.Language.Lang }}
-            <a href="{{ $translationURL }}" class="text-sage-900">{{ .LanguageName }}</a>
+          {{ if eq $lang $.Site.Language.Lang }}
+            <a href="{{ $translationURL }}" class="text-sage-900">{{ $langName }}</a>
           {{ else }}
-            <a href="{{ $translationURL }}" class="text-sage-400 hover:text-sage-700">{{ .LanguageName }}</a>
+            <a href="{{ $translationURL }}" class="text-sage-400 hover:text-sage-700">{{ $langName }}</a>
           {{ end }}
-          {{ if ne .Lang "fr" }}<span class="text-sage-300">|</span>{{ end }}
+          {{ if ne $lang "fr" }}<span class="text-sage-300">|</span>{{ end }}
         {{ end }}
       </li>
     </ul>
@@ -70,31 +71,32 @@
       {{ end }}
       <!-- Mobile language switcher -->
       <li class="flex items-center gap-2 py-3 px-3 text-base font-semibold">
-        {{ range .Site.Languages }}
+        {{ range hugo.Sites }}
+          {{ $lang := .Language.Lang }}
+          {{ $langName := .Language.LanguageName }}
           {{ $translationURL := "" }}
-          {{ if eq .Lang $.Site.Language.Lang }}
+          {{ if eq $lang $.Site.Language.Lang }}
             {{ $translationURL = $.RelPermalink }}
           {{ else }}
             {{ range $.Translations }}
-              {{ if eq .Language.Lang $.Site.Language.Lang }}
-              {{ else }}
+              {{ if ne .Language.Lang $.Site.Language.Lang }}
                 {{ $translationURL = .RelPermalink }}
               {{ end }}
             {{ end }}
             {{ if not $translationURL }}
-              {{ if eq .Lang "fr" }}
+              {{ if eq $lang "fr" }}
                 {{ $translationURL = "/fr/" }}
               {{ else }}
                 {{ $translationURL = "/" }}
               {{ end }}
             {{ end }}
           {{ end }}
-          {{ if eq .Lang $.Site.Language.Lang }}
-            <a href="{{ $translationURL }}" class="text-sage-900">{{ .LanguageName }}</a>
+          {{ if eq $lang $.Site.Language.Lang }}
+            <a href="{{ $translationURL }}" class="text-sage-900">{{ $langName }}</a>
           {{ else }}
-            <a href="{{ $translationURL }}" class="text-sage-400 hover:text-sage-700">{{ .LanguageName }}</a>
+            <a href="{{ $translationURL }}" class="text-sage-400 hover:text-sage-700">{{ $langName }}</a>
           {{ end }}
-          {{ if ne .Lang "fr" }}<span class="text-sage-300">|</span>{{ end }}
+          {{ if ne $lang "fr" }}<span class="text-sage-300">|</span>{{ end }}
         {{ end }}
       </li>
     </ul>
