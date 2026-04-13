@@ -1,5 +1,5 @@
 ---
-title: 'The Many Faces of Yoga: A Guide to the Main Styles'
+title: 'The Different Yoga Styles'
 date: 2026-03-25
 description: 'From ancient Hatha to modern AcroYoga — an overview of the main yoga styles, what makes each one distinct, and how to find your path.'
 image: '/images/yoga-styles/yoga-styles-thumbnail.png'

@@ -1,5 +1,5 @@
 ---
-title: 'Le Pranayama : guide des principales techniques de respiration'
+title: 'Pranayama : Les principales techniques de respiration expliquées'
 date: 2026-03-31
 description: "La respiration est l'outil le plus direct du yoga. Ce guide présente 15 techniques de pranayama — énergisantes, équilibrantes, et calmantes — avec des instructions, les bénéfices et le meilleur moment de la journée pour les pratiquer."
 image: '/images/pranayama/pranayama-thumbnail.png'
