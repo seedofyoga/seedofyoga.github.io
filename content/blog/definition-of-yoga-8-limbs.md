@@ -1,7 +1,7 @@
 ---
-title: 'What is Yoga? The Definition and the Eight Limbs'
+title: 'What is Yoga?'
 date: 2026-04-01
-description: "Most people come to yoga through the postures. Patanjali's Yoga Sutras describe something considerably broader — a complete eight-limbed path toward the stilling of the mind."
+description: "Most people come to yoga through the postures. Patanjali's Yoga Sutras describe something considerably broader — a path toward the stilling of the mind."
 image: '/images/8-limbs/8-limbs-thumbnail.png'
 tags: ['philosophy', 'patanjali', 'yoga sutras', 'ashtanga', 'eight limbs']
 ---

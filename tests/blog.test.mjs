@@ -10,8 +10,8 @@ describe('Blog list page', () => {
     assert.ok(articles.length > 0, 'blog list should have at least one article');
   });
 
-  it('shows post "The Many Faces of Yoga: A Guide to the Main Styles"', () => {
-    assert.ok($.html().includes('The Many Faces of Yoga: A Guide to the Main Styles'));
+  it('shows post "The Different Yoga Styles"', () => {
+    assert.ok($.html().includes('The Different Yoga Styles'));
   });
 });
 
@@ -20,7 +20,7 @@ describe('Blog single post', () => {
 
   it('has title in h1', () => {
     const h1 = $('h1');
-    assert.ok(h1.text().includes('Many Faces of Yoga'));
+    assert.ok(h1.text().includes('Different Yoga Styles'));
   });
 
   it('renders tags', () => {
