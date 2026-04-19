@@ -16,13 +16,15 @@ Dans cet article, nous allons explorer la définition du yoga selon Patañjali e
 
 Le mot _yoga_ vient de la racine sanskrite _yuj_, qui signifie « joindre », « unir » ou « relier ». L'union en question est celle entre la conscience individuelle et quelque chose de plus vaste — décrit différemment selon les traditions, mais pointant vers la même réalité : la dissolution du sentiment de séparation entre le soi et la conscience pure.
 
-La définition de Patañjali apparaît dans le deuxième sutra des Yoga Sutras et est parmi les plus précises de toute la littérature yogique : _yoga citta vritti nirodha_. Le yoga est la cessation des fluctuations (_vrittis_) de l'esprit (_citta_). Lorsque le mouvement constant de la pensée, de la perception, de la mémoire et de l'imagination s'apaise, ce qui demeure est la nature du voyant — la conscience elle-même, sans distorsion.
+La définition de Patañjali apparaît dans le deuxième sutra des Yoga Sutras et est parmi les plus précises de toute la littérature yogique : _yoga citta vritti nirodha_. Le yoga est la **cessation des fluctuations (_vrittis_) de l'esprit (_citta_)**. Lorsque le mouvement constant de la pensée, de la perception, de la mémoire et de l'imagination s'apaise, ce qui demeure est la nature du voyant — la conscience elle-même, sans distorsion.
 
 Cette définition mérite qu'on s'y arrête, car elle clarifie immédiatement ce que le yoga n'est pas. Ce n'est pas une pratique de remise en forme, bien que la pratique physique puisse la servir. Ce n'est pas une religion, bien que de nombreuses traditions qui le contiennent soient religieuses. Et ce n'est pas une technique de relaxation — du moins pas au sens ordinaire. La tranquillité que Patañjali désigne n'est pas l'absence de tension. C'est le fond inconditionné sous toute activité mentale.
 
 ---
 
-## Les huit membres (_ashtanga_)
+## Les huit membres du yoga
+
+![8-limbs](/images/8-limbs/8-limbs.png)
 
 Patañjali décrit le yoga comme un chemin à huit membres — _ashtanga_, de _ashta_ (huit) et _anga_ (membre). Ce ne sont pas huit pratiques séparées parmi lesquelles choisir ; ce sont huit dimensions d'une seule discipline intégrée. Le mot « membres » est délibéré : un corps ne peut pas fonctionner correctement si l'un de ses membres est négligé.
 
@@ -31,6 +33,8 @@ Les huit membres vont du plus extérieur au plus intérieur. Les deux premiers c
 ---
 
 ### 1. Yamas — Principes éthiques envers les autres
+
+![yamas](/images/8-limbs/yamas.png)
 
 Les _yamas_ sont cinq lignes directrices pour notre relation avec le monde. Ce ne sont pas des commandements, mais des observations : quand ces principes sont violés, l'esprit s'agite ; quand ils sont pratiqués, l'esprit s'apaise.
 
@@ -42,6 +46,8 @@ Les _yamas_ sont cinq lignes directrices pour notre relation avec le monde. Ce n
 
 ### 2. Niyamas — Principes éthiques envers soi-même
 
+![Niyamas](/images/8-limbs/niyamas.png)
+
 Là où les yamas gouvernent la conduite extérieure, les _niyamas_ sont cinq pratiques de discipline personnelle et de cultivation intérieure.
 
 - _Saucha_ (pureté) : propreté du corps, de l'environnement et de l'esprit
@@ -52,11 +58,15 @@ Là où les yamas gouvernent la conduite extérieure, les _niyamas_ sont cinq pr
 
 ### 3. Asana — La posture
 
+![asana](/images/8-limbs/asana.png)
+
 Dans les Yoga Sutras, l'_asana_ est défini en un seul sutra : _sthira sukham asanam_ — une posture qui est stable et confortable. La préoccupation de Patañjali n'est pas la souplesse ou la force. Il décrit la qualité d'assise que la méditation requiert : alerte, détendue, sans agitation.
 
 La pratique physique élaborée des asanas s'est développée bien plus tard, principalement à travers la tradition du Hatha yoga. Cependant, le principe sous-jacent reste inchangé : le corps doit pouvoir demeurer immobile sans devenir un obstacle au travail de l'esprit.
 
 ### 4. Pranayama — La régulation du souffle
+
+![pranayama](/images/8-limbs/pranayama.png)
 
 Le _pranayama_ est la régulation et l'extension du souffle. _Prana_ désigne la force vitale — l'énergie qui est dite animer tous les êtres vivants. _Ayama_ signifie extension ou expansion. Par la respiration consciente, le pratiquant influence directement le système nerveux et, par extension, la qualité de l'esprit.
 
@@ -64,21 +74,29 @@ Selon les Yoga Sutras, le pranayama rend l'esprit apte à la concentration. Ce n
 
 ### 5. Pratyahara — Le retrait des sens
 
+![Pratyahara](/images/8-limbs/pratyahara.png)
+
 _Pratyahara_ signifie « se retirer » ou « recueillir ». C'est le tournant de l'attention vers l'intérieur, à l'écart de la stimulation sensorielle. Cela ne signifie pas couper les sens par la force — c'est plutôt la conséquence naturelle d'une concentration soutenue : quand l'esprit est pleinement absorbé par son objet, il cesse de chercher de nouvelles informations vers l'extérieur.
 
 La pratyahara est le membre-pont. Elle relie les pratiques extérieures — les quatre premiers membres — aux trois pratiques intérieures qui suivent.
 
 ### 6. Dharana — La concentration
 
+![Dharana](/images/8-limbs/dharana.png)
+
 _Dharana_ est la pratique qui consiste à fixer l'esprit sur un seul objet et à l'y maintenir. L'objet peut être un point du corps, une image visualisée, un mantra, une flamme. Ce qui est entraîné ici, c'est la capacité à choisir où va l'attention — et à l'y ramener, à répétition, quand elle s'égare.
 
 ### 7. Dhyana — La méditation
+
+![Dhyana](/images/8-limbs/dhyana.png)
 
 _Dhyana_ est ce qui se produit quand la concentration mûrit : le flux d'attention vers l'objet devient ininterrompu. La qualité de l'attention est la même que dans la dharana, mais elle est maintenant soutenue sans l'effort constant du retour. La distance entre le méditant et l'objet de la méditation commence à se réduire.
 
 La différence entre dharana et dhyana n'est pas une différence de technique, mais de profondeur. On ne peut pas décider d'être en dhyana — on peut seulement créer les conditions par la dharana.
 
 ### 8. Samadhi — L'absorption
+
+![Samadhi](/images/8-limbs/samadhi.png)
 
 _Samadhi_ est le point culminant du chemin. L'esprit est si pleinement absorbé par l'objet de méditation que le sentiment d'un observateur séparé se dissout. Ce qui reste, c'est la conscience elle-même, sans le coloration de l'esprit pensant.
 

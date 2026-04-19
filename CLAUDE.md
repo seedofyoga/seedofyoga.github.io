@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Seed of Yoga — single-page landing site with blog for a yoga teacher in Narbonne, France.
+Seed of Yoga — single-page landing site with blog for a yoga teacher in Gruissan, France.
 Built with Hugo (static site generator), Tailwind CSS via CDN, vanilla JS.
 Deployed to GitHub Pages via GitHub Actions.
 

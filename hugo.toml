@@ -19,8 +19,8 @@ defaultContentLanguageInSubdir = false
     languageName = "EN"
     weight = 1
     [languages.en.params]
-      description = "Yoga classes in Narbonne"
-      tagline = "Yoga classes in Narbonne"
+      description = "Yoga classes in Gruissan"
+      tagline = "Yoga classes in Gruissan"
     [[languages.en.menu.main]]
       name = "Schedule"
       url = "/#schedule"
@@ -50,8 +50,8 @@ defaultContentLanguageInSubdir = false
     languageName = "FR"
     weight = 2
     [languages.fr.params]
-      description = "Cours de yoga sur Narbonne"
-      tagline = "Cours de yoga sur Narbonne"
+      description = "Cours de yoga sur Gruissan"
+      tagline = "Cours de yoga sur Gruissan"
     [[languages.fr.menu.main]]
       name = "Horaires"
       url = "/fr/#schedule"

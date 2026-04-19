@@ -16,13 +16,15 @@ In this article, we will explore Patanjali's definition of yoga and the eight-li
 
 The word _yoga_ comes from the Sanskrit root _yuj_, meaning to yoke, to unite, or to bring together. The union in question is between individual consciousness and something larger — described differently across traditions, but pointing to the same thing: the dissolution of the sense of separation between the self and pure awareness.
 
-Patanjali's definition appears in the second sutra of the Yoga Sutras and is among the most precise in the entire literature: _yoga citta vritti nirodha_. Yoga is the cessation of the fluctuations (_vrittis_) of the mind (_citta_). When the constant movement of thought, perception, memory, and imagination grows still, what remains is the nature of the seer — awareness itself, undistorted.
+Patanjali's definition appears in the second sutra of the Yoga Sutras and is among the most precise in the entire literature: _yoga citta vritti nirodha_. **Yoga is the cessation of the fluctuations (_vrittis_) of the mind (_citta_)**. When the constant movement of thought, perception, memory, and imagination grows still, what remains is the nature of the seer — awareness itself, undistorted.
 
 This definition is worth sitting with, because it immediately clarifies what yoga is not. It is not a fitness practice, though physical practice can serve it. It is not a religion, though many traditions that contain yoga are religious. And it is not a relaxation technique — at least not in the ordinary sense. The stillness Patanjali is pointing to is not the absence of tension. It is the unconditioned ground beneath all mental activity.
 
 ---
 
-## The eight limbs (_ashtanga_)
+## The eight limbs of yoga
+
+![8-limbs](/images/8-limbs/8-limbs.png)
 
 Patanjali describes yoga as a path with eight limbs — _ashtanga_, from _ashta_ (eight) and _anga_ (limb). These are not eight separate practices to choose from; they are eight dimensions of a single integrated discipline. The word "limbs" is deliberate: a body cannot function well if one of its limbs is neglected.
 
@@ -31,6 +33,8 @@ The eight limbs move from the most outward to the most inward. The first two add
 ---
 
 ### 1. Yamas — Ethical principles toward others
+
+![yamas](/images/8-limbs/yamas.png)
 
 The _yamas_ are five guidelines for how we relate to the world. They are not commandments but observations: when these principles are violated, the mind becomes agitated; when they are practiced, the mind settles.
 
@@ -42,6 +46,8 @@ The _yamas_ are five guidelines for how we relate to the world. They are not com
 
 ### 2. Niyamas — Ethical principles toward oneself
 
+![Niyamas](/images/8-limbs/niyamas.png)
+
 Where the yamas govern outward conduct, the _niyamas_ are five practices of self-discipline and inner cultivation.
 
 - _Saucha_ (purity): cleanliness of body, environment, and mind
@@ -52,11 +58,15 @@ Where the yamas govern outward conduct, the _niyamas_ are five practices of self
 
 ### 3. Asana — Posture
 
+![asana](/images/8-limbs/asana.png)
+
 In the Yoga Sutras, _asana_ is defined in a single sutra: _sthira sukham asanam_ — a posture that is steady and comfortable. Patanjali's concern is not flexibility or strength. He is describing the quality of sitting that meditation requires: alert, relaxed, not fidgeting.
 
 The elaborate physical practice of asana developed much later, primarily through the Hatha yoga tradition. However, the underlying principle remains unchanged: the body must be able to remain still without becoming an obstacle to the work of the mind.
 
 ### 4. Pranayama — Breath regulation
+
+![pranayama](/images/8-limbs/pranayama.png)
 
 _Pranayama_ is the regulation and extension of the breath. _Prana_ refers to the life force — the energy said to animate all living things. _Ayama_ means extension or expansion. Through conscious breathing, the practitioner directly influences the nervous system and, by extension, the quality of the mind.
 
@@ -64,21 +74,29 @@ According to the Yoga Sutras, pranayama makes the mind fit for concentration. Th
 
 ### 5. Pratyahara — Withdrawal of the senses
 
+![Pratyahara](/images/8-limbs/pratyahara.png)
+
 _Pratyahara_ means drawing back, or collecting. It is the turning of attention inward, away from sensory stimulation. It does not mean shutting the senses off by force — rather, it is the natural consequence of sustained concentration: when the mind is fully absorbed in its object, it stops reaching outward for new input.
 
 Pratyahara is the bridge limb. It connects the outer practices — the first four limbs — to the three inner ones that follow.
 
 ### 6. Dharana — Concentration
 
+![Dharana](/images/8-limbs/dharana.png)
+
 _Dharana_ is the practice of fixing the mind on a single object and holding it there. The object can be a point on the body, a visualized image, a mantra, a flame. What is being trained is the capacity to choose where attention goes — and to return it there, repeatedly, when it wanders.
 
 ### 7. Dhyana — Meditation
+
+![Dhyana](/images/8-limbs/dhyana.png)
 
 _Dhyana_ is what happens when concentration matures: the flow of attention toward the object becomes uninterrupted. The quality of attention is the same as in dharana, but it is now sustained without the constant effort of return. The distance between the meditator and the object of meditation begins to close.
 
 The difference between dharana and dhyana is not one of technique but of depth. You cannot decide to be in dhyana — you can only create the conditions for it through dharana.
 
 ### 8. Samadhi — Absorption
+
+![Samadhi](/images/8-limbs/samadhi.png)
 
 _Samadhi_ is the culmination of the path. The mind is so fully absorbed in the object of meditation that the sense of a separate observer dissolves. What remains is awareness itself, without the coloring of the thinking mind.
 

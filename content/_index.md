@@ -1,4 +1,4 @@
 ---
 title: 'Seed of Yoga'
-description: 'Yoga classes in Narbonne'
+description: 'Yoga classes in Gruissan'
 ---
