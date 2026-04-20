@@ -1,6 +1,6 @@
 ---
 title: "Qu'est-ce que le yoga ?"
-date: 2026-04-01
+date: 2026-04-08
 description: "La plupart des gens découvrent le yoga par les postures. Les Yoga Sutras de Patañjali décrivent quelque chose de bien plus vaste — un chemin vers l'apaisement de l'esprit."
 image: '/images/8-limbs/8-limbs-thumbnail.png'
 tags: ['philosophie', 'patanjali', 'yoga sutras', 'ashtanga', 'huit membres']

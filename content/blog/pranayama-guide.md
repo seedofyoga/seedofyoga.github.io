@@ -1,6 +1,6 @@
 ---
 title: 'Pranayama: The Main Breathing Techniques Explained'
-date: 2026-03-31
+date: 2026-04-06
 description: "The breath is yoga's most direct tool. This guide covers 15 pranayama techniques — energizing, balancing, and calming — with instructions, benefits, and the best time of day to practice each one."
 image: '/images/pranayama/pranayama-thumbnail.png'
 tags: ['pranayama', 'breathwork', 'yoga']

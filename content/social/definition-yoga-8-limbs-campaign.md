@@ -8,28 +8,25 @@
 
 ## Facebook Post
 
-Most people come to yoga through the postures. After a few years of practice, many discover that the postures were just the beginning — an entry point into something considerably larger.
+Most people know yoga through the postures. The postures (āsana in Sanskrit) are actually just one of the eight limbs of yoga.
 
-The tradition that gave us yoga did not begin with physical exercise. It began with a question: what is the nature of the mind, and what can we do about the suffering it produces? Patanjali's answer, written around the 4th century CE, is still the most cited in the literature: _yoga citta vritti nirodha_ — yoga is the cessation of the fluctuations of the mind. When the constant movement of thought, perception, memory, and imagination grows still, what remains is awareness itself, undistorted.
-
-To support this, Patanjali describes eight limbs — not a ladder to climb once and leave behind, but eight dimensions of a single integrated life. Ethics outward and inward. Posture. Breath. The senses turning inward. Concentration. Meditation. Absorption. Most of us will spend most of our practice in the first five, and that is entirely appropriate. What the framework gives us is context: when we step onto the mat, we are practicing one limb of eight. That is not a diminishment — it is an invitation to see the physical practice as part of something considerably larger.
+The yoga tradition actually began with a question: how do we calm the mind’s suffering? Patanjali’s answer: yoga citta vritti nirodha — yoga is the cessation of the fluctuations of the mind.
 
 → https://www.seedofyoga.com/blog/definition-of-yoga-8-limbs/
 
-**Hashtags:** #yoga #eightlimbs #patanjali #yogaphilosophy
+#yoga #eightlimbsofyoga #patanjali #yogaphilosophy
 
 ---
 
 ## Instagram Carousel
 
 **Caption:**
-Most people come to yoga through the postures.
 
-Patanjali describes something considerably broader: an eight-limbed path toward the stilling of the mind — _yoga citta vritti nirodha_.
+Most people come to yoga through the postures. The postures (āsana in Sanskrit) are actually just one of the eight limbs of yoga.
 
-When we step onto the mat, we are practicing one limb of eight. That is not a diminishment. It is an invitation.
+The yoga tradition actually began with a question: how do we calm the mind’s suffering? Patanjali’s answer: yoga citta vritti nirodha — yoga is the cessation of the fluctuations of the mind.
 
-Swipe through for a brief introduction to each limb.
+Swipe through for an introduction to each limb.
 
 Full article → link in bio.
 

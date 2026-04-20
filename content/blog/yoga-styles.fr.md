@@ -1,6 +1,6 @@
 ---
 title: 'Les Différents Styles de Yoga'
-date: 2026-03-25
+date: 2026-04-04
 description: "Du Hatha ancien à l'AcroYoga contemporain — un tour d'horizon des principaux styles de yoga, de ce qui les distingue, et comment trouver celui qui vous correspond."
 image: '/images/yoga-styles/yoga-styles-thumbnail.png'
 tags: ['styles de yoga', 'hatha', 'ashtanga', 'vinyasa']
