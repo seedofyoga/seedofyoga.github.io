@@ -1,16 +1,28 @@
 # Hero
 - id: view_schedule
-  translation: 'Voir les horaires'
+  translation: 'Réserver un cours'
 
-# Schedule
-- id: class_schedule
-  translation: 'Horaires des cours'
-- id: class_schedule_sub
-  translation: 'Je propose des cours de yoga de 60 minutes en français et/ou en anglais, ouverts à tous les niveaux.'
-- id: schedule_coming_soon
-  translation: 'Bientôt disponible'
-- id: schedule_coming_soon_sub
-  translation: 'Les cours seront annoncés prochainement. Revenez bientôt ou contactez-moi.'
+# Classes
+- id: classes_heading
+  translation: 'Des cours près de chez vous'
+- id: classes_sub
+  translation: 'Je me déplace sur votre camping ou à domicile dans la région de Narbonne — Gruissan, Narbonne-Plage, St-Pierre-la-Mer et Fleury.'
+- id: classes_styles_title
+  translation: 'Choisissez votre pratique'
+- id: style_hatha_label
+  translation: 'Hatha / Vinyasa Yoga'
+- id: style_hatha_desc
+  translation: 'Un flow dynamique — parfait pour démarrer la journée avec énergie et concentration.'
+- id: style_yin_label
+  translation: 'Yin Yoga'
+- id: style_yin_desc
+  translation: 'Étirements profonds et relaxation — parfait pour se détendre en fin de journée.'
+- id: classes_cta_text
+  translation: 'Appelez ou envoyez-moi un message pour réserver votre cours.'
+- id: classes_cta_button
+  translation: 'Réserver un cours'
+- id: flyer_alt
+  translation: 'Flyer Seed of Yoga'
 
 # Pricing
 - id: pricing

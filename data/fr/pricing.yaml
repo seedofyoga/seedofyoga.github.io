@@ -1,31 +1,43 @@
 plans:
   - name: À l'unité
     price: '15€'
-    period: 'par cours'
-    description: 'Pour les visiteurs ou pour découvrir'
+    period: '/ cours'
+    description: 'Pour les visiteurs occasionnels'
     features:
-      - 'Accès à un cours'
-      - 'Premier cours gratuit'
-      - 'Tous styles de cours et niveaux'
+      - 'Premier cours : 10€'
+      - 'Tapis de yoga fourni'
+      - 'Choix entre Hatha, Vinyasa et Yin'
     highlighted: false
     cta: 'Réserver un cours'
 
-  - name: Carnet de 10 cours
-    price: '120€'
+  - name: Carnet de 5 cours
+    price: '60€'
     period: 'valable 3 mois'
     description: 'Pour un engagement flexible'
     features:
-      - '10 cours à utiliser à votre rythme'
-      - 'Tous styles de cours et niveaux'
+      - '5 cours à utiliser à votre rythme'
+      - 'Tapis de yoga fourni'
+      - 'Choix entre Hatha, Vinyasa et Yin'
     highlighted: false
     cta: 'Acheter le carnet'
 
-  - name: Abonnement mensuel
-    price: '80€'
-    period: 'par mois'
-    description: 'Pour une pratique quotidienne'
+  - name: Cours individuel
+    price: '45€'
+    period: '/ class'
+    description: ''
     features:
-      - 'Cours illimités'
-      - 'Tous styles de cours et niveaux'
-    highlighted: true
-    cta: "S'abonner"
+      - 'Premier cours : 30€'
+      - 'Tapis de yoga fourni'
+      - 'Choix entre Hatha, Vinyasa et Yin'
+    highlighted: false
+    cta: 'Réserver un cours'
+
+  #- name: Abonnement mensuel
+  #  price: '80€'
+  #  period: 'par mois'
+  #  description: 'Pour une pratique quotidienne'
+  #  features:
+  #    - 'Cours illimités'
+  #    - 'Tous styles de cours et niveaux'
+  #  highlighted: true
+  #  cta: "S'abonner"

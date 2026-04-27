@@ -1,0 +1,62 @@
+{{ $flyer := cond (eq .Site.Language.Lang "fr") "/images/flyer/flyer_fr.png" "/images/flyer/flyer_en.png" }}
+<section id="classes" class="bg-sage-50 py-16 md:py-24 scroll-mt-20">
+  <div class="max-w-6xl mx-auto px-4 md:px-8">
+    <!-- Heading -->
+    <div class="text-center mb-12">
+      <h2 class="font-display text-3xl md:text-4xl text-sage-900 tracking-display mb-3">{{ i18n "classes_heading" }}</h2>
+      <p class="text-sage-500 text-lg max-w-2xl mx-auto">{{ i18n "classes_sub" }}</p>
+    </div>
+
+    <!-- Two-column: text + flyer -->
+    <div class="grid md:grid-cols-2 gap-10 lg:gap-14 items-center">
+      <!-- Text column -->
+      <div class="bg-cream rounded-2xl shadow-elevated p-8 md:p-10">
+        <h3 class="font-display text-xl text-sage-800 mb-5">{{ i18n "classes_styles_title" }}</h3>
+        <ul class="space-y-5 mb-8">
+          <li class="flex gap-4">
+            <span class="shrink-0 mt-1 inline-flex items-center justify-center w-9 h-9 rounded-full bg-gold-100 text-gold-500" aria-hidden="true">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+              </svg>
+            </span>
+            <div>
+              <p class="font-semibold text-sage-900">{{ i18n "style_hatha_label" }}</p>
+              <p class="text-sage-600 text-sm leading-relaxed mt-0.5">{{ i18n "style_hatha_desc" }}</p>
+            </div>
+          </li>
+          <li class="flex gap-4">
+            <span class="shrink-0 mt-1 inline-flex items-center justify-center w-9 h-9 rounded-full bg-rose-100 text-rose-700" aria-hidden="true">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/>
+              </svg>
+            </span>
+            <div>
+              <p class="font-semibold text-sage-900">{{ i18n "style_yin_label" }}</p>
+              <p class="text-sage-600 text-sm leading-relaxed mt-0.5">{{ i18n "style_yin_desc" }}</p>
+            </div>
+          </li>
+        </ul>
+
+        <p class="text-sage-700 text-base leading-relaxed mb-6">{{ i18n "classes_cta_text" }}</p>
+
+        <a href="#contact"
+           class="inline-block bg-rose-500 text-cream font-semibold text-base
+                  px-7 py-3 rounded-full shadow-elevated
+                  hover:bg-rose-700 hover:shadow-floating
+                  focus-visible:ring-2 focus-visible:ring-rose-300 focus-visible:ring-offset-2 focus-visible:ring-offset-cream
+                  active:bg-rose-700 active:scale-[0.97]">
+          {{ i18n "classes_cta_button" }}
+        </a>
+      </div>
+
+      <!-- Flyer column -->
+      <div class="flex justify-center">
+        <a href="{{ $flyer | relURL }}" target="_blank" rel="noopener"
+           class="block rounded-2xl overflow-hidden shadow-elevated hover:shadow-floating focus-visible:ring-2 focus-visible:ring-rose-300 focus-visible:ring-offset-2 focus-visible:ring-offset-sage-50">
+          <img src="{{ $flyer | relURL }}" alt="{{ i18n "flyer_alt" }}"
+               class="w-full max-w-md h-auto block bg-cream">
+        </a>
+      </div>
+    </div>
+  </div>
+</section>

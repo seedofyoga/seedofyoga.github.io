@@ -1,16 +1,28 @@
 # Hero
 - id: view_schedule
-  translation: 'View Class Schedule'
+  translation: 'Book a Class'
 
-# Schedule
-- id: class_schedule
-  translation: 'Class Schedule'
-- id: class_schedule_sub
-  translation: 'I offer 60-minute yoga classes in French and/or English, open to all levels.'
-- id: schedule_coming_soon
-  translation: 'Coming soon'
-- id: schedule_coming_soon_sub
-  translation: 'Classes will be announced shortly. Check back soon or get in touch.'
+# Classes
+- id: classes_heading
+  translation: 'Classes Near You'
+- id: classes_sub
+  translation: 'I come to your campsite or home in the Narbonne area — including Gruissan, Narbonne-Plage, St-Pierre-la-Mer and Fleury.'
+- id: classes_styles_title
+  translation: 'Choose your practice'
+- id: style_hatha_label
+  translation: 'Hatha / Vinyasa Yoga'
+- id: style_hatha_desc
+  translation: 'A dynamic flow — perfect to start your morning with energy and focus.'
+- id: style_yin_label
+  translation: 'Yin Yoga'
+- id: style_yin_desc
+  translation: 'Slow, deep stretching and relaxation — perfect to wind down in the evening.'
+- id: classes_cta_text
+  translation: 'Call or text me to book your class.'
+- id: classes_cta_button
+  translation: 'Book a class'
+- id: flyer_alt
+  translation: 'Seed of Yoga flyer'
 
 # Pricing
 - id: pricing

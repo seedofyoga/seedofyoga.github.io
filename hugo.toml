@@ -22,8 +22,8 @@ defaultContentLanguageInSubdir = false
       description = "Yoga classes in Narbonne, Gruissan, Narbonne-Plage, St-Pierre-la-mer, Fleury"
       tagline = "Yoga classes in Narbonne, Gruissan, Narbonne-Plage, St-Pierre-la-mer, Fleury"
     [[languages.en.menu.main]]
-      name = "Schedule"
-      url = "/#schedule"
+      name = "Classes"
+      url = "/#classes"
       weight = 1
     [[languages.en.menu.main]]
       name = "Pricing"
@@ -53,8 +53,8 @@ defaultContentLanguageInSubdir = false
       description = "Cours de yoga sur Narbonne, Gruissan, Narbonne-Plage, St-Pierre-la-mer, Fleury"
       tagline = "Cours de yoga sur Narbonne, Gruissan, Narbonne-Plage, St-Pierre-la-mer, Fleury"
     [[languages.fr.menu.main]]
-      name = "Horaires"
-      url = "/fr/#schedule"
+      name = "Cours"
+      url = "/fr/#classes"
       weight = 1
     [[languages.fr.menu.main]]
       name = "Tarifs"
