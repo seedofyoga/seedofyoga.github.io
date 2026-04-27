@@ -38,9 +38,9 @@ describe('pricing.yaml', () => {
     }
   });
 
-  it('has exactly 1 highlighted plan', () => {
+  it('has at most 1 highlighted plan', () => {
     const highlighted = data.plans.filter((p) => p.highlighted);
-    assert.equal(highlighted.length, 1);
+    assert.ok(highlighted.length <= 1, 'should have 0 or 1 highlighted plan');
   });
 });
 

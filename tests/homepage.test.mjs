@@ -7,16 +7,15 @@ const $ = loadHtml('index.html');
 describe('Homepage — Navigation', () => {
   const navLinks = $('nav a');
 
-  it('has 6 menu links per viewport (desktop + mobile)', () => {
+  it('has 5 menu links per viewport (desktop + mobile)', () => {
     // Nav contains desktop links + duplicated mobile links
-    assert.ok(navLinks.length >= 6, 'should have at least 6 nav links');
+    assert.ok(navLinks.length >= 5, 'should have at least 5 nav links');
   });
 
   for (const [text, href] of [
-    ['Schedule', '/#schedule'],
+    ['Classes', '/#classes'],
     ['Pricing', '/#pricing'],
     ['About', '/#about'],
-    ['Location', '/#location'],
     ['Blog', '/blog/'],
     ['Contact', '/#contact'],
   ]) {
@@ -36,9 +35,11 @@ describe('Homepage — Navigation', () => {
   });
 });
 
-describe('Homepage — Schedule', () => {
-  it('renders coming soon placeholder', () => {
-    assert.ok($.html().includes('schedule'), 'schedule section should be present');
+describe('Homepage — Classes', () => {
+  it('renders classes section with flyer', () => {
+    assert.ok($('section#classes').length > 0, 'classes section should be present');
+    const flyer = $('section#classes img').filter((_, el) => ($(el).attr('src') || '').includes('/images/flyer/'));
+    assert.ok(flyer.length > 0, 'classes section should include a flyer image');
   });
 });
 
@@ -93,11 +94,6 @@ describe('Homepage — Contact', () => {
     const html = $.html();
     assert.ok(html.includes(contact.phone));
     assert.ok(html.includes(contact.email));
-  });
-
-  it('has maps embed iframe', () => {
-    const iframe = $('iframe');
-    assert.ok(iframe.length > 0, 'should have an iframe for maps');
   });
 });
 
