@@ -36,6 +36,10 @@ Le Kundalini appartient à la tradition tantrique. Le mot _kundalini_ désigne u
 
 Le système Sivananda a été développé par Swami Vishnudevananda, disciple de Swami Sivananda, dans les années 1960. Il repose sur cinq points : l'exercice correct (_asana_), la respiration correcte (_pranayama_), la relaxation correcte (_savasana_, la posture de repos final), une alimentation saine, et la méditation. Les mêmes 12 postures de base sont pratiquées à chaque cours, ce qui en fait l'une des approches les plus cohérentes et les plus structurées du yoga.
 
+### Satyananda Yoga
+
+Développé par Swami Satyananda Saraswati — lui-même disciple de Swami Sivananda — à la Bihar School of Yoga à Munger, en Inde, ce système réunit _asana_, _pranayama_, _mudra_ (gestes des mains et du corps), _bandha_ (verrous énergétiques) et méditation en un tout cohérent. Sa contribution la plus singulière est le _yoga nidra_, une technique de relaxation profonde guidée dans laquelle le corps se repose complètement tandis que la conscience reste tournée vers l'intérieur, attentive. Les cours sont généralement structurés et méthodiques, construisant une compréhension approfondie de chaque pratique avant de passer à la suivante. Pour ceux qu'attire le yoga comme outil thérapeutique — ou la tradition classique dans toute sa profondeur — le Satyananda Yoga offre un chemin d'une complétude rare.
+
 ## 2. Les styles de yoga modernes
 
 Ces styles sont apparus aux XXe et XXIe siècles, souvent comme des adaptations de méthodes classiques à de nouveaux contextes — corps occidentaux, salles de sport, besoins thérapeutiques, ou intentions entièrement nouvelles. Certains conservent des racines profondes dans la philosophie du yoga ; d'autres se sont davantage orientés vers le fitness et le bien-être.
