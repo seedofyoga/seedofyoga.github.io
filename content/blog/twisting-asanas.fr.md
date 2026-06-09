@@ -80,7 +80,7 @@ La logique physique des torsions est simple. La rotation mobilise la colonne tho
 
 ### Posture du Nœud — *Pasasana*
 
-**Principaux repères :** squat profond avec les pieds joints ou légèrement écartés, talons au sol ou soutenus, pivoter le torse d'un côté, les deux bras s'enroulent à l'extérieur des genoux en liure, poitrine soulevée contre la résistance, genoux alignés, regard par-dessus l'épaule arrière, respiration régulière dans la compression
+**Principaux repères :** squat profond avec les pieds joints ou légèrement écartés, talons au sol ou soutenus, pivoter le torse d'un côté, les deux bras s'enroulent à l'extérieur des genoux en prise, poitrine soulevée contre la résistance, genoux alignés, regard par-dessus l'épaule arrière, respiration régulière dans la compression
 
 **Bienfaits :** rotation vertébrale complète, mobilité des chevilles et du tendon d'Achille, compression abdominale, ouverture des épaules et de la poitrine, intégration avancée de la force et de la flexibilité
 
