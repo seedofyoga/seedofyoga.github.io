@@ -24,7 +24,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ### Cobra Pose — *Bhujangasana*
 
-**Main cues:** hands under shoulders, elbows bent, press through palms to rise, shoulders back and down, elbows may stay slightly bent, pubic bone to floor, legs together and active, gaze forward
+**Main cues:** hands beside lower ribs, elbows bent, press through palms to rise, shoulders back and down, elbows may stay slightly bent, pubic bone to floor, legs together and active, gaze forward
 
 **Benefits:** spinal extension, chest opening, shoulder strengthening, abdominal stretch, upper back engagement
 

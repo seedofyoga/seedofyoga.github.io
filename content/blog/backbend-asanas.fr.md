@@ -24,7 +24,7 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ### Posture du cobra — *Bhujangasana*
 
-**Principaux repères :** mains sous les épaules, coudes fléchis, appuyer dans les paumes pour se lever, épaules en arrière et vers le bas, coudes légèrement fléchis possibles, os pubien au sol, jambes serrées et actives, regard vers l'avant
+**Principaux repères :** mains à côté des côtes inférieures, coudes fléchis, appuyer dans les paumes pour se lever, épaules en arrière et vers le bas, coudes légèrement fléchis possibles, os pubien au sol, jambes serrées et actives, regard vers l'avant
 
 **Bienfaits :** extension spinale, ouverture de la poitrine, renforcement des épaules, étirement abdominal, engagement du haut du dos
 
