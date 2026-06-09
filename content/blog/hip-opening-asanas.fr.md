@@ -1,0 +1,89 @@
+---
+title: "Asanas d'ouverture des hanches : libération, espace et liberté émotionnelle"
+date: 2026-06-09
+description: "Explorez les postures d'ouverture des hanches, de la Posture de l'Angle Lié à la Posture du Singe — des asanas qui libèrent les tensions dans les hanches et le bassin, améliorent la mobilité et invitent à l'ouverture émotionnelle."
+image: "/images/blog/hip-opening-asanas.jpg"
+tags: ["asanas", "postures de yoga", "ouverture des hanches"]
+---
+
+Les hanches portent bien plus que le poids du corps. Dans la plupart des corps, elles accumulent des tensions issues des heures passées assis, du stress non résolu, et de schémas de mouvement qui se sont rétrécis au fil des années. Les asanas d'ouverture des hanches s'adressent directement à cela — non par la force, mais par une ouverture soutenue et patiente. Le bassin est le centre structurel du corps, et le libérer transforme la qualité de presque tout le reste : la respiration, la posture, la facilité de la marche, le sentiment d'espace intérieur.
+
+---
+
+Le système nerveux répond fortement au travail sur les hanches. Les étirements profonds dans l'aine et l'intérieur des cuisses activent des zones riches en fascia et en tissu conjonctif que le corps libère rarement. Certains pratiquants ressentent des réponses émotionnelles — une lourdeur soudaine, une douceur inattendue, ou simplement l'envie de rester plus longtemps dans une posture que l'esprit ne l'avait prévu. Ce n'est pas inhabituel. C'est ce qui se produit lorsque le corps reçoit la permission de laisser aller ce qu'il retenait.
+
+---
+
+### Posture de l'Angle Lié — *Baddha Konasana*
+
+**Principaux repères :** assis, plantes des pieds jointes, genoux qui s'ouvrent vers l'extérieur, talons ramenés vers le bassin, colonne vertébrale allongée, mains autour des pieds ou sur les cuisses intérieures, respiration dans l'aine
+
+**Bienfaits :** relâchement de l'intérieur des cuisses et de l'aine, rotation externe de la hanche, ouverture du bassin, circulation dans le bas du corps, apaisement
+
+---
+
+### Posture de la Guirlande — *Malasana*
+
+**Principaux repères :** pieds plus larges que les hanches, orteils tournés vers l'extérieur, descendre en squat profond, talons au sol ou soutenus, mains à hauteur du cœur, coudes qui écartent les genoux, colonne longue, poitrine ouverte
+
+**Bienfaits :** ouverture profonde des hanches et de l'aine, mobilité des chevilles, relâchement du bas du dos, stimulation digestive, ancrage
+
+---
+
+### Posture du Lézard — *Utthan Pristhasana*
+
+**Principaux repères :** fente basse, pied avant à l'extérieur de la même main, genou arrière relevé ou abaissé, tibia avant vertical, hanches qui s'abaissent vers le sol, mains ou avant-bras sur le tapis, regard vers l'avant
+
+**Bienfaits :** étirement profond des fléchisseurs de hanche, ouverture de l'aine intérieure, allongement des quadriceps et des ischio-jambiers, mobilité des hanches, préparation aux flexions arrière profondes
+
+---
+
+### Posture du Visage de Vache — *Gomukhasana*
+
+**Principaux repères :** assis, genoux empilés l'un sur l'autre, pieds à côté des hanches, ischions ancrés uniformément, colonne longue, liaison des bras dans le dos en option, respiration stable dans la compression
+
+**Bienfaits :** étirement de la hanche externe et des fessiers, relâchement de la bandelette ilio-tibiale, ouverture des épaules avec la variation des bras, symétrie des hanches, libération profonde du tissu conjonctif
+
+---
+
+### Posture de la Bûche dans le Feu — *Agnistambhasana*
+
+**Principaux repères :** assis, tibias empilés parallèles au bord avant du tapis, chevilles au-dessus des genoux, les deux tibias horizontaux, pieds fléchis, colonne droite, mains sur le sol ou les tibias, flexion vers l'avant si accessible
+
+**Bienfaits :** étirement intense de la hanche externe et du piriforme, rotation externe profonde, relâchement du sacrum, ouverture de l'aine, mobilité de l'articulation de la hanche
+
+---
+
+### Posture du Pigeon — *Eka Pada Rajakapotasana*
+
+**Principaux repères :** tibia avant en travers du tapis, jambe arrière longue et neutre, hanche avant soutenue si nécessaire, hanches horizontales vers le sol, colonne longue avant la flexion, mains encadrent le tibia avant, rester droit ou se pencher vers l'avant
+
+**Bienfaits :** ouverture profonde de la hanche externe, étirement du psoas et des fléchisseurs de hanche, relâchement du sacrum, libération émotionnelle, préparation aux flexions arrière profondes
+
+---
+
+### Posture du Roi Pigeon sur Une Jambe II — *Eka Pada Raja Kapotasana II*
+
+**Principaux repères :** à genoux, genou arrière au sol, plier la jambe arrière et saisir le pied de la même main par derrière, jambe avant tendue vers l'avant, hanches carrées, poitrine qui se lève, combiner l'étirement des fléchisseurs avec la flexion arrière
+
+**Bienfaits :** ouverture profonde des fléchisseurs de hanche et des quadriceps, extension de la colonne vertébrale, ouverture des épaules et de la poitrine, mobilité avancée des hanches, libération complète de la face avant du corps
+
+---
+
+### Posture de la Grille — *Parighasana*
+
+**Principaux repères :** à genoux, une jambe tendue sur le côté pied à plat, le torse s'allonge au-dessus de la jambe tendue, main inférieure sur le tibia ou le sol, bras supérieur tendu au-dessus de la tête le long de l'oreille, les deux côtés du torse allongés
+
+**Bienfaits :** ouverture latérale du corps, étirement de l'intérieur de la cuisse et de l'aine, relâchement des obliques et des intercostaux, souplesse des hanches, expansion de la respiration
+
+---
+
+### Posture du Singe — *Hanumanasana*
+
+**Principaux repères :** depuis la fente basse, genou arrière au sol, glisser le pied avant en avant et le pied arrière en arrière en grand écart, hanches carrées et horizontales, mains sur des blocs ou le sol, colonne droite ou flexion vers la jambe avant
+
+**Bienfaits :** allongement complet des ischio-jambiers et des fléchisseurs de hanche, grand écart frontal, amplitude de mouvement de l'articulation de la hanche, lâcher-prise et patience, préparation aux flexions arrière et inversions avancées
+
+---
+
+Le travail d'ouverture des hanches demande quelque chose que la plupart des pratiques de mouvement ne requièrent pas : la volonté d'attendre. Ces postures ne récompensent pas la force. Elles répondent à la stabilité, à la respiration, à la capacité de rester sans se crisper autour de l'inconfort. Le progrès ne se mesure pas à la profondeur des hanches, mais à la confiance que le corps accorde au sol qui le soutient.
