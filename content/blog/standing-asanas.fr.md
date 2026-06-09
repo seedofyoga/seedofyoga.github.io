@@ -18,7 +18,7 @@ Ce qui unit les postures debout, c'est leur rapport au sol. Chacune commence par
 
 ### Posture de la montagne — *Tadasana*
 
-**Principaux repères :** pieds écartés à la largeur des hanches ou joints, poids sur les quatre coins des pieds, jambes actives sans se crisper, colonne grande depuis le coccyx jusqu'au sommet du crâne, épaules en arrière et vers le bas, bras le long du corps, paumes vers l'avant, regard horizontal
+**Principaux repères :** pieds écartés à la largeur des hanches ou joints, poids sur les quatre coins des pieds, jambes actives sans se crisper, colonne longue depuis le coccyx jusqu'au sommet du crâne, épaules en arrière et vers le bas, bras le long du corps, paumes vers l'avant, regard horizontal
 
 **Bienfaits :** ancrage, alignement postural, conscience corporelle, apaisement du système nerveux, présence concentrée
 
@@ -104,7 +104,7 @@ Ce qui unit les postures debout, c'est leur rapport au sol. Chacune commence par
 
 ---
 
-### Posture de l'étoile à cinq branches — *Utthita Tadasana*
+### Posture de l'étoile à cinq branches — *Pañca Tārāsana*
 
 **Principaux repères :** appui large, pieds parallèles, bras écartés sur les côtés à la hauteur des épaules, jambes actives, colonne longue, poitrine large, regard vers l'avant, poids équitablement réparti sur les deux pieds
 

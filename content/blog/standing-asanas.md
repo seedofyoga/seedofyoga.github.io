@@ -104,7 +104,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Five-Pointed Star Pose — *Utthita Tadasana*
+### Five-Pointed Star Pose — *Pañca Tārāsana*
 
 **Main cues:** wide stance, feet parallel, arms extended to the sides at shoulder height, legs active, spine long, chest broad, gaze forward, weight even through both feet
 
