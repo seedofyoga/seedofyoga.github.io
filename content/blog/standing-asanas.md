@@ -1,81 +1,165 @@
 ---
-title: 'Standing Asanas: Strength and Groundedness'
-date: 2026-05-01
-description: 'Standing poses form the foundation of most yoga practices. This guide covers the main standing asanas — their alignment cues, their effects on the body, and what each one quietly asks of the mind.'
-image: '/images/asanas/standing-thumbnail.png'
-tags: ['asanas', 'yoga postures', 'standing poses']
+title: "Standing Asanas: Strength, Balance and Groundedness"
+date: 2026-06-09
+description: "Explore standing asanas from Mountain Pose to Warrior III — foundational postures that build strength, stability, and focus."
+image: "/images/blog/standing-asanas.jpg"
+tags: ["asanas", "yoga postures", "standing"]
 ---
 
-Standing poses form the foundation of most yoga practices. They build strength from the ground up — through the feet, the legs, the hips — and develop something harder to name but easy to feel: steadiness. There is a quality specific to standing postures that seated or floor work cannot fully replicate. You are upright. Gravity is present. The body has to find its own relationship with the ground.
+Standing poses form the foundation of most yoga practices. They build from the ground up — through the feet, the legs, the hips — and develop something harder to name but easy to feel: steadiness. There is a quality specific to standing postures that seated or floor work cannot fully replicate. You are upright. Gravity is present. The body has to find its own relationship with the earth beneath it.
 
 ---
 
-What unites standing poses is their relationship to the earth. Each one begins with the feet — how they are placed, how the weight moves through them, how the ground returns that weight back up through the body. This might sound mechanical, but it is not. Rooting is not a technique so much as a quality of attention: the difference between standing on the ground and actually feeling it. Standing poses cultivate that quality over time, and they do so through effort. Unlike restorative or seated practices, they ask for engagement. The legs work. The core works. The mind has to stay present because the body will not stay steady without it.
+What unites standing poses is their relationship to the ground. Each one begins with the feet — how they are placed, how weight moves through them, how the earth returns that weight back into the body. Rooting is not a technique so much as a quality of attention: the difference between standing on the ground and actually feeling it. Standing poses cultivate that quality through effort, presence, and the quiet willingness to stay in something difficult without adding tension around it.
 
 ---
+
+## Standing Poses
 
 ### Mountain Pose — *Tadasana*
 
-**Main cues:** Stand with the feet together or hip-width apart. Distribute the weight evenly through all four corners of each foot — the base of the big toe, the base of the little toe, and both sides of the heel. Let the legs be active without gripping. Lengthen the spine upward from the tailbone to the crown, soften the shoulders away from the ears, and let the arms rest alongside the body with the palms gently turned forward. The breath is steady and full.
+**Main cues:** feet hip-width or together, weight through all four corners, legs active without gripping, spine tall from tailbone to crown, shoulders back and down, arms alongside body, palms forward, gaze level
 
-**Benefits:** *Tadasana* is the starting point for all other standing postures, and many teachers consider it the most important pose in the practice. What looks like simply standing still is, on closer attention, an active task: the postural muscles along the spine wake up, the arches of the feet lift, the whole body organizes around a central axis. Sustained with full attention, it steadies the nervous system and gives the mind something direct and concrete to rest in — the simple fact of being upright and present.
-
----
-
-### Warrior I — *Virabhadrasana I*
-
-**Main cues:** Step one foot back, turning it out to approximately 45 degrees. Bend the front knee until it is directly above the ankle — not splaying inward, not pushing past the foot. The back heel presses down and the hips turn to face forward as squarely as they will allow. Raise the arms overhead, palms facing or touching, and let the chest lift. The gaze is forward or softly upward. The challenge is keeping the back heel grounded as the chest opens.
-
-**Benefits:** *Virabhadrasana I* builds significant strength in the legs and hips while stretching the hip flexors and opening the chest. The shape is asymmetrical in a way that requires the whole body to negotiate: the back leg grounds, the front leg bends, the torso rises. Staying in it asks for a quality of composure under effort — the body is working hard and the mind is asked to remain calm inside that effort. This is, in a literal sense, what the name suggests. The warrior does not fight the pose; he inhabits it.
+**Benefits:** grounding, postural alignment, body awareness, nervous system settling, focused presence
 
 ---
 
-### Warrior II — *Virabhadrasana II*
+### Upward Salute — *Urdhva Hastasana*
 
-**Main cues:** Take a wider stance than Warrior I. Turn the front foot forward and the back foot so it is roughly parallel to the mat's short edge. Bend the front knee over the ankle. Open the hips toward the long edge of the mat and extend the arms outward from the shoulders — one arm reaching forward, one reaching back — at shoulder height. The gaze travels steadily over the front hand. Nothing collapses; nothing grips.
+**Main cues:** from Tadasana, inhale arms overhead, palms together or shoulder-width, arms by ears, chest lifts, slight backbend optional, shoulders away from ears, gaze forward or up
 
-**Benefits:** *Virabhadrasana II* builds endurance. The legs hold a demanding position, the shoulders hold the arms at height, and the whole pose asks for sustained effort without tension. Its open-hipped orientation is fundamentally different from Warrior I — the body faces outward rather than forward, and the gaze extends in one direction while the attention holds both sides equally. That quality — wide, calm, two-directional awareness — is what the pose trains. It is less about intensity than about duration.
-
----
-
-### Triangle Pose — *Utthita Trikonasana*
-
-**Main cues:** Stand with the feet wide apart, front foot pointing forward and back foot turned in slightly. Keep both legs straight, or introduce a micro-bend in the front knee if the hamstrings are tight. Extend the torso to the side over the front leg, bringing the front hand to rest on the shin, ankle, or floor — without collapsing into it. The top arm extends straight upward. Both sides of the torso remain equally long. The gaze can travel upward to the top hand, or downward if the neck prefers.
-
-**Benefits:** *Utthita Trikonasana* stretches the lateral lines of the body in a way that most daily movement never accesses. The spine lengthens sideways, the inner thighs and hamstrings open, and the standing leg strengthens through the hip and knee. Because the pose works simultaneously in several planes, it develops a quality of multi-directional body awareness — knowing where the whole body is, not just the part that is working hardest. For the nervous system, the lateral stretch has a quieting quality that is distinct from forward folds or backbends.
-
----
-
-### Extended Side Angle — *Utthita Parsvakonasana*
-
-**Main cues:** From a wide stance with the front knee bent, bring the forearm to rest on the front thigh, or take the hand to the floor outside the front foot. The top arm extends overhead alongside the ear, creating a single diagonal line from the back foot to the fingertips. The torso opens toward the ceiling — not toward the floor. The back leg remains strong and active throughout.
-
-**Benefits:** *Utthita Parsvakonasana* is a longer, more complex version of Triangle. Where Triangle keeps the legs straight, Extended Side Angle adds the deep bend at the front knee — which means the legs must work considerably harder while the lateral body opens at the same time. The stretch from back foot to fingertip along one unbroken line is one of the most complete lateral openings in the standing practice. It asks for strength and flexibility simultaneously, and it asks the body to stay open even as it is working.
+**Benefits:** chest opening, shoulder mobility, spinal elongation, energising, breath expansion
 
 ---
 
 ### Chair Pose — *Utkatasana*
 
-**Main cues:** Stand with the feet together or hip-width. Bend the knees and lower the hips as if sitting back into a low chair, letting the thighs angle toward the floor. The spine remains long — not collapsed forward over the thighs. Raise the arms alongside the ears. The knees track over the feet and the weight stays back through the heels. The lower back does not round.
+**Main cues:** feet together or hip-width, bend knees and sit hips back, thighs toward floor, spine long, arms alongside ears, weight through heels, knees over feet, jaw soft
 
-**Benefits:** *Utkatasana* builds heat. The legs, the core, and the back all work together to hold a position the body would not choose on its own, and the practice is partly about tolerating that discomfort without adding to it. The jaw stays soft. The breath stays even. The mind does not catastrophize. This is the subtler instruction inside the obvious physical work: staying with something hard without creating extra tension around it. That is a capacity the body learns, and one that extends well beyond the mat.
+**Benefits:** leg strength, core engagement, heat building, mental resilience, ankle stability
+
+---
+
+### Warrior I — *Virabhadrasana I*
+
+**Main cues:** back foot turned 45°, front knee over ankle, hips square to front, back heel grounded, arms overhead palms facing or touching, chest lifts, gaze forward or upward
+
+**Benefits:** leg and hip strength, hip flexor stretch, chest opening, focus, composure under effort
+
+---
+
+### Warrior II — *Virabhadrasana II*
+
+**Main cues:** wide stance, front foot forward, back foot parallel to short edge, front knee over ankle, hips open to long edge, arms at shoulder height, gaze over front hand, nothing collapses
+
+**Benefits:** endurance, hip opening, shoulder stability, two-directional awareness, sustained calm
+
+---
+
+### Peaceful Warrior — *Viparita Virabhadrasana*
+
+**Main cues:** from Warrior II, front arm lifts overhead as back hand slides down back leg, side body lengthens, front knee stays bent over ankle, gaze up toward raised hand
+
+**Benefits:** lateral stretch, hip flexor opening, heart opening, transition flow, breath expansion
+
+---
+
+### Extended Side Angle Pose — *Utthita Parsvakonasana*
+
+**Main cues:** from Warrior II, forearm on front thigh or hand outside front foot, top arm extends overhead alongside ear, diagonal line from back foot to fingertips, torso opens to ceiling, back leg strong
+
+**Benefits:** lateral body opening, leg strength, hip flexibility, full-body integration, stamina
+
+---
+
+### Extended Triangle Pose — *Utthita Trikonasana*
+
+**Main cues:** wide stance, front foot forward, back foot slightly in, legs straight or micro-bend, torso lengthens over front leg, hand to shin/ankle/floor, top arm straight up, both sides of torso long
+
+**Benefits:** hamstring and inner thigh stretch, lateral spinal length, standing leg strength, multi-directional awareness, nervous system quieting
+
+---
+
+### High Lunge — *Utthita Ashwa Sanchalanasana*
+
+**Main cues:** long stance, back heel lifted, front knee over ankle, hips square, arms overhead or at heart, back leg straight and strong, core engaged, gaze forward
+
+**Benefits:** hip flexor stretch, leg strengthening, core activation, balance, energising
+
+---
+
+### High Lunge, Crescent Variation — *Alanasana*
+
+**Main cues:** from High Lunge, arms sweep overhead and slightly back, chest lifts into gentle backbend, front knee over ankle, shoulders drawing down, back toes pressing, gaze up or forward
+
+**Benefits:** full front-body opening, hip flexor release, shoulder mobility, strength and flexibility combined, vitality
+
+---
+
+### Low Lunge — *Anjaneyasana*
+
+**Main cues:** back knee lowers to floor, front knee over ankle, hips sink forward and down, arms overhead or at heart, spine long, chest open, back toes optional, gaze forward
+
+**Benefits:** deep hip flexor stretch, quadriceps lengthening, hip opening, grounding, heart opening
+
+---
+
+### Five-Pointed Star Pose — *Utthita Tadasana*
+
+**Main cues:** wide stance, feet parallel, arms extended to the sides at shoulder height, legs active, spine long, chest broad, gaze forward, weight even through both feet
+
+**Benefits:** expansiveness, full-body awareness, confidence, chest and shoulder opening, energising
+
+---
+
+## Standing + Balancing Poses
+
+### Eagle Pose — *Garudasana*
+
+**Main cues:** bend standing knee, cross other thigh over, hook foot behind calf if possible, arms cross at elbows, forearms wrap, hands press, elbows at shoulder height, gaze steady at one point
+
+**Benefits:** single-leg balance, hip and shoulder opening, concentration, ankle strengthening, compression and release
+
+---
+
+### Tree Pose — *Vrksasana*
+
+**Main cues:** weight into standing leg, foot to inner ankle/calf/thigh (not knee), hips level, hands at heart or overhead, core steady, gaze at fixed point, breath even
+
+**Benefits:** balance, ankle and leg strength, hip opening, focused calm, proprioception
+
+---
+
+### Extended Hand-to-Big-Toe Pose — *Utthita Hasta Padangusthasana*
+
+**Main cues:** standing leg straight, lift opposite knee to chest, take hold of big toe or use strap, extend leg forward or to side, standing hip down, free arm out, gaze at fixed point
+
+**Benefits:** hamstring flexibility, hip stability, balance, core strength, focused steadiness
 
 ---
 
 ### Half Moon Pose — *Ardha Chandrasana*
 
-**Main cues:** From Triangle, shift the weight entirely onto the front foot and lift the back leg until it is parallel to the floor. Bring the bottom hand lightly to the floor or a block — it is there for orientation more than support. The top arm extends straight up. The lifted leg, the hip, and the top shoulder stack vertically one above the other. The gaze can travel upward or stay at the floor.
+**Main cues:** from Triangle, shift weight to front foot, back leg lifts parallel to floor, bottom hand to floor or block, top arm straight up, hip/shoulder/hand stack vertically, gaze up or down
 
-**Benefits:** *Ardha Chandrasana* develops single-leg balance and hip stability in a way that is difficult to access in any other pose. The standing leg must work through the foot, ankle, knee, and hip simultaneously, while the lifted leg extends and the torso remains open. The challenge is as much spatial as muscular: the pose asks the body to know where it is in three-dimensional space without being able to look at most of it. Proprioception — the body's internal sense of its own position — is what the pose trains. When it comes, the feeling is briefly buoyant.
-
----
-
-### Wide-Legged Forward Fold — *Prasarita Padottanasana*
-
-**Main cues:** Stand with the feet wide apart and parallel to each other. Hinge from the hips — not the waist — and fold the torso forward, bringing the hands to the floor or to blocks. In the early stages, maintain length through the spine before allowing the head to descend. The weight is distributed evenly between both feet, and the inner thighs draw upward as the legs firm.
-
-**Benefits:** *Prasarita Padottanasana* decompresses the spine gently, without the load-bearing weight of upright standing or the intensity of deeper inversions. The inner thighs and hamstrings open through the wide stance, and the fold is steady rather than effortful. Its position — between the standing poses and the forward folds — gives it a transitional quality. The body is still upright enough to feel grounded, and inward enough to begin quieting.
+**Benefits:** single-leg balance, hip stability, proprioception, lateral strength, spatial awareness
 
 ---
 
-Standing poses are rarely dramatic. They do not require the flexibility of deep backbends or the trust of inversions. What they require is attention — continuous, honest attention to what the feet are doing, where the weight is moving, whether the breath is still full and even. That quality of sustained, grounded attention is what they train. And it is, in the end, what most practices are trying to cultivate.
+### Dancer Pose — *Natarajasana*
+
+**Main cues:** standing leg straight, bend back knee, reach same-side hand to inner ankle or foot, kick foot back and up, opposite arm forward or up, chest opens, hips level, gaze fixed forward
+
+**Benefits:** balance, backbend opening, hip flexor stretch, shoulder flexibility, grace and focus
+
+---
+
+### Warrior III — *Virabhadrasana III*
+
+**Main cues:** hinge forward from standing leg, back leg lifts to hip height, arms forward or alongside body, body forms one horizontal line, hips level, core strong, gaze to floor, breath steady
+
+**Benefits:** full-body strength, balance, core and hip stability, focus, coordination
+
+---
+
+Standing poses are rarely dramatic. They do not require the flexibility of deep backbends or the trust of inversions. What they require is attention — continuous, honest attention to what the feet are doing, where the weight is moving, whether the breath remains full and even. That quality of sustained, grounded attention is what they train. And it is, in the end, what most practices are quietly working toward.
