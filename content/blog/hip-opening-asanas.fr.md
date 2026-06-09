@@ -70,7 +70,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture de la Grille — *Parighasana*
+### Posture de la Porte — *Parighasana*
 
 **Principaux repères :** à genoux, une jambe tendue sur le côté pied à plat, le torse s'allonge au-dessus de la jambe tendue, main inférieure sur le tibia ou le sol, bras supérieur tendu au-dessus de la tête le long de l'oreille, les deux côtés du torse allongés
 
