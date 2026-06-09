@@ -1,7 +1,7 @@
 ---
 title: "Asanas en flexion avant : abandon, humilité et longueur"
 date: 2026-06-09
-description: "Explorez les postures en flexion avant, de la Flexion avant debout à la Posture de la Tortue — des asanas qui cultivent l'abandon, la longueur spinale et la quiétude introductive."
+description: "Explorez les postures en flexion avant, de la Flexion avant debout à la Posture de la Tortue — des asanas qui cultivent l'abandon, la longueur spinale et la quiétude intérieure."
 image: "/images/blog/forward-fold-asanas.jpg"
 tags: ["asanas", "postures de yoga", "flexion avant"]
 ---
@@ -54,7 +54,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Séparation debout — *Urdhva Prasarita Eka Padasana*
+### Grand écart debout — *Urdhva Prasarita Eka Padasana*
 
 **Principaux repères :** jambe d'appui droite ou légèrement fléchie, jambe arrière se lève haut avec la hanche carrée, mains au sol ou à la cheville de la jambe d'appui, sommet du crâne lourd, déplacer le poids vers l'avant pour lever la jambe plus haut, engager la hanche d'appui
 
@@ -86,9 +86,9 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Marichyasana I — *Marichyasana I*
+### Posture du Sage Marichi I — *Marichyasana I*
 
-**Principaux repères :** assis, une jambe allongée, l'autre genou fléchi avec le pied à plat près de la hanche, se plier sur la jambe allongée, le bras enveloppe l'intérieur du genou fléchi, main saisit dans le dos ou à la cheville, colonne longue avant de plier
+**Principaux repères :** assis, une jambe allongée, l'autre genou fléchi avec le pied à plat près de la hanche, se plier sur la jambe allongée, le bras enveloppe l'extérieur du genou fléchi, main saisit dans le dos ou à la cheville, colonne longue avant de plier
 
 **Bienfaits :** étirement des ischio-jambiers, relâchement des hanches, mobilité des épaules, stimulation digestive, attention vers l'intérieur concentrée
 
@@ -96,7 +96,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ### Marichyasana II — *Marichyasana II*
 
-**Principaux repères :** une jambe en demi-lotus, l'autre genou fléchi avec le pied à plat près de la hanche, lier les bras dans le dos, se plier vers l'avant avec la colonne longue, les deux ischions ancrés, presser doucement le genou en demi-lotus vers le bas
+**Principaux repères :** une jambe en demi-lotus, l'autre genou fléchi avec le pied à plat près de la hanche, bras côté demi-lotus s'enroule autour de la cuisse, autre bras derrière le dos, mains s'agrippent, se plier vers l'avant avec la colonne longue, les deux ischions ancrés, presser doucement le genou en demi-lotus vers le bas
 
 **Bienfaits :** ouverture profonde des hanches et de la face externe des cuisses, allongement spinal, lien des épaules, relâchement avancé des ischio-jambiers, calme intérieur concentré
 

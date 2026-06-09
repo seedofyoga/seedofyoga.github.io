@@ -86,9 +86,9 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Marichyasana I — *Marichyasana I*
+### Sage Marichi's Pose I — *Marichyasana I*
 
-**Main cues:** seated, one leg extended, other knee bent with foot flat near hip, fold over extended leg, arm wraps inside bent knee, hand clasps behind back or at ankle, spine long before folding
+**Main cues:** seated, one leg extended, other knee bent with foot flat near hip, fold over extended leg, arm wraps around outside of bent knee, hand clasps behind back or at ankle, spine long before folding
 
 **Benefits:** hamstring stretch, hip release, shoulder mobility, digestive stimulation, focused inward attention
 
@@ -96,7 +96,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ### Marichyasana II — *Marichyasana II*
 
-**Main cues:** one leg in half-lotus, other knee bent with foot flat near hip, bind arms behind back, fold forward with spine long, both sit bones grounded, press half-lotus knee gently down
+**Main cues:** one leg in half-lotus, other knee bent with foot flat near hip, half-lotus arm wraps around lotus thigh, other arm behind back, hands clasp, fold forward with spine long, both sit bones grounded, press half-lotus knee gently down
 
 **Benefits:** deep hip and outer thigh opening, spinal elongation, shoulder bind, advanced hamstring release, focused inward calm
 
