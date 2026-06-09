@@ -32,7 +32,7 @@ What unites seated poses is their relationship to the pelvis. Whether the legs a
 
 ### Hero Pose — *Virasana*
 
-**Main cues:** kneel with knees together, feet wider than hips toes back, hips between heels, block or blanket under hips if needed, tops of feet press evenly, spine lifts from neutral pelvis
+**Main cues:** knees together at the top, shins and feet wider than hips, tops of feet flat, sit between the heels, block or blanket under hips if needed, spine lifts from neutral pelvis, hands on thighs
 
 **Benefits:** quadriceps and ankle stretch, nervous system calming, improves digestion, supports pranayama practice, front-body opening
 
@@ -56,7 +56,7 @@ What unites seated poses is their relationship to the pelvis. Whether the legs a
 
 ### Heron Pose — *Kraunchasana*
 
-**Main cues:** one leg in Virasana, extend other leg upward, hold foot or shin, spine tall and chest open, extend through heel, shoulders draw back, breath steady, gaze toward extended foot
+**Main cues:** Virasana established first, one leg in Virasana, extend other leg upward, hold foot or shin, spine tall and chest open, extend through heel, shoulders draw back, breath steady, gaze toward extended foot
 
 **Benefits:** intense hamstring stretch, hip flexor release, spinal elongation, core engagement, focus and patience
 

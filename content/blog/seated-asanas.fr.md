@@ -1,7 +1,7 @@
 ---
-title: "Asanas assis : quietude, stabilité et attention intérieure"
+title: "Asanas assis : quiétude, stabilité et attention intérieure"
 date: 2026-06-09
-description: "Explorez les postures assises de la Posture Facile à la Posture du Héron — des asanas qui cultivent la quietude, la force du centre et l'attention méditative."
+description: "Explorez les postures assises de la Posture Facile à la Posture du Héron — des asanas qui cultivent la quiétude, la force du centre et l'attention méditative."
 image: "/images/blog/seated-asanas.jpg"
 tags: ["asanas", "postures de yoga", "assis"]
 ---
@@ -32,7 +32,7 @@ Ce qui unit les postures assises est leur relation au bassin. Que les jambes soi
 
 ### Posture du Héros — *Virasana*
 
-**Principaux repères :** agenouillé genoux ensemble, pieds plus larges que les hanches orteils vers l'arrière, hanches entre les talons, bloc ou couverture sous les hanches si nécessaire, dessus des pieds pressés régulièrement au sol, colonne s'élève depuis un bassin neutre
+**Principaux repères :** genoux joints à l'intérieur du quadriceps, pieds plus larges que les hanches, dessus des pieds à plat, assis entre les talons, bloc ou couverture sous les hanches si nécessaire, colonne s'élève depuis un bassin neutre, mains sur les cuisses
 
 **Bienfaits :** étirement des quadriceps et des chevilles, apaisement du système nerveux, améliore la digestion, soutient la pratique du pranayama, ouverture de la face avant du corps
 
@@ -56,7 +56,7 @@ Ce qui unit les postures assises est leur relation au bassin. Que les jambes soi
 
 ### Posture du Héron — *Kraunchasana*
 
-**Principaux repères :** une jambe en Virasana, étendre l'autre jambe vers le haut, tenir le pied ou le tibia, colonne droite et poitrine ouverte, allonger à travers le talon, épaules vers l'arrière, respiration régulière, regard vers le pied tendu
+**Principaux repères :** Virasana maîtrisée d'abord, une jambe en Virasana, étendre l'autre jambe vers le haut, tenir le pied ou le tibia, colonne droite et poitrine ouverte, allonger à travers le talon, épaules vers l'arrière, respiration régulière, regard vers le pied tendu
 
 **Bienfaits :** étirement intense des ischio-jambiers, relâchement des fléchisseurs de hanche, allongement de la colonne, engagement du centre, concentration et patience
 
