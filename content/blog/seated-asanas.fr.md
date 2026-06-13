@@ -30,6 +30,14 @@ Ce qui unit les postures assises est leur relation au bassin. Que les jambes soi
 
 ---
 
+### Posture du Diamant — _Vajrasana_
+
+**Principaux repères :** à genoux et assis sur les talons, dessus des pieds à plat sur le tapis, genoux joints, colonne droite, mains posées sur les cuisses, yeux fermés ou regard doux vers le bas, respiration régulière — placer une couverture pliée entre les mollets et les cuisses en cas de pression dans les genoux ou les chevilles
+
+**Bienfaits :** soutien de la digestion, ancrage, mobilité des chevilles et des genoux avec le temps, base stable pour le pranayama ou la méditation, apaisement de l'activité du système nerveux
+
+---
+
 ### Posture Accroupie sur les Orteils
 
 **Principaux repères :** depuis la position à genoux, rentrer les dix orteils sous les pieds, reculer les hanches vers les talons, colonne allongée, mains posées sur les cuisses, ressortir si les genoux protestent, respiration régulière — placer un coussin derrière les genoux en cas de tension

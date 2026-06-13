@@ -38,6 +38,14 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
+### Posture du Crocodile — _Makarasana_
+
+**Principaux repères :** allongé sur le ventre, avant-bras à plat sur le tapis avec les coudes sous les épaules ou légèrement en avant, poitrine qui se soulève doucement, jambes écartées de la largeur des hanches et détendues, ventre qui descend vers le sol, respiration qui se dirige vers le dos — pour un repos plus profond, poser le front sur les avant-bras empilés et permettre un lâcher-prise complet
+
+**Bienfaits :** décompression du bas du dos, activation de la respiration diaphragmatique, extension spinale douce, apaisement du système nerveux, relâchement des épaules et de la poitrine
+
+---
+
 ### Posture du papillon couché — _Supta Baddha Konasana_
 
 **Principaux repères :** allongé sur le dos, plantes des pieds jointes, genoux tombent vers l'extérieur, bras le long du corps ou au-dessus de la tête, bolster optionnel sous la colonne, souffle dans le ventre et les aines, pas de forçage des genoux vers le sol

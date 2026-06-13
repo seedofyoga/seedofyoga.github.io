@@ -14,6 +14,14 @@ La logique physique des torsions est simple. La rotation mobilise la colonne tho
 
 ---
 
+### Posture Facile en Torsion — _Parivrtta Sukhasana_
+
+**Principaux repères :** assis en tailleur, inspirer pour allonger la colonne depuis le sommet du crâne, expirer pour faire pivoter le torse, une main repose sur le genou opposé extérieur, l'autre main au sol derrière le sacrum, épaules au même niveau, menton aligné avec le sternum, regard par-dessus l'épaule arrière — changer le croisement des jambes et répéter des deux côtés
+
+**Bienfaits :** entrée accessible à la rotation vertébrale, mobilité thoracique douce, relâchement du bas du dos, introduction d'ancrage à la séquence de torsions, convient à tous les niveaux
+
+---
+
 ### Torsion de Bharadvaja — _Bharadvajasana_
 
 **Principaux repères :** assis sur les talons ou en tailleur, inspirer pour allonger la colonne, expirer pour faire pivoter le torse, une main sur le genou opposé, l'autre main au sol derrière soi, épaules nivelées, menton dans l'axe du sternum, regard par-dessus l'épaule arrière

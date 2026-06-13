@@ -78,6 +78,14 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
+### Posture du Cerf — _Mrigiasana_
+
+**Principaux repères :** assis, jambe avant fléchie à environ 90 degrés avec le tibia incliné en travers du tapis, jambe arrière fléchie sur le côté derrière la hanche, les deux ischions vers le sol ou hanche avant soutenue, colonne allongée, mains au sol pour le soutien, possibilité de se pencher vers l'avant au-dessus de la jambe avant ou de rester droit, changer de côté
+
+**Bienfaits :** rotation externe et interne simultanée des hanches, relâchement profond de la hanche externe et des fessiers, mobilité de l'articulation sacro-iliaque, alternative accessible au Pigeon, conscience de l'asymétrie des hanches
+
+---
+
 ### Posture du Roi Pigeon sur Une Jambe II — _Eka Pada Raja Kapotasana II_
 
 **Principaux repères :** à genoux, genou arrière au sol, plier la jambe arrière et saisir le pied de la même main par derrière, jambe avant tendue vers l'avant, hanches carrées, poitrine qui se lève, combiner l'étirement des fléchisseurs avec la flexion arrière
