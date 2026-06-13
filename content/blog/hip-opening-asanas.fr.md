@@ -2,8 +2,8 @@
 title: "Asanas d'ouverture des hanches : libération, espace et liberté émotionnelle"
 date: 2026-06-09
 description: "Explorez les postures d'ouverture des hanches, de la Posture de l'Angle Lié à la Posture du Singe — des asanas qui libèrent les tensions dans les hanches et le bassin, améliorent la mobilité et invitent à l'ouverture émotionnelle."
-image: "/images/blog/hip-opening-asanas.jpg"
-tags: ["asanas", "postures de yoga", "ouverture des hanches"]
+image: '/images/blog/hip-opening-asanas.jpg'
+tags: ['asanas', 'postures de yoga', 'ouverture des hanches']
 ---
 
 Les hanches portent bien plus que le poids du corps. Dans la plupart des corps, elles accumulent des tensions issues des heures passées assis, du stress non résolu, et de schémas de mouvement qui se sont rétrécis au fil des années. Les asanas d'ouverture des hanches s'adressent directement à cela — non par la force, mais par une ouverture soutenue et patiente. Le bassin est le centre structurel du corps, et le libérer transforme la qualité de presque tout le reste : la respiration, la posture, la facilité de la marche, le sentiment d'espace intérieur.
@@ -14,7 +14,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture de l'Angle Lié — *Baddha Konasana*
+### Posture de l'Angle Lié — _Baddha Konasana_
 
 **Principaux repères :** assis, plantes des pieds jointes, genoux qui s'ouvrent vers l'extérieur, talons ramenés vers le bassin, colonne vertébrale allongée, mains autour des pieds ou sur les cuisses intérieures, respiration dans l'aine
 
@@ -22,7 +22,15 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture de la Guirlande — *Malasana*
+### Posture de l'angle lié B — _Baddha Konasana B_
+
+**Principaux repères :** depuis Baddha Konasana A (en hauteur), plier vers l'avant depuis les hanches, ventre en tête, front vers les pieds ou le sol, coudes appuient doucement les genoux vers le sol, pieds rapprochés des hanches, colonne longue avant d'arrondir
+
+**Bienfaits :** ouverture profonde de l'aine et de la face interne des cuisses, relâchement des hanches, flexion avant du bassin, stimulation des organes reproducteurs, apaisement
+
+---
+
+### Posture de la Guirlande — _Malasana_
 
 **Principaux repères :** pieds plus larges que les hanches, orteils tournés vers l'extérieur, descendre en squat profond, talons au sol ou soutenus, mains à hauteur du cœur, coudes qui écartent les genoux, colonne longue, poitrine ouverte
 
@@ -30,7 +38,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture du Lézard — *Utthan Pristhasana*
+### Posture du Lézard — _Utthan Pristhasana_
 
 **Principaux repères :** fente basse, pied avant à l'extérieur de la même main, genou arrière relevé ou abaissé, tibia avant vertical, hanches qui s'abaissent vers le sol, mains ou avant-bras sur le tapis, regard vers l'avant
 
@@ -38,7 +46,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture du Visage de Vache — *Gomukhasana*
+### Posture du Visage de Vache — _Gomukhasana_
 
 **Principaux repères :** assis, genoux empilés l'un sur l'autre, pieds à côté des hanches, ischions ancrés uniformément, colonne longue, liaison des bras dans le dos en option, respiration stable dans la compression
 
@@ -46,7 +54,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture de la Bûche dans le Feu — *Agnistambhasana*
+### Posture de la Bûche dans le Feu — _Agnistambhasana_
 
 **Principaux repères :** assis, tibias empilés parallèles au bord avant du tapis, chevilles au-dessus des genoux, les deux tibias horizontaux, pieds fléchis, colonne droite, mains sur le sol ou les tibias, flexion vers l'avant si accessible
 
@@ -54,7 +62,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture du Pigeon — *Eka Pada Rajakapotasana*
+### Posture du Pigeon — _Eka Pada Rajakapotasana_
 
 **Principaux repères :** tibia avant en travers du tapis, jambe arrière longue et neutre, hanche avant soutenue si nécessaire, hanches horizontales vers le sol, colonne longue avant la flexion, mains encadrent le tibia avant, rester droit ou se pencher vers l'avant
 
@@ -62,7 +70,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture du Roi Pigeon sur Une Jambe II — *Eka Pada Raja Kapotasana II*
+### Posture du Roi Pigeon sur Une Jambe II — _Eka Pada Raja Kapotasana II_
 
 **Principaux repères :** à genoux, genou arrière au sol, plier la jambe arrière et saisir le pied de la même main par derrière, jambe avant tendue vers l'avant, hanches carrées, poitrine qui se lève, combiner l'étirement des fléchisseurs avec la flexion arrière
 
@@ -70,7 +78,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture de la Porte — *Parighasana*
+### Posture de la Porte — _Parighasana_
 
 **Principaux repères :** à genoux, une jambe tendue sur le côté pied à plat, le torse s'allonge au-dessus de la jambe tendue, main inférieure sur le tibia ou le sol, bras supérieur tendu au-dessus de la tête le long de l'oreille, les deux côtés du torse allongés
 
@@ -78,7 +86,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture du Singe — *Hanumanasana*
+### Posture du Singe — _Hanumanasana_
 
 **Principaux repères :** depuis la fente basse, genou arrière au sol, glisser le pied avant en avant et le pied arrière en arrière en grand écart, hanches carrées et horizontales, mains sur des blocs ou le sol, colonne droite ou flexion vers la jambe avant
 

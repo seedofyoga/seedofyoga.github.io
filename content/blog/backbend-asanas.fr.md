@@ -1,9 +1,9 @@
 ---
-title: "Asanas en flexion arrière : ouverture, courage et expansion"
+title: 'Asanas en flexion arrière : ouverture, courage et expansion'
 date: 2026-06-09
-description: "Explorez les postures en flexion arrière, du Sphinx à la Roue — des asanas qui ouvrent la face avant du corps, renforcent la colonne et cultivent le courage et la vitalité."
-image: "/images/blog/backbend-asanas.jpg"
-tags: ["asanas", "postures de yoga", "flexion arrière"]
+description: 'Explorez les postures en flexion arrière, du Sphinx à la Roue — des asanas qui ouvrent la face avant du corps, renforcent la colonne et cultivent le courage et la vitalité.'
+image: '/images/blog/backbend-asanas.jpg'
+tags: ['asanas', 'postures de yoga', 'flexion arrière']
 ---
 
 Les flexions arrière demandent au corps de se déplacer à contre-courant de ses habitudes. L'avant du corps — la poitrine, le ventre, les fléchisseurs de hanche, la gorge — a tendance à se refermer au fil de la journée : courbé au bureau, recroquevillé dans une chaise, contracté dans les moments de stress ou d'autoprotection. Les flexions arrière inversent cette direction. Elles portent la colonne en extension, soulèvent le sternum et ouvrent ce que le corps gardait silencieusement. Dans de nombreuses traditions, cette qualité d'ouverture est comprise non seulement physiquement, mais comme quelque chose de plus proche du courage — la disposition à exposer l'avant vulnérable du corps à ce qui se trouve devant soi.
@@ -14,7 +14,7 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Posture du sphinx — *Salamba Bhujangasana*
+### Posture du sphinx — _Salamba Bhujangasana_
 
 **Principaux repères :** allongé sur le ventre, avant-bras au sol parallèles, coudes sous les épaules, appuyer les avant-bras pour se soulever, poitrine qui se lève, côtes inférieures au sol, jambes actives, dos des pieds au sol, regard vers l'avant
 
@@ -22,7 +22,7 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Posture du cobra — *Bhujangasana*
+### Posture du cobra — _Bhujangasana_
 
 **Principaux repères :** mains à côté des côtes inférieures, coudes fléchis, appuyer dans les paumes pour se lever, épaules en arrière et vers le bas, coudes légèrement fléchis possibles, os pubien au sol, jambes serrées et actives, regard vers l'avant
 
@@ -30,7 +30,7 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Chien tête en haut — *Urdhva Mukha Svanasana*
+### Chien tête en haut — _Urdhva Mukha Svanasana_
 
 **Principaux repères :** appuyer dans les bras tendus, dos des pieds au sol, cuisses soulevées du sol, hanches suspendues, poitrine vers l'avant et vers le haut, épaules loin des oreilles, regard vers l'avant ou légèrement vers le haut
 
@@ -38,7 +38,15 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Demi-roue — *Ardha Chakrasana*
+### Posture de la planche vers le haut — _Purvottanasana_
+
+**Principaux repères :** depuis la position assise, placer les mains derrière les hanches, doigts vers les pieds, appuyer les paumes pour lever les hanches, corps en une ligne des épaules aux orteils, pointer les pieds et appuyer les dos des pieds vers le sol, poitrine s'ouvre largement, tête se penche doucement en arrière ou nuque reste longue
+
+**Bienfaits :** ouverture des épaules et de la poitrine, étirement complet du devant du corps, renforcement des poignets et des bras, contre-posture aux flexions avant, énergisant
+
+---
+
+### Demi-roue — _Ardha Chakrasana_
 
 **Principaux repères :** debout les pieds à la largeur des hanches, inspirer les bras au-dessus de la tête, mains optionnellement sur le bas du dos pour soutien, soulever la poitrine vers le plafond, regard vers le haut, jambes droites et ancrées, poids dans les pieds
 
@@ -46,7 +54,7 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Posture du pont — *Setu Bandha Sarvangasana*
+### Posture du pont — _Setu Bandha Sarvangasana_
 
 **Principaux repères :** allongé sur le dos, genoux fléchis, pieds à la largeur des hanches et proches des hanches, appuyer dans les pieds pour soulever les hanches, cuisses parallèles, entrelacer les mains sous le dos ou appuyer les paumes au sol, poitrine vers le menton, regard vers le haut
 
@@ -54,7 +62,7 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Posture de l'arc — *Dhanurasana*
+### Posture de l'arc — _Dhanurasana_
 
 **Principaux repères :** allongé sur le ventre, fléchir les genoux, atteindre les chevilles extérieures par derrière, donner des coups de pieds vers le plafond tout en soulevant la poitrine, cuisses décollées du sol, épaules en arrière, genoux à la largeur des hanches, regard vers l'avant
 
@@ -62,7 +70,7 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Posture du chameau — *Ustrasana*
+### Posture du chameau — _Ustrasana_
 
 **Principaux repères :** à genoux avec les hanches au-dessus des genoux, mains sur le bas du dos ou les talons, soulever la poitrine haut, hanches poussées en avant au-dessus des genoux, menton vers le bas ou tête en arrière, épaules qui reculent, cuisses verticales
 
@@ -70,7 +78,7 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Chose sauvage — *Camatkarasana*
+### Chose sauvage — _Camatkarasana_
 
 **Principaux repères :** depuis la planche latérale sur une main, balayer le pied arrière derrière vers le sol, soulever les hanches haut, la poitrine pivote vers le plafond, le bras libre s'arque au-dessus de la tête, la tête se penche en arrière, poids dans la main ancrée et le pied arrière
 
@@ -78,7 +86,7 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Posture du poisson — *Matsyasana*
+### Posture du poisson — _Matsyasana_
 
 **Principaux repères :** allongé sur le dos, glisser les mains sous les hanches paumes vers le bas, appuyer les coudes au sol, soulever la poitrine et arquer le haut du dos, sommet de la tête au sol légèrement, jambes actives et serrées, gorge ouverte
 
@@ -86,7 +94,15 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Posture de la sauterelle — *Salabhasana*
+### Posture des jambes étendues — _Uttana Padasana_
+
+**Principaux repères :** depuis allongé, mains sous les fesses paumes vers le bas, arquer le dos comme dans Matsyasana, jambes levées à 45° allongées et actives, orteils pointés, poitrine bien levée, arrière de la tête ou sommet du crâne au sol, respiration expansive
+
+**Bienfaits :** renforcement des fléchisseurs de hanche, ouverture de la poitrine et de la gorge, extension spinale, engagement abdominal, approfondissement de Matsyasana
+
+---
+
+### Posture de la sauterelle — _Salabhasana_
 
 **Principaux repères :** allongé sur le ventre, bras le long du corps ou croisés derrière, inspirer pour soulever simultanément poitrine, bras et jambes, regard vers le bas ou légèrement vers l'avant, cuisses et fessiers engagés, poids sur l'abdomen
 
@@ -94,7 +110,7 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Posture de la roue — *Urdhva Dhanurasana*
+### Posture de la roue — _Urdhva Dhanurasana_
 
 **Principaux repères :** allongé sur le dos, pieds à la largeur des hanches près des hanches, mains près des oreilles doigts pointés vers les épaules, appuyer dans les mains et les pieds pour se soulever complètement, bras droits, poitrine vers le mur, hanches hautes, tête qui pend
 
@@ -102,7 +118,7 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
-### Posture du bâton renversé à deux pieds — *Dwi Pada Viparita Dandasana*
+### Posture du bâton renversé à deux pieds — _Dwi Pada Viparita Dandasana_
 
 **Principaux repères :** depuis la roue, abaisser les avant-bras un par un vers le sol, doigts entrelacés derrière la tête, jambes qui s'allongent si accessible, avant-bras ancrés, poitrine qui se soulève, praticiens avancés uniquement, accessoires si nécessaire
 

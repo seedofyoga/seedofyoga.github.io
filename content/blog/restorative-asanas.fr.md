@@ -1,9 +1,9 @@
 ---
-title: "Asanas restaurateurs : repos, intégration et libération profonde"
+title: 'Asanas restaurateurs : repos, intégration et libération profonde'
 date: 2026-06-09
-description: "Explorez les postures restauratrices du Chat-Vache au Savasana — des postures douces qui apaisent le système nerveux, libèrent les tensions retenues et invitent le corps dans un repos profond."
-image: "/images/blog/restorative-asanas.jpg"
-tags: ["asanas", "postures de yoga", "restaurateur"]
+description: 'Explorez les postures restauratrices du Chat-Vache au Savasana — des postures douces qui apaisent le système nerveux, libèrent les tensions retenues et invitent le corps dans un repos profond.'
+image: '/images/blog/restorative-asanas.jpg'
+tags: ['asanas', 'postures de yoga', 'restaurateur']
 ---
 
 Les postures restauratrices demandent quelque chose de différent au corps. Elles ne génèrent pas de chaleur et n'exigent pas d'effort. Elles invitent le système nerveux à ralentir, à cesser de scruter ce qui vient ensuite, et à se poser dans ce qui est déjà là. Ce n'est pas une pratique passive — cela demande une forme particulière de disponibilité au relâchement, qui pour beaucoup de personnes est plus difficile que tenir une posture debout.
@@ -14,7 +14,7 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
-### Chat-Vache — *Marjaryasana / Bitilasana*
+### Chat-Vache — _Marjaryasana / Bitilasana_
 
 **Principaux repères :** mains sous les épaules, genoux sous les hanches, à l'expiration arrondir la colonne et descendre la tête et le coccyx (Chat), à l'inspiration laisser tomber le ventre, lever les ischions et le regard (Vache), mouvement avec le souffle, épaules loin des oreilles, rythme lent et continu
 
@@ -22,7 +22,7 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
-### Posture de l'enfant — *Balasana*
+### Posture de l'enfant — _Balasana_
 
 **Principaux repères :** genoux écartés ou joints, gros orteils se touchant, hanches qui descendent vers les talons, bras étendus ou le long du corps, front posé sur le tapis, ventre qui s'abaisse entre les cuisses, souffle dans le dos
 
@@ -30,7 +30,7 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
-### Posture du chiot allongé — *Uttana Shishosana*
+### Posture du chiot allongé — _Uttana Shishosana_
 
 **Principaux repères :** hanches au-dessus des genoux, bras étendus vers l'avant, poitrine qui descend vers le tapis, front ou menton au sol, hanches restent hautes, bras pressent légèrement vers le bas, légère traction dans la colonne
 
@@ -38,7 +38,7 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
-### Posture du papillon couché — *Supta Baddha Konasana*
+### Posture du papillon couché — _Supta Baddha Konasana_
 
 **Principaux repères :** allongé sur le dos, plantes des pieds jointes, genoux tombent vers l'extérieur, bras le long du corps ou au-dessus de la tête, bolster optionnel sous la colonne, souffle dans le ventre et les aines, pas de forçage des genoux vers le sol
 
@@ -46,7 +46,7 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
-### Posture du héros couché — *Supta Virasana*
+### Posture du héros couché — _Supta Virasana_
 
 **Principaux repères :** depuis Virasana, mains au sol derrière soi, descendre lentement sur les avant-bras puis sur le dos, bras au-dessus de la tête ou le long du corps, genoux restent joints, bolster sous la colonne si nécessaire — intermédiaire/avancé : pratiquer d'abord Virasana assis
 
@@ -54,7 +54,7 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
-### Posture du bébé heureux — *Ananda Balasana*
+### Posture du bébé heureux — _Ananda Balasana_
 
 **Principaux repères :** allongé sur le dos, genoux qui se rapprochent des aisselles, plantes des pieds vers le plafond, tenir l'extérieur des pieds ou les chevilles, amener doucement les genoux vers le sol à côté des côtes, bas du dos ancré dans le tapis, balancement latéral optionnel
 
@@ -62,7 +62,7 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
-### Posture anti-gaz — *Pawanmuktasana*
+### Posture anti-gaz — _Pawanmuktasana_
 
 **Principaux repères :** allongé sur le dos, ramener un ou deux genoux vers la poitrine, presser doucement les cuisses vers le ventre, balancement léger d'un côté à l'autre, bas du dos qui s'adoucit dans le tapis, menton qui se rapproche légèrement, souffle plein et régulier
 
@@ -70,7 +70,7 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
-### Jambes au mur — *Viparita Karani*
+### Jambes au mur — _Viparita Karani_
 
 **Principaux repères :** s'asseoir de côté contre un mur, balancer les jambes vers le haut en abaissant le dos vers le sol, jambes droites ou souples, hanches proches du mur ou sur une couverture/bolster plié, bras sur les côtés ou sur le ventre, yeux fermés, poids total des jambes abandonné au mur
 
@@ -78,7 +78,39 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
-### Posture du cadavre — *Savasana*
+### Posture de l'angle allongé — _Supta Konasana_
+
+**Principaux repères :** depuis Halasana, écarter les jambes en V en position inversée, saisir les gros orteils ou les bords extérieurs des pieds, cuisses intérieures s'étirent, poids reste sur les épaules, colonne reste arrondie tout au long
+
+**Bienfaits :** étirement de la face interne des cuisses et de l'aine en inversion, souplesse des ischio-jambiers, apaisement par inversion, flexion spinale, relâchement des adducteurs
+
+---
+
+### Posture allongée de l'orteil A — _Supta Padangusthasana A_
+
+**Principaux repères :** allongé sur le dos, une jambe allongée au sol et active, l'autre jambe monte vers le ciel, index et majeur agrippent le gros orteil levé, allonger la jambe levée vers le plafond, pied fléchi, deux hanches au sol, épaules détendues
+
+**Bienfaits :** étirement des ischio-jambiers, ouverture de l'articulation de la hanche, relâchement du nerf sciatique, ancrage, conscience asymétrique de la hanche
+
+---
+
+### Posture allongée de l'orteil B — _Supta Padangusthasana B_
+
+**Principaux repères :** depuis Supta Padangusthasana A, ouvrir la jambe levée sur le côté, maintenir les deux hanches au sol, la main opposée appuie sur la cuisse opposée vers le sol, pied fléchi, regard à l'opposé de la jambe levée
+
+**Bienfaits :** étirement de l'aine et des adducteurs, allongement des abducteurs de hanche, stabilité de l'articulation de la hanche, alignement spinal, qualité méditative
+
+---
+
+### Posture du bâton allongé — _Supta Dandasana_
+
+**Principaux repères :** allongé sur le dos, deux jambes allongées sur le sol, bras le long du corps ou au-dessus de la tête, pieds fléchis, épaules ancrées, colonne longue, corps complètement allongé en une ligne, relâchement conscient avec jambes actives
+
+**Bienfaits :** alignement spinal au sol, étirement passif des ischio-jambiers et des mollets, réinitialisation du système nerveux, relâchement des fléchisseurs de hanche, transition apaisante
+
+---
+
+### Posture du cadavre — _Savasana_
 
 **Principaux repères :** allongé entièrement sur le dos, pieds tombant naturellement vers l'extérieur, bras légèrement éloignés du corps paumes vers le haut, yeux fermés, mâchoire souple, rien de retenu, abandon complet de l'effort et du contrôle, immobilité sans forçage
 

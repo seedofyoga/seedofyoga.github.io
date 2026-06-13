@@ -1,9 +1,9 @@
 ---
-title: "Twisting Asanas: Rotation, Detoxification and Clarity"
+title: 'Twisting Asanas: Rotation, Detoxification and Clarity'
 date: 2026-06-09
 description: "Explore twisting asanas from Bharadvaja's Twist to Rope Pose — postures that wring the spine, release tension and restore energetic clarity."
-image: "/images/blog/twisting-asanas.jpg"
-tags: ["asanas", "yoga postures", "twisting"]
+image: '/images/blog/twisting-asanas.jpg'
+tags: ['asanas', 'yoga postures', 'twisting']
 ---
 
 Twisting poses occupy a particular place in yoga practice. They move the spine along its most neglected axis — rotation — and they do so without the drama of backbends or the demand of inversions. The effect is often immediate: a sense of release, as if something compressed has been allowed to open. Tradition describes twists as wringing the body like a cloth, releasing what has accumulated — physically, emotionally, energetically. Whether or not one holds that image literally, the lived experience of a good twist tends to confirm something in it.
@@ -14,7 +14,7 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Revolved Easy Pose — *Parivrtta Sukhasana*
+### Revolved Easy Pose — _Parivrtta Sukhasana_
 
 **Main cues:** seated cross-legged, inhale to lengthen the spine from the crown, exhale to rotate the torso, one hand rests on the outer opposite knee, other hand on the floor behind the sacrum, shoulders level, chin aligned with the sternum, gaze over the back shoulder — switch the crossing of the legs and repeat both sides
 
@@ -22,7 +22,7 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Bharadvaja's Twist — *Bharadvajasana*
+### Bharadvaja's Twist — _Bharadvajasana_
 
 **Main cues:** seated on heels or cross-legged, inhale to lengthen spine, exhale to rotate torso, one hand to outer knee, other hand on floor behind, shoulders level, chin in line with sternum, gaze over back shoulder
 
@@ -30,7 +30,7 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Half Lord of the Fishes — *Ardha Matsyendrasana*
+### Half Lord of the Fishes — _Ardha Matsyendrasana_
 
 **Main cues:** one heel near opposite hip or leg extended, bent knee foot planted outside opposite thigh, inhale tall, exhale rotate, outer arm hooks outside raised knee for leverage, back hand on floor behind sacrum, chest lifts, gaze over back shoulder
 
@@ -38,7 +38,7 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Revolved Chair Pose — *Parivrtta Utkatasana*
+### Revolved Chair Pose — _Parivrtta Utkatasana_
 
 **Main cues:** feet together, hips sink back into Chair, inhale lengthen, exhale rotate, palms at heart or one elbow hooks outside opposite knee, thighs parallel, knees even, weight in heels, chest lifts against resistance
 
@@ -46,7 +46,7 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Revolved Side Angle Pose — *Parivrtta Parsvakonasana*
+### Revolved Side Angle Pose — _Parivrtta Parsvakonasana_
 
 **Main cues:** lunge with front knee over ankle, back knee down or lifted, inhale lengthen spine, exhale rotate toward front leg, outer arm hooks outside front knee or hand to floor outside foot, top arm extends overhead alongside ear, gaze upward
 
@@ -54,7 +54,7 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Revolved Triangle Pose — *Parivrtta Trikonasana*
+### Revolved Triangle Pose — _Parivrtta Trikonasana_
 
 **Main cues:** wide stance, front foot forward, back foot angled in, legs straight or micro-bend, rotate torso toward front leg, opposite hand to shin, block, or floor outside front foot, top arm straight up, hips as square as possible, both sides of torso long
 
@@ -62,7 +62,7 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Revolved Head-to-Knee Pose — *Parivrtta Janu Sirsasana*
+### Revolved Head-to-Knee Pose — _Parivrtta Janu Sirsasana_
 
 **Main cues:** seated, one leg extended, other foot to inner thigh, rotate torso toward extended leg, lean and reach over extended leg, lower hand catches foot or strap, upper arm extends over ear alongside the head, side body lengthens, gaze upward
 
@@ -70,7 +70,7 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Supine Spinal Twist — *Supta Matsyendrasana*
+### Supine Spinal Twist — _Supta Matsyendrasana_
 
 **Main cues:** lying on back, draw one or both knees to chest, guide knees to one side, arms open wide, shoulders flat on floor, gaze opposite to knees, relax weight of legs down, breath long and even
 
@@ -78,7 +78,7 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Marichyasana III — *Marichyasana III*
+### Marichyasana III — _Marichyasana III_
 
 **Main cues:** seated, one leg extended, other knee bent with foot flat near hip, inhale lengthen, exhale rotate toward bent knee, opposite outer arm hooks outside raised knee for leverage, back hand on floor behind sacrum, chest lifts, gaze over back shoulder
 
@@ -86,7 +86,15 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Rope Pose — *Pasasana*
+### Sage Marichi's Pose D — _Marichyasana D_
+
+**Main cues:** seated, one leg in half lotus, other knee bent with foot flat near hip, twist toward bent knee, arm wraps around outside of bent leg, lotus-side arm wraps behind back, both hands clasp in bind, spine tall before rotating, gaze over rear shoulder
+
+**Benefits:** deep spinal rotation, hip opening in lotus, shoulder mobility, digestive stimulation, advanced full-body integration
+
+---
+
+### Rope Pose — _Pasasana_
 
 **Main cues:** deep squat with feet together or slightly apart, heels down or supported, rotate torso to one side, both arms wrap outside of knees into a bind, chest lifts against resistance, back knee stays even with front, gaze over back shoulder, breath steady in the compression
 

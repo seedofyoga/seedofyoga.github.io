@@ -1,9 +1,9 @@
 ---
-title: "Backbend Asanas: Opening, Courage and Expansion"
+title: 'Backbend Asanas: Opening, Courage and Expansion'
 date: 2026-06-09
-description: "Explore backbend asanas from Sphinx to Wheel — postures that open the front body, strengthen the spine and cultivate courage and vitality."
-image: "/images/blog/backbend-asanas.jpg"
-tags: ["asanas", "yoga postures", "backbend"]
+description: 'Explore backbend asanas from Sphinx to Wheel — postures that open the front body, strengthen the spine and cultivate courage and vitality.'
+image: '/images/blog/backbend-asanas.jpg'
+tags: ['asanas', 'yoga postures', 'backbend']
 ---
 
 Backbends ask the body to move against its habits. The front of the body — chest, belly, hip flexors, throat — tends to close inward across the day: hunched at desks, curled in chairs, contracted in moments of stress or self-protection. Backbends reverse that direction. They press the spine into extension, lift the sternum, and open what the body has quietly been guarding. In many traditions, this quality of opening is understood not only physically but as something closer to courage — the willingness to expose the vulnerable front of the body to whatever is in front of you.
@@ -14,7 +14,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Sphinx Pose — *Salamba Bhujangasana*
+### Sphinx Pose — _Salamba Bhujangasana_
 
 **Main cues:** lie prone, forearms on floor parallel, elbows under shoulders, press forearms to rise, chest lifts, lower ribs on floor, legs active, tops of feet down, gaze forward
 
@@ -22,7 +22,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Cobra Pose — *Bhujangasana*
+### Cobra Pose — _Bhujangasana_
 
 **Main cues:** hands beside lower ribs, elbows bent, press through palms to rise, shoulders back and down, elbows may stay slightly bent, pubic bone to floor, legs together and active, gaze forward
 
@@ -30,7 +30,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Upward-Facing Dog — *Urdhva Mukha Svanasana*
+### Upward-Facing Dog — _Urdhva Mukha Svanasana_
 
 **Main cues:** press through straight arms, tops of feet on floor, thighs lifted off floor, hips suspended, chest forward and up, shoulders away from ears, gaze forward or slightly up
 
@@ -38,7 +38,15 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Half Wheel Pose — *Ardha Chakrasana*
+### Upward Plank Pose — _Purvottanasana_
+
+**Main cues:** from seated, place hands behind hips with fingers pointing toward feet, press palms to lift hips skyward, body in one line from shoulders to toes, point feet and press tops of feet toward floor, chest opens broad, head drops back gently or neck stays long
+
+**Benefits:** shoulder and chest opening, full front body stretch, wrist and arm strengthening, counterpose to forward folds, energising
+
+---
+
+### Half Wheel Pose — _Ardha Chakrasana_
 
 **Main cues:** stand with feet hip-width, inhale arms overhead, hands optionally to lower back for support, lift chest toward ceiling, gaze upward, legs straight and grounded, weight through feet
 
@@ -46,7 +54,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Bridge Pose — *Setu Bandha Sarvangasana*
+### Bridge Pose — _Setu Bandha Sarvangasana_
 
 **Main cues:** lie on back, knees bent, feet hip-width and close to hips, press through feet to lift hips, thighs parallel, interlace hands under back or press palms to floor, chest toward chin, gaze upward
 
@@ -54,7 +62,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Bow Pose — *Dhanurasana*
+### Bow Pose — _Dhanurasana_
 
 **Main cues:** lie prone, bend knees, reach back to take outer ankles, kick feet toward ceiling while lifting chest, thighs off floor, shoulders back, knees hip-width, gaze forward
 
@@ -62,7 +70,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Camel Pose — *Ustrasana*
+### Camel Pose — _Ustrasana_
 
 **Main cues:** kneel with hips over knees, hands to lower back or heels, lift chest high, hips push forward over knees, chin down or head back, shoulders drawing back, thighs vertical
 
@@ -70,7 +78,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Wild Thing — *Camatkarasana*
+### Wild Thing — _Camatkarasana_
 
 **Main cues:** from side plank on one hand, sweep back foot behind to floor, lift hips high, chest spirals open toward ceiling, free arm arcs overhead, head drops back, weight through grounded hand and back foot
 
@@ -78,7 +86,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Fish Pose — *Matsyasana*
+### Fish Pose — _Matsyasana_
 
 **Main cues:** lie on back, slide hands under hips palms down, press elbows to floor, lift chest and arch upper back, top of head to floor lightly, legs active and together, throat open
 
@@ -86,7 +94,15 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Locust Pose — *Salabhasana*
+### Extended Foot Pose — _Uttana Padasana_
+
+**Main cues:** from lying down, hands under buttocks palms down, arch back as in Fish Pose, legs lift to 45° extended and active, toes pointed, chest lifts high, back of head or crown on floor, breath expansive
+
+**Benefits:** hip flexor strengthening, chest and throat opening, spinal extension, abdominal engagement, deepening of Matsyasana
+
+---
+
+### Locust Pose — _Salabhasana_
 
 **Main cues:** lie prone, arms alongside body or clasped behind, inhale to lift chest, arms, and legs simultaneously, gaze down or slightly forward, thighs and glutes engaged, weight on abdomen
 
@@ -94,7 +110,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Wheel Pose — *Urdhva Dhanurasana*
+### Wheel Pose — _Urdhva Dhanurasana_
 
 **Main cues:** lie on back, feet hip-width near hips, hands by ears fingers pointing to shoulders, press through hands and feet to lift fully, arms straight, chest toward wall, hips high, head hangs
 
@@ -102,7 +118,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Upward Facing Two-Foot Staff Pose — *Dwi Pada Viparita Dandasana*
+### Upward Facing Two-Foot Staff Pose — _Dwi Pada Viparita Dandasana_
 
 **Main cues:** from Wheel, lower forearms one at a time to floor, fingers interlaced behind head, legs straighten if accessible, forearms grounded, chest lifts, advanced practitioners only, props as needed
 

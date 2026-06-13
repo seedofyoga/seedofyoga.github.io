@@ -1,9 +1,9 @@
 ---
-title: "Standing Asanas: Strength, Balance and Groundedness"
+title: 'Standing Asanas: Strength, Balance and Groundedness'
 date: 2026-06-09
-description: "Explore standing asanas from Mountain Pose to Warrior III — foundational postures that build strength, stability, and focus."
-image: "/images/blog/standing-asanas.jpg"
-tags: ["asanas", "yoga postures", "standing"]
+description: 'Explore standing asanas from Mountain Pose to Warrior III — foundational postures that build strength, stability, and focus.'
+image: '/images/blog/standing-asanas.jpg'
+tags: ['asanas', 'yoga postures', 'standing']
 ---
 
 Standing poses form the foundation of most yoga practices. They build from the ground up — through the feet, the legs, the hips — and develop something harder to name but easy to feel: steadiness. There is a quality specific to standing postures that seated or floor work cannot fully replicate. You are upright. Gravity is present. The body has to find its own relationship with the earth beneath it.
@@ -16,7 +16,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ## Standing Poses
 
-### Mountain Pose — *Tadasana*
+### Mountain Pose — _Tadasana_
 
 **Main cues:** feet hip-width or together, weight through all four corners, legs active without gripping, spine tall from tailbone to crown, shoulders back and down, arms alongside body, palms forward, gaze level
 
@@ -24,7 +24,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Upward Salute — *Urdhva Hastasana*
+### Upward Salute — _Urdhva Hastasana_
 
 **Main cues:** from Tadasana, inhale arms overhead, palms together or shoulder-width, arms by ears, chest lifts, slight backbend optional, shoulders away from ears, gaze forward or up
 
@@ -32,7 +32,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Chair Pose — *Utkatasana*
+### Chair Pose — _Utkatasana_
 
 **Main cues:** feet together or hip-width, bend knees and sit hips back, thighs toward floor, spine long, arms alongside ears, weight through heels, knees over feet, jaw soft
 
@@ -40,7 +40,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Warrior I — *Virabhadrasana I*
+### Warrior I — _Virabhadrasana I_
 
 **Main cues:** back foot turned 45°, front knee over ankle, hips square to front, back heel grounded, arms overhead palms facing or touching, chest lifts, gaze forward or upward
 
@@ -48,7 +48,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Warrior II — *Virabhadrasana II*
+### Warrior II — _Virabhadrasana II_
 
 **Main cues:** wide stance, front foot forward, back foot parallel to short edge, front knee over ankle, hips open to long edge, arms at shoulder height, gaze over front hand, nothing collapses
 
@@ -56,7 +56,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Peaceful Warrior — *Viparita Virabhadrasana*
+### Peaceful Warrior — _Viparita Virabhadrasana_
 
 **Main cues:** from Warrior II, front arm lifts overhead as back hand slides down back leg, side body lengthens, front knee stays bent over ankle, gaze up toward raised hand
 
@@ -64,7 +64,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Extended Side Angle Pose — *Utthita Parsvakonasana*
+### Extended Side Angle Pose — _Utthita Parsvakonasana_
 
 **Main cues:** from Warrior II, forearm on front thigh or hand outside front foot, top arm extends overhead alongside ear, diagonal line from back foot to fingertips, torso opens to ceiling, back leg strong
 
@@ -72,7 +72,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Extended Triangle Pose — *Utthita Trikonasana*
+### Extended Triangle Pose — _Utthita Trikonasana_
 
 **Main cues:** wide stance, front foot forward, back foot slightly in, legs straight or micro-bend, torso lengthens over front leg, hand to shin/ankle/floor, top arm straight up, both sides of torso long
 
@@ -80,7 +80,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### High Lunge — *Utthita Ashwa Sanchalanasana*
+### High Lunge — _Utthita Ashwa Sanchalanasana_
 
 **Main cues:** long stance, back heel lifted, front knee over ankle, hips square, arms overhead or at heart, back leg straight and strong, core engaged, gaze forward
 
@@ -88,7 +88,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### High Lunge, Crescent Variation — *Alanasana*
+### High Lunge, Crescent Variation — _Alanasana_
 
 **Main cues:** from High Lunge, arms sweep overhead and slightly back, chest lifts into gentle backbend, front knee over ankle, shoulders drawing down, back toes pressing, gaze up or forward
 
@@ -96,7 +96,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Low Lunge — *Anjaneyasana*
+### Low Lunge — _Anjaneyasana_
 
 **Main cues:** back knee lowers to floor, front knee over ankle, hips sink forward and down, arms overhead or at heart, spine long, chest open, back toes optional, gaze forward
 
@@ -104,7 +104,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Five-Pointed Star Pose — *Pañca Tārāsana*
+### Five-Pointed Star Pose — _Pañca Tārāsana_
 
 **Main cues:** wide stance, feet parallel, arms extended to the sides at shoulder height, legs active, spine long, chest broad, gaze forward, weight even through both feet
 
@@ -114,7 +114,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ## Standing + Balancing Poses
 
-### Eagle Pose — *Garudasana*
+### Eagle Pose — _Garudasana_
 
 **Main cues:** bend standing knee, cross other thigh over, hook foot behind calf if possible, arms cross at elbows, forearms wrap, hands press, elbows at shoulder height, gaze steady at one point
 
@@ -122,7 +122,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Tree Pose — *Vrksasana*
+### Tree Pose — _Vrksasana_
 
 **Main cues:** weight into standing leg, foot to inner ankle/calf/thigh (not knee), hips level, hands at heart or overhead, core steady, gaze at fixed point, breath even
 
@@ -130,7 +130,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Extended Hand-to-Big-Toe Pose — *Utthita Hasta Padangusthasana*
+### Extended Hand-to-Big-Toe Pose — _Utthita Hasta Padangusthasana_
 
 **Main cues:** standing leg straight, lift opposite knee to chest, take hold of big toe or use strap, extend leg forward or to side, standing hip down, free arm out, gaze at fixed point
 
@@ -138,7 +138,15 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Half Moon Pose — *Ardha Chandrasana*
+### Half Bound Lotus Standing Forward Fold — _Ardha Baddha Padmottanasana_
+
+**Main cues:** one foot in half lotus at hip crease, lotus-side arm wraps behind back to hold lotus foot, standing leg straight and firm, fold forward from hips, free hand to floor or shin, lotus knee points downward, gaze at shin or floor
+
+**Benefits:** hip opening in lotus leg, standing hamstring stretch, shoulder mobility, single-leg balance, focused inward attention
+
+---
+
+### Half Moon Pose — _Ardha Chandrasana_
 
 **Main cues:** from Triangle, shift weight to front foot, back leg lifts parallel to floor, bottom hand to floor or block, top arm straight up, hip/shoulder/hand stack vertically, gaze up or down
 
@@ -146,7 +154,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Dancer Pose — *Natarajasana*
+### Dancer Pose — _Natarajasana_
 
 **Main cues:** standing leg straight, bend back knee, reach same-side hand to inner ankle or foot, kick foot back and up, opposite arm forward or up, chest opens, hips level, gaze fixed forward
 
@@ -154,7 +162,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Warrior III — *Virabhadrasana III*
+### Warrior III — _Virabhadrasana III_
 
 **Main cues:** hinge forward from standing leg, back leg lifts to hip height, arms forward or alongside body, body forms one horizontal line, hips level, core strong, gaze to floor, breath steady
 

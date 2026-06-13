@@ -1,9 +1,9 @@
 ---
-title: "Asanas assis : quiétude, stabilité et attention intérieure"
+title: 'Asanas assis : quiétude, stabilité et attention intérieure'
 date: 2026-06-09
 description: "Explorez les postures assises de la Posture Facile à la Posture du Héron — des asanas qui cultivent la quiétude, la force du centre et l'attention méditative."
-image: "/images/blog/seated-asanas.jpg"
-tags: ["asanas", "postures de yoga", "assis"]
+image: '/images/blog/seated-asanas.jpg'
+tags: ['asanas', 'postures de yoga', 'assis']
 ---
 
 Les postures assises demandent quelque chose de différent au corps que les postures debout ou inversées. Il n'y a pas d'équilibre à gérer, pas de sol à repousser. Le sol vous accueille entièrement — et ce qui reste est le travail de trouver longueur, ouverture et stabilité dans cette immobilité. Pour beaucoup de pratiquants, les postures assises sont là où la pratique devient véritablement intérieure. Le système nerveux s'apaise. La respiration ralentit. Le corps commence à révéler exactement où il retient la tension, et où il ne sait pas encore comment la relâcher.
@@ -14,7 +14,7 @@ Ce qui unit les postures assises est leur relation au bassin. Que les jambes soi
 
 ---
 
-### Posture Facile — *Sukhasana*
+### Posture Facile — _Sukhasana_
 
 **Principaux repères :** assis sur une couverture ou un coussin, tibias croisés, bassin neutre, colonne qui s'élève d'une base stable, mains sur les genoux ou sur les cuisses, épaules détendues, regard doux ou yeux fermés
 
@@ -22,7 +22,7 @@ Ce qui unit les postures assises est leur relation au bassin. Que les jambes soi
 
 ---
 
-### Posture du Bâton — *Dandasana*
+### Posture du Bâton — _Dandasana_
 
 **Principaux repères :** jambes allongées, pieds fléchis, cuisses pressées vers le sol, mains à côté des hanches doigts vers l'avant, colonne s'élève bien droite, épaules vers l'arrière et vers le bas, assis sur une couverture si le bas du dos s'arrondit
 
@@ -30,7 +30,7 @@ Ce qui unit les postures assises est leur relation au bassin. Que les jambes soi
 
 ---
 
-### Posture du Héros — *Virasana*
+### Posture du Héros — _Virasana_
 
 **Principaux repères :** genoux joints à l'intérieur du quadriceps, pieds plus larges que les hanches, dessus des pieds à plat, assis entre les talons, bloc ou couverture sous les hanches si nécessaire, colonne s'élève depuis un bassin neutre, mains sur les cuisses
 
@@ -38,7 +38,7 @@ Ce qui unit les postures assises est leur relation au bassin. Que les jambes soi
 
 ---
 
-### Posture du Bateau — *Navasana*
+### Posture du Bateau — _Navasana_
 
 **Principaux repères :** ischions ancrés, genoux fléchis ou jambes droites, tibias parallèles au sol, mains à côté des hanches ou bras tendus vers l'avant, colonne allongée, poitrine soulevée, centre fermement engagé, regard vers les pieds
 
@@ -46,7 +46,7 @@ Ce qui unit les postures assises est leur relation au bassin. Que les jambes soi
 
 ---
 
-### Posture du Lotus — *Padmasana*
+### Posture du Lotus — _Padmasana_
 
 **Principaux repères :** chaque pied sur la cuisse opposée plante vers le haut, cheville repose sur la cuisse sans pendre dans le vide, les deux genoux vers le sol, les hanches doivent être véritablement ouvertes, aucune pression dans les genoux, demi-lotus d'abord si nécessaire
 
@@ -54,7 +54,23 @@ Ce qui unit les postures assises est leur relation au bassin. Que les jambes soi
 
 ---
 
-### Posture du Héron — *Kraunchasana*
+### Sceau du yoga A — _Yoga Mudra A_
+
+**Principaux repères :** depuis la posture du lotus, entrelacer les mains derrière le dos, plier vers l'avant depuis les hanches, front vers le sol, ischions au sol, bras entrelacés se lèvent derrière, menton vers la poitrine à l'expir
+
+**Bienfaits :** ouverture profonde des épaules et de la poitrine, flexion avant depuis le lotus, mobilité des hanches et des genoux, allongement spinal, qualité dévotionnelle
+
+---
+
+### Sceau du yoga B — _Yoga Mudra B_
+
+**Principaux repères :** depuis la posture du lotus, enrouler les bras derrière le dos pour tenir les pieds du lotus (une main par pied), plier vers l'avant, sommet du crâne ou front vers le sol, épaules se tirent en arrière et vers le bas, respiration lente et régulière
+
+**Bienfaits :** souplesse des épaules, ouverture de la poitrine, ouverture des hanches en lotus, approfondissement de la flexion avant, attention vers l'intérieur
+
+---
+
+### Posture du Héron — _Kraunchasana_
 
 **Principaux repères :** Virasana maîtrisée d'abord, une jambe en Virasana, étendre l'autre jambe vers le haut, tenir le pied ou le tibia, colonne droite et poitrine ouverte, allonger à travers le talon, épaules vers l'arrière, respiration régulière, regard vers le pied tendu
 
