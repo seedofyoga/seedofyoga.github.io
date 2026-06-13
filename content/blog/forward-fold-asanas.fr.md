@@ -30,7 +30,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Posture de l'orteil — _Padangusthasana_
+### Posture de l'orteil A — _Padangusthasana A_
 
 **Principaux repères :** pieds à largeur de hanches, se plier vers l'avant, index et majeur accrochent les gros orteils, coudes s'écartent en approfondissant, sommet du crâne vers le sol, poids équilibré dans les pieds, adoucir l'arrière des genoux si tendu
 
@@ -94,7 +94,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Tête au genou — _Janu Sirsasana_
+### Tête au genou A — _Janu Sirsasana A_
 
 **Principaux repères :** assis, une jambe allongée, l'autre pied à la face interne de la cuisse, inspirer pour allonger la colonne, se plier sur la jambe allongée, mains au pied ou sangle, ventre mène plutôt que le front, les deux ischions ancrés
 
@@ -118,7 +118,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Pince — _Paschimottanasana_
+### Flexion avant assise A — _Paschimottanasana A_
 
 **Principaux repères :** les deux jambes allongées, pieds en flexion, inspirer la colonne longue, se plier vers l'avant depuis les hanches, mains aux pieds ou sangle, coudes s'écartent, ventre vers les cuisses avant le front, ischions ancrés, souffle continu
 
@@ -150,7 +150,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Posture du Sage Marichi I — _Marichyasana I_
+### Posture du Sage Marichi A — _Marichyasana A_
 
 **Principaux repères :** assis, une jambe allongée, l'autre genou fléchi avec le pied à plat près de la hanche, se plier sur la jambe allongée, le bras enveloppe l'extérieur du genou fléchi, main saisit dans le dos ou à la cheville, colonne longue avant de plier
 
@@ -158,7 +158,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Marichyasana II — _Marichyasana II_
+### Posture du Sage Marichi B — _Marichyasana B_
 
 **Principaux repères :** une jambe en demi-lotus, l'autre genou fléchi avec le pied à plat près de la hanche, bras côté demi-lotus s'enroule autour de la cuisse, autre bras derrière le dos, mains s'agrippent, se plier vers l'avant avec la colonne longue, les deux ischions ancrés, presser doucement le genou en demi-lotus vers le bas
 
@@ -182,7 +182,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Flexion avant debout jambes écartées — _Prasarita Padottanasana_
+### Flexion avant debout jambes écartées A — _Prasarita Padottanasana A_
 
 **Principaux repères :** stance large, pieds parallèles, se plier depuis les hanches avec la colonne longue, mains au sol entre ou à l'extérieur des pieds, sommet du crâne vers ou touchant le sol, poids légèrement vers l'avant, faces internes des cuisses se rétractent
 
@@ -214,7 +214,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Flexion avant assise en angle large — _Upavistha Konasana_
+### Flexion avant assise en angle large A — _Upavistha Konasana A_
 
 **Principaux repères :** assis, jambes très écartées, ischions ancrés, inspirer la colonne haute, se plier vers l'avant depuis les hanches, mains avancent sur le sol, ventre vers le sol, pieds en flexion, faces internes des cuisses vers le tapis
 

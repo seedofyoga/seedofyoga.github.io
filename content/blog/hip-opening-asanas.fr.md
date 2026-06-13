@@ -14,7 +14,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture de l'Angle Lié — _Baddha Konasana_
+### Posture de l'Angle Lié (Papillon) A — _Baddha Konasana A_
 
 **Principaux repères :** assis, plantes des pieds jointes, genoux qui s'ouvrent vers l'extérieur, talons ramenés vers le bassin, colonne vertébrale allongée, mains autour des pieds ou sur les cuisses intérieures, respiration dans l'aine
 
@@ -22,7 +22,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture de l'angle lié B — _Baddha Konasana B_
+### Posture de l'angle lié (Papillon) B — _Baddha Konasana B_
 
 **Principaux repères :** depuis Baddha Konasana A (en hauteur), plier vers l'avant depuis les hanches, ventre en tête, front vers les pieds ou le sol, coudes appuient doucement les genoux vers le sol, pieds rapprochés des hanches, colonne longue avant d'arrondir
 

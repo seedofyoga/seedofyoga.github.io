@@ -112,7 +112,7 @@ Les inversions ont une dimension physiologique qui va au-delà du musculaire. Me
 
 ---
 
-### Posture de la Pression des Épaules — _Bhujapidasana_
+### Posture de la Pression des Épaules — _Bhujapidasana A_
 
 **Principaux repères :** bras passent entre les jambes, mains à l'extérieur des pieds, s'accroupir sur la partie haute des bras, pieds décollent et croisent aux chevilles, se pencher en avant, corps s'abaisse, coudes légèrement fléchis, regard vers l'avant, abdominaux contrôlent la descente
 
@@ -144,7 +144,7 @@ Les inversions ont une dimension physiologique qui va au-delà du musculaire. Me
 
 ---
 
-### Eka Pada Koundinyasana I — _Eka Pada Koundinyasana I_
+### Envol du Sage Koundinya — _Eka Pada Koundinyasana I_
 
 **Principaux repères :** depuis une fente basse en torsion ou Chaturanga, une jambe s'étend vers l'arrière, l'autre jambe repose sur le bras du même côté, bras restent proches fléchis, torse bas et parallèle au sol, hanches en torsion, regard vers l'avant
 
@@ -152,7 +152,7 @@ Les inversions ont une dimension physiologique qui va au-delà du musculaire. Me
 
 ---
 
-### Eka Pada Koundinyasana II — _Eka Pada Koundinyasana II_
+### Posture du sage Koundinya sur une Jambe — _Eka Pada Koundinyasana II_
 
 **Principaux repères :** jambe avant s'étend sur le côté sur un bras, jambe arrière s'étend vers l'arrière, bras fléchis à environ 90°, torse parallèle au sol, hanches ouvertes latéralement, regard vers l'avant, les deux jambes actives
 
@@ -194,7 +194,7 @@ Les inversions ont une dimension physiologique qui va au-delà du musculaire. Me
 
 ---
 
-### Poirier Soutenu sur la Tête — _Salamba Sirsasana_
+### Poirier Soutenu sur la Tête — _Sirsasana A_
 
 **Principaux repères :** avant-bras au sol, mains entrelacées, sommet de la tête au sol dans le creux des mains, avant-bras portent le poids principal, hanches s'élèvent au-dessus des épaules, jambes s'étendent vers le haut ensemble, abdominaux engagés, souffle régulier, regard doucement vers le bas
 

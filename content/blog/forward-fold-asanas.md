@@ -14,7 +14,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Standing Forward Bend — _Uttanasana_
+### Standing Forward Fold — _Uttanasana_
 
 **Main cues:** feet hip-width or together, fold from hips not waist, spine long on inhale before folding, hands to floor or shins, crown of head heavy, weight slightly forward in feet, knees soft if needed
 
@@ -22,7 +22,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Standing Half Forward Bend — _Ardha Uttanasana_
+### Standing Half Forward Fold — _Ardha Uttanasana_
 
 **Main cues:** from Uttanasana, hands to shins or a block, lift torso parallel to floor, spine extends fully, chest broad, gaze at floor just ahead, legs firm, neck long
 
@@ -30,7 +30,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Big Toe Pose — _Padangusthasana_
+### Big Toe Pose A — _Padangusthasana A_
 
 **Main cues:** feet hip-width, fold forward, index and middle fingers hook big toes, elbows widen as fold deepens, crown toward floor, weight even through feet, soften back of knees if tight
 
@@ -94,7 +94,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Head-to-Knee Pose — _Janu Sirsasana_
+### Head-to-Knee Pose A — _Janu Sirsasana A_
 
 **Main cues:** seated, one leg extended, other foot to inner thigh, inhale to lengthen spine, fold over extended leg, hands to foot or strap, belly leads not forehead, both sit bones grounded
 
@@ -118,7 +118,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Seated Forward Bend — _Paschimottanasana_
+### Seated Forward Fold A — _Paschimottanasana A_
 
 **Main cues:** both legs extended, flex feet, inhale spine long, fold forward from hips, hands to feet or strap, elbows widen, belly toward thighs before forehead, sit bones grounded, breath continuous
 
@@ -126,7 +126,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Seated Forward Bend B — _Paschimottanasana B_
+### Seated Forward Fold B — _Paschimottanasana B_
 
 **Main cues:** both legs extended, flex feet, hands grip outer edges of feet or soles, elbows widen, fold deeper from hips, belly toward thighs, spine long before rounding, breath continuous
 
@@ -134,7 +134,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Seated Forward Bend C — _Paschimottanasana C_
+### Seated Forward Fold C — _Paschimottanasana C_
 
 **Main cues:** seated, legs extended, one hand clasps opposite wrist around the feet, elbows frame feet, fold from hips using bound arms as anchor, belly leads, breath continuous
 
@@ -142,7 +142,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Seated Forward Bend D — _Paschimottanasana D_
+### Seated Forward Fold D — _Paschimottanasana D_
 
 **Main cues:** seated, legs extended, reach fully around feet with both hands or prayer position behind feet, fold with maximum spinal length first, belly toward thighs, chin eventually toward shins, breath continuous
 
@@ -150,7 +150,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Sage Marichi's Pose I — _Marichyasana I_
+### Sage Marichi's Pose A — _Marichyasana A_
 
 **Main cues:** seated, one leg extended, other knee bent with foot flat near hip, fold over extended leg, arm wraps around outside of bent knee, hand clasps behind back or at ankle, spine long before folding
 
@@ -158,7 +158,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Marichyasana II — _Marichyasana II_
+### Sage Marichi's Pose B — _Marichyasana B_
 
 **Main cues:** one leg in half-lotus, other knee bent with foot flat near hip, half-lotus arm wraps around lotus thigh, other arm behind back, hands clasp, fold forward with spine long, both sit bones grounded, press half-lotus knee gently down
 
@@ -182,7 +182,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Wide-Legged Standing Forward Bend — _Prasarita Padottanasana_
+### Wide-Legged Forward Fold A — _Prasarita Padottanasana A_
 
 **Main cues:** wide stance, feet parallel, fold from hips with spine long, hands to floor between or outside feet, crown toward or touching floor, weight slightly forward, inner thighs draw back
 
@@ -214,7 +214,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Wide-Angled Seated Forward Bend — _Upavistha Konasana_
+### Wide-Angled Seated Forward Fold A — _Upavistha Konasana A_
 
 **Main cues:** seated, legs wide apart, sit bones grounded, inhale spine tall, fold forward from hips, hands walk forward, belly toward floor, feet flexed, inner thighs toward mat
 
@@ -222,7 +222,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Wide-Angled Seated Forward Bend B — _Upavistha Konasana B_
+### Wide-Angled Seated Forward Fold B — _Upavistha Konasana B_
 
 **Main cues:** from Upavistha Konasana A, roll back onto tailbone, grab outer edges of feet or big toes, lift legs skyward as body forms a V, chest lifts, sit bones float, gaze between feet
 

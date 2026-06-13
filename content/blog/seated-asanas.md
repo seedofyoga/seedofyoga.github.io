@@ -30,6 +30,14 @@ What unites seated poses is their relationship to the pelvis. Whether the legs a
 
 ---
 
+### Thunderbolt Pose — _Vajrasana_
+
+**Main cues:** kneel and sit back on heels, tops of feet flat on mat, knees together, spine upright, hands resting on thighs, eyes closed or soft downward gaze, breath steady — place a folded blanket between calves and thighs if there is pressure in the knees or ankles
+
+**Benefits:** digestive support, grounding, ankle and knee mobility over time, stable base for pranayama or meditation, calming of nervous system activity
+
+---
+
 ### Hero Pose — _Virasana_
 
 **Main cues:** knees together at the top, shins and feet wider than hips, tops of feet flat, sit between the heels, block or blanket under hips if needed, spine lifts from neutral pelvis, hands on thighs

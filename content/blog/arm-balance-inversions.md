@@ -112,7 +112,7 @@ There is a physiological dimension to inversions that goes beyond the muscular. 
 
 ---
 
-### Shoulder-Pressing Pose — _Bhujapidasana_
+### Shoulder-Pressing Pose A — _Bhujapidasana A_
 
 **Main cues:** arms thread between legs, hands outside feet, squat onto upper arms, feet lift and cross at ankles, lean forward, body lowers, elbows soft bend, gaze forward, core controls descent
 
@@ -144,7 +144,7 @@ There is a physiological dimension to inversions that goes beyond the muscular. 
 
 ---
 
-### Eka Pada Koundinyasana I — _Eka Pada Koundinyasana I_
+### Twisted Arm Balance — _Eka Pada Koundinyasana I_
 
 **Main cues:** from twisted low lunge or Chaturanga, one leg extends back, other leg rests on upper arm (same side), arms remain close to bent, torso low and parallel to floor, hips twist, gaze forward
 
@@ -152,7 +152,7 @@ There is a physiological dimension to inversions that goes beyond the muscular. 
 
 ---
 
-### Eka Pada Koundinyasana II — _Eka Pada Koundinyasana II_
+### Flying Splits — _Eka Pada Koundinyasana II_
 
 **Main cues:** front leg extends to side over one arm, back leg extends to the rear, arms bent near 90°, torso parallel to floor, hips open sideways, gaze forward, both legs active
 
@@ -194,7 +194,7 @@ There is a physiological dimension to inversions that goes beyond the muscular. 
 
 ---
 
-### Supported Headstand — _Salamba Sirsasana_
+### Supported Headstand — _Sirsasana A_
 
 **Main cues:** forearms on floor, hands interlace, head crown on floor in cup of hands, forearms bear primary weight, hips lift over shoulders, legs extend upward together, core engaged, breath steady, gaze softly downward
 

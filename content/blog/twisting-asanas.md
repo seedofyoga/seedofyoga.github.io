@@ -78,7 +78,7 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Marichyasana III — _Marichyasana III_
+### Sage Marichi's Pose C — _Marichyasana C_
 
 **Main cues:** seated, one leg extended, other knee bent with foot flat near hip, inhale lengthen, exhale rotate toward bent knee, opposite outer arm hooks outside raised knee for leverage, back hand on floor behind sacrum, chest lifts, gaze over back shoulder
 

@@ -22,14 +22,6 @@ What these postures share is an orientation toward softening. The floor carries 
 
 ---
 
-### Thunderbolt Pose — _Vajrasana_
-
-**Main cues:** kneel and sit back on heels, tops of feet flat on mat, knees together, spine upright, hands resting on thighs, eyes closed or soft downward gaze, breath steady — place a folded blanket between calves and thighs if there is pressure in the knees or ankles
-
-**Benefits:** digestive support, grounding, ankle and knee mobility over time, stable base for pranayama or meditation, calming of nervous system activity
-
----
-
 ### Child's Pose — _Balasana_
 
 **Main cues:** knees wide or together, big toes touching, hips sink toward heels, arms extended or alongside body, forehead rests on mat, belly drops between thighs, breath into back body

@@ -14,7 +14,7 @@ The nervous system responds strongly to hip work. Deep stretches in the groin an
 
 ---
 
-### Bound Angle Pose (Butterfly) — _Baddha Konasana_
+### Bound Angle Pose (Butterfly) A — _Baddha Konasana A_
 
 **Main cues:** seated, soles of feet together, knees drop outward, heels drawn toward pelvis, spine tall, hands around feet or on inner thighs, breath into the groin
 
@@ -22,7 +22,7 @@ The nervous system responds strongly to hip work. Deep stretches in the groin an
 
 ---
 
-### Bound Angle Pose B — _Baddha Konasana B_
+### Bound Angle Pose (Butterfly) B — _Baddha Konasana B_
 
 **Main cues:** from Baddha Konasana A (upright), fold forward from hips leading with belly, forehead moves toward feet or floor, elbows press knees gently toward floor, feet draw close to hips, spine long before rounding
 

@@ -70,7 +70,7 @@ La logique physique des torsions est simple. La rotation mobilise la colonne tho
 
 ---
 
-### Marichyasana III — _Marichyasana III_
+### Posture du sage Marichi C — _Marichyasana C_
 
 **Principaux repères :** assis, une jambe étendue, l'autre genou fléchi avec le pied à plat près de la hanche, inspirer pour s'allonger, expirer pour pivoter vers le genou fléchi, bras extérieur du côté opposé accroché à l'extérieur du genou levé comme levier, main arrière au sol derrière le sacrum, poitrine soulevée, regard par-dessus l'épaule arrière
 
