@@ -38,6 +38,14 @@ What unites seated poses is their relationship to the pelvis. Whether the legs a
 
 ---
 
+### Toe Squat
+
+**Main cues:** from kneeling, tuck all ten toes under, sit hips back toward the heels, spine long, hands rest on the thighs, ease out if the knees protest, breath steady — place a cushion behind the knees if there is strain
+
+**Benefits:** plantar fascia and toe stretch, foot flexibility, ankle mobility, stimulation of the soles of the feet, grounding
+
+---
+
 ### Hero Pose — _Virasana_
 
 **Main cues:** knees together at the top, shins and feet wider than hips, tops of feet flat, sit between the heels, block or blanket under hips if needed, spine lifts from neutral pelvis, hands on thighs

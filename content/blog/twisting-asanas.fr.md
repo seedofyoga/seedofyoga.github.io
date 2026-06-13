@@ -70,6 +70,14 @@ La logique physique des torsions est simple. La rotation mobilise la colonne tho
 
 ---
 
+### Posture de l'Aiguille — _Parsva Balasana_
+
+**Principaux repères :** depuis la position à quatre pattes, glisser un bras sous le corps et à travers l'espace, paume vers le haut, descendre cette épaule et le côté de la tête au sol, le bras du dessus s'étend vers l'avant ou s'enroule derrière, hanches au-dessus des genoux, rotation douce dans le haut du dos, regard qui s'adoucit
+
+**Bienfaits :** relâchement du haut du dos et des épaules, rotation thoracique douce, étirement du cou, ouverture entre les omoplates, apaisement
+
+---
+
 ### Posture du sage Marichi C — _Marichyasana C_
 
 **Principaux repères :** assis, une jambe étendue, l'autre genou fléchi avec le pied à plat près de la hanche, inspirer pour s'allonger, expirer pour pivoter vers le genou fléchi, bras extérieur du côté opposé accroché à l'extérieur du genou levé comme levier, main arrière au sol derrière le sacrum, poitrine soulevée, regard par-dessus l'épaule arrière

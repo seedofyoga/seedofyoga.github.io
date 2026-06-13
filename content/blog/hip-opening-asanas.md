@@ -62,6 +62,14 @@ The nervous system responds strongly to hip work. Deep stretches in the groin an
 
 ---
 
+### Frog Pose — _Mandukasana_
+
+**Main cues:** from all fours, knees wide apart, inner edges of shins and feet on the floor, feet in line with knees, hips draw back toward heels, lower onto forearms, spine neutral, breath into the inner groin
+
+**Benefits:** deep inner thigh and groin opening, hip adductor release, sacral decompression, fascial release in the pelvis, surrender
+
+---
+
 ### Pigeon Pose — _Eka Pada Rajakapotasana_
 
 **Main cues:** front shin across mat, back leg long and neutral, front hip supported if needed, hips level toward floor, spine long before folding, hands frame front shin, stay or fold forward

@@ -22,6 +22,14 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ---
 
+### Posture du phoque
+
+**Principaux repères :** allongé sur le ventre, mains posées devant et un peu plus larges que les épaules, tendre les bras pour soulever la poitrine, jambes détendues et écartées, os pubien lourd au sol, épaules éloignées des oreilles, regard vers l'avant, relâcher tout ce qui se trouve sous le nombril
+
+**Bienfaits :** compression profonde du bas de la colonne, ouverture complète de la face avant du corps, étirement abdominal, flexion arrière passive, progression plus profonde du sphinx
+
+---
+
 ### Posture du cobra — _Bhujangasana_
 
 **Principaux repères :** mains à côté des côtes inférieures, coudes fléchis, appuyer dans les paumes pour se lever, épaules en arrière et vers le bas, coudes légèrement fléchis possibles, os pubien au sol, jambes serrées et actives, regard vers l'avant

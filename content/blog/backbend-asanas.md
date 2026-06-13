@@ -22,6 +22,14 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
+### Seal Pose
+
+**Main cues:** lie prone, plant hands in front of and slightly wider than the shoulders, straighten the arms to lift the chest, legs relaxed and apart, pubic bone heavy on the floor, shoulders away from ears, gaze forward, soften everything below the navel
+
+**Benefits:** deep lower-spine compression, full front-body opening, abdominal stretch, passive backbend, deeper progression from Sphinx
+
+---
+
 ### Cobra Pose — _Bhujangasana_
 
 **Main cues:** hands beside lower ribs, elbows bent, press through palms to rise, shoulders back and down, elbows may stay slightly bent, pubic bone to floor, legs together and active, gaze forward

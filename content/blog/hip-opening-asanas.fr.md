@@ -62,6 +62,14 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
+### Posture de la Grenouille — _Mandukasana_
+
+**Principaux repères :** depuis la position à quatre pattes, genoux largement écartés, bords internes des tibias et des pieds au sol, pieds dans l'alignement des genoux, hanches qui reculent vers les talons, descendre sur les avant-bras, colonne neutre, respiration dans l'aine intérieure
+
+**Bienfaits :** ouverture profonde de l'intérieur des cuisses et de l'aine, relâchement des adducteurs de la hanche, décompression du sacrum, libération fasciale du bassin, lâcher-prise
+
+---
+
 ### Posture du Pigeon — _Eka Pada Rajakapotasana_
 
 **Principaux repères :** tibia avant en travers du tapis, jambe arrière longue et neutre, hanche avant soutenue si nécessaire, hanches horizontales vers le sol, colonne longue avant la flexion, mains encadrent le tibia avant, rester droit ou se pencher vers l'avant

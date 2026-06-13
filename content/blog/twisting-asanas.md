@@ -78,6 +78,14 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
+### Thread the Needle — _Parsva Balasana_
+
+**Main cues:** from all fours, slide one arm underneath the body and through the gap, palm up, lower that shoulder and the side of the head to the mat, top arm extends forward or wraps behind, hips stay over the knees, gentle rotation through the upper back, gaze softens
+
+**Benefits:** upper-back and shoulder release, gentle thoracic rotation, neck stretch, opening between the shoulder blades, quieting
+
+---
+
 ### Sage Marichi's Pose C — _Marichyasana C_
 
 **Main cues:** seated, one leg extended, other knee bent with foot flat near hip, inhale lengthen, exhale rotate toward bent knee, opposite outer arm hooks outside raised knee for leverage, back hand on floor behind sacrum, chest lifts, gaze over back shoulder

@@ -70,6 +70,14 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
+### Posture de la Banane — _Bananasana_
+
+**Principaux repères :** allongé sur le dos, garder les hanches centrées et ancrées, déplacer les deux pieds et le haut du corps d'un côté en croissant, croiser les chevilles, étendre les bras au-dessus de la tête et saisir les poignets, les deux fesses restent au sol, respirer dans le côté étiré
+
+**Bienfaits :** étirement latéral du flanc et des obliques, ouverture des intercostaux et de la bandelette ilio-tibiale, espace entre les côtes, relâchement de la taille, expansion du souffle
+
+---
+
 ### Jambes au mur — _Viparita Karani_
 
 **Principaux repères :** s'asseoir de côté contre un mur, balancer les jambes vers le haut en abaissant le dos vers le sol, jambes droites ou souples, hanches proches du mur ou sur une couverture/bolster plié, bras sur les côtés ou sur le ventre, yeux fermés, poids total des jambes abandonné au mur

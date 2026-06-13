@@ -30,6 +30,14 @@ Ce qui unit les postures assises est leur relation au bassin. Que les jambes soi
 
 ---
 
+### Posture Accroupie sur les Orteils
+
+**Principaux repères :** depuis la position à genoux, rentrer les dix orteils sous les pieds, reculer les hanches vers les talons, colonne allongée, mains posées sur les cuisses, ressortir si les genoux protestent, respiration régulière — placer un coussin derrière les genoux en cas de tension
+
+**Bienfaits :** étirement du fascia plantaire et des orteils, souplesse des pieds, mobilité des chevilles, stimulation de la plante des pieds, ancrage
+
+---
+
 ### Posture du Héros — _Virasana_
 
 **Principaux repères :** genoux joints à l'intérieur du quadriceps, pieds plus larges que les hanches, dessus des pieds à plat, assis entre les talons, bloc ou couverture sous les hanches si nécessaire, colonne s'élève depuis un bassin neutre, mains sur les cuisses

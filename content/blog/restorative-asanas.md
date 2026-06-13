@@ -78,6 +78,14 @@ What these postures share is an orientation toward softening. The floor carries 
 
 ---
 
+### Banana Pose — _Bananasana_
+
+**Main cues:** lie supine, keep hips centered and grounded, walk both feet and the upper body to one side into a crescent, cross the ankles, reach arms overhead and clasp the wrists, both buttocks stay down, breathe into the stretched side
+
+**Benefits:** lateral side-body and oblique stretch, intercostal and IT band opening, space between the ribs, waistline release, breath expansion
+
+---
+
 ### Legs Up the Wall — _Viparita Karani_
 
 **Main cues:** sit side-on to wall, swing legs up as you lower back to floor, legs straight or soft, hips close to wall or on folded blanket/bolster, arms at sides or on belly, eyes closed, total weight of legs surrendered to wall
