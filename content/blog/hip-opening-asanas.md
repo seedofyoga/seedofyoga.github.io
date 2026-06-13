@@ -62,6 +62,14 @@ The nervous system responds strongly to hip work. Deep stretches in the groin an
 
 ---
 
+### Deer Pose — *Mrigiasana*
+
+**Main cues:** seated, front leg bent at roughly 90 degrees with shin angled across mat, back leg bent to the side behind hip, both sitting bones toward floor or front hip supported, spine long, hands on floor for support, option to fold forward over front leg or stay upright, switch sides
+
+**Benefits:** simultaneous external and internal hip rotation, deep outer hip and glute release, sacroiliac joint mobility, accessible alternative to Pigeon, hip asymmetry awareness
+
+---
+
 ### One-Legged King Pigeon Pose II — *Eka Pada Raja Kapotasana II*
 
 **Main cues:** kneeling, back knee on floor, bend back leg and reach same-side hand to foot from behind, front leg extends forward, hips square, chest lifts, combine hip flexor stretch with backbend

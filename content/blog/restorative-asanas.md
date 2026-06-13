@@ -22,6 +22,14 @@ What these postures share is an orientation toward softening. The floor carries 
 
 ---
 
+### Thunderbolt Pose — *Vajrasana*
+
+**Main cues:** kneel and sit back on heels, tops of feet flat on mat, knees together, spine upright, hands resting on thighs, eyes closed or soft downward gaze, breath steady — place a folded blanket between calves and thighs if there is pressure in the knees or ankles
+
+**Benefits:** digestive support, grounding, ankle and knee mobility over time, stable base for pranayama or meditation, calming of nervous system activity
+
+---
+
 ### Child's Pose — *Balasana*
 
 **Main cues:** knees wide or together, big toes touching, hips sink toward heels, arms extended or alongside body, forehead rests on mat, belly drops between thighs, breath into back body
@@ -35,6 +43,14 @@ What these postures share is an orientation toward softening. The floor carries 
 **Main cues:** hips over knees, arms extended forward, chest drops toward mat, forehead or chin to floor, hips stay high, arms press lightly down, slight traction through spine
 
 **Benefits:** thoracic spine opening, shoulder stretch, chest opening, hip flexor lengthening, quiet centering
+
+---
+
+### Crocodile Pose — *Makarasana*
+
+**Main cues:** lie face down, forearms flat on mat with elbows under or slightly forward of shoulders, chest lifts gently, legs hip-width apart and relaxed, belly drops toward floor, breath moves into back body — for deeper rest, lower forehead to stacked forearms and allow full surrender
+
+**Benefits:** lower back decompression, activation of diaphragmatic breathing, gentle spinal extension, nervous system calming, shoulder and chest release
 
 ---
 

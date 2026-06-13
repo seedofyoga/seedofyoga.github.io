@@ -14,6 +14,14 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
+### Revolved Easy Pose — *Parivrtta Sukhasana*
+
+**Main cues:** seated cross-legged, inhale to lengthen the spine from the crown, exhale to rotate the torso, one hand rests on the outer opposite knee, other hand on the floor behind the sacrum, shoulders level, chin aligned with the sternum, gaze over the back shoulder — switch the crossing of the legs and repeat both sides
+
+**Benefits:** accessible entry to spinal rotation, gentle thoracic mobility, lower back release, grounding introduction to the twist sequence, suitable for all levels
+
+---
+
 ### Bharadvaja's Twist — *Bharadvajasana*
 
 **Main cues:** seated on heels or cross-legged, inhale to lengthen spine, exhale to rotate torso, one hand to outer knee, other hand on floor behind, shoulders level, chin in line with sternum, gaze over back shoulder
