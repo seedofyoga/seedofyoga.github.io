@@ -218,7 +218,7 @@ There is a physiological dimension to inversions that goes beyond the muscular. 
 
 ---
 
-### Ear Pressure Pose — _Karnapidasana_
+### Ear Pressure Pose (Yin: Snail) — _Karnapidasana_
 
 **Main cues:** from Plow Pose, bend knees to touch floor beside ears, hands support mid-back or extend on floor palms down, knees press against ears, weight on shoulders not neck, chin toward chest, spine rounded
 

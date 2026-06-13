@@ -46,7 +46,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture du Visage de Vache — _Gomukhasana_
+### Posture du Visage de Vache (Yin : Lacet) — _Gomukhasana_
 
 **Principaux repères :** assis, genoux empilés l'un sur l'autre, pieds à côté des hanches, ischions ancrés uniformément, colonne longue, liaison des bras dans le dos en option, respiration stable dans la compression
 
@@ -70,7 +70,7 @@ Le système nerveux répond fortement au travail sur les hanches. Les étirement
 
 ---
 
-### Posture du Pigeon — _Eka Pada Rajakapotasana_
+### Posture du Pigeon (Yin : Cygne endormi) — _Eka Pada Rajakapotasana_
 
 **Principaux repères :** tibia avant en travers du tapis, jambe arrière longue et neutre, hanche avant soutenue si nécessaire, hanches horizontales vers le sol, colonne longue avant la flexion, mains encadrent le tibia avant, rester droit ou se pencher vers l'avant
 

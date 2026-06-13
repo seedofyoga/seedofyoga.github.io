@@ -30,7 +30,7 @@ What these postures share is an orientation toward softening. The floor carries 
 
 ---
 
-### Extended Puppy Pose — _Uttana Shishosana_
+### Extended Puppy Pose (Yin: Melting Heart / Anahatasana) — _Uttana Shishosana_
 
 **Main cues:** hips over knees, arms extended forward, chest drops toward mat, forehead or chin to floor, hips stay high, arms press lightly down, slight traction through spine
 
@@ -54,7 +54,7 @@ What these postures share is an orientation toward softening. The floor carries 
 
 ---
 
-### Reclined Hero Pose — _Supta Virasana_
+### Reclined Hero Pose (Yin: Saddle) — _Supta Virasana_
 
 **Main cues:** from Virasana, hands to floor behind you, slowly lower onto forearms then back, arms overhead or beside body, knees stay together, bolster under spine if needed — intermediate/advanced: practice seated Virasana first
 

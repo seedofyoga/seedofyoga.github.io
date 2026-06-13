@@ -14,7 +14,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Standing Forward Fold — _Uttanasana_
+### Standing Forward Fold (Yin: Dangling) — _Uttanasana_
 
 **Main cues:** feet hip-width or together, fold from hips not waist, spine long on inhale before folding, hands to floor or shins, crown of head heavy, weight slightly forward in feet, knees soft if needed
 
@@ -214,7 +214,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Wide-Angled Seated Forward Fold A — _Upavistha Konasana A_
+### Wide-Angled Seated Forward Fold A (Yin: Dragonfly) — _Upavistha Konasana A_
 
 **Main cues:** seated, legs wide apart, sit bones grounded, inhale spine tall, fold forward from hips, hands walk forward, belly toward floor, feet flexed, inner thighs toward mat
 

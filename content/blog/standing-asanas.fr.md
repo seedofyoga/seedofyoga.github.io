@@ -96,7 +96,7 @@ Ce qui unit les postures debout, c'est leur rapport au sol. Chacune commence par
 
 ---
 
-### Fente basse — _Anjaneyasana_
+### Fente basse (Yin : Dragon) — _Anjaneyasana_
 
 **Principaux repères :** genou arrière posé au sol, genou avant au-dessus de la cheville, hanches qui s'abaissent vers l'avant, bras au-dessus de la tête ou en prière, colonne longue, poitrine ouverte, orteils arrière libres ou posés, regard vers l'avant
 

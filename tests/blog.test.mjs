@@ -1,6 +1,6 @@
 import { describe, it } from 'node:test';
 import assert from 'node:assert/strict';
-import { loadHtml } from './helpers.mjs';
+import { loadHtml, loadBlogListingHtml } from './helpers.mjs';
 
 describe('Blog list page', () => {
   const $ = loadHtml('blog/index.html');
@@ -11,7 +11,7 @@ describe('Blog list page', () => {
   });
 
   it('shows post "The Different Yoga Styles"', () => {
-    assert.ok($.html().includes('The Different Yoga Styles'));
+    assert.ok(loadBlogListingHtml().includes('The Different Yoga Styles'));
   });
 });
 

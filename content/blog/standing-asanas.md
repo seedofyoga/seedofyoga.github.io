@@ -96,7 +96,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ---
 
-### Low Lunge — _Anjaneyasana_
+### Low Lunge (Yin: Dragon) — _Anjaneyasana_
 
 **Main cues:** back knee lowers to floor, front knee over ankle, hips sink forward and down, arms overhead or at heart, spine long, chest open, back toes optional, gaze forward
 

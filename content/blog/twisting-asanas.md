@@ -70,7 +70,7 @@ The physical logic of twists is straightforward. Rotation mobilises the thoracic
 
 ---
 
-### Supine Spinal Twist — _Supta Matsyendrasana_
+### Supine Spinal Twist (Yin: Reclined Twist) — _Supta Matsyendrasana_
 
 **Main cues:** lying on back, draw one or both knees to chest, guide knees to one side, arms open wide, shoulders flat on floor, gaze opposite to knees, relax weight of legs down, breath long and even
 

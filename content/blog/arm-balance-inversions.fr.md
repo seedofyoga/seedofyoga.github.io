@@ -218,7 +218,7 @@ Les inversions ont une dimension physiologique qui va au-delà du musculaire. Me
 
 ---
 
-### Posture de la pression des oreilles — _Karnapidasana_
+### Posture de la pression des oreilles (Yin : Escargot) — _Karnapidasana_
 
 **Principaux repères :** depuis Halasana, plier les genoux pour toucher le sol près des oreilles, mains soutiennent le milieu du dos ou s'étendent au sol paumes vers le bas, genoux appuient contre les oreilles, poids sur les épaules et non le cou, menton vers la poitrine, colonne arrondie
 

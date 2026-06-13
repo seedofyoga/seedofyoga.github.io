@@ -14,7 +14,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Flexion avant debout — _Uttanasana_
+### Flexion avant debout (Yin : Suspension) — _Uttanasana_
 
 **Principaux repères :** pieds à largeur de hanches ou joints, plier depuis les hanches et non la taille, colonne longue à l'inspire avant de plier, mains au sol ou sur les tibias, sommet du crâne lourd, poids légèrement vers l'avant, genoux souples si besoin
 
@@ -214,7 +214,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Flexion avant assise en angle large A — _Upavistha Konasana A_
+### Flexion avant assise en angle large A (Yin : Libellule) — _Upavistha Konasana A_
 
 **Principaux repères :** assis, jambes très écartées, ischions ancrés, inspirer la colonne haute, se plier vers l'avant depuis les hanches, mains avancent sur le sol, ventre vers le sol, pieds en flexion, faces internes des cuisses vers le tapis
 

@@ -14,6 +14,16 @@ export function loadHtml(relativePath) {
   return load(html);
 }
 
+export function loadBlogListingHtml() {
+  let html = fs.readFileSync(path.join(PUBLIC_DIR, 'blog/index.html'), 'utf-8');
+  for (let page = 2; ; page++) {
+    const pagePath = path.join(PUBLIC_DIR, 'blog', 'page', String(page), 'index.html');
+    if (!fs.existsSync(pagePath)) break;
+    html += fs.readFileSync(pagePath, 'utf-8');
+  }
+  return html;
+}
+
 export function loadYaml(relativePath) {
   const raw = fs.readFileSync(path.join(DATA_DIR, relativePath), 'utf-8');
   return yaml.load(raw);

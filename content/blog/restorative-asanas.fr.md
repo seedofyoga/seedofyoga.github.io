@@ -30,7 +30,7 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
-### Posture du chiot allongé — _Uttana Shishosana_
+### Posture du chiot allongé (Yin : Cœur fondant / Anahatasana) — _Uttana Shishosana_
 
 **Principaux repères :** hanches au-dessus des genoux, bras étendus vers l'avant, poitrine qui descend vers le tapis, front ou menton au sol, hanches restent hautes, bras pressent légèrement vers le bas, légère traction dans la colonne
 
@@ -54,7 +54,7 @@ Ce que ces postures partagent, c'est une orientation vers l'adoucissement. Le so
 
 ---
 
-### Posture du héros couché — _Supta Virasana_
+### Posture du héros couché (Yin : Selle) — _Supta Virasana_
 
 **Principaux repères :** depuis Virasana, mains au sol derrière soi, descendre lentement sur les avant-bras puis sur le dos, bras au-dessus de la tête ou le long du corps, genoux restent joints, bolster sous la colonne si nécessaire — intermédiaire/avancé : pratiquer d'abord Virasana assis
 

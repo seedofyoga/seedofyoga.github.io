@@ -46,7 +46,7 @@ The nervous system responds strongly to hip work. Deep stretches in the groin an
 
 ---
 
-### Cow Face Pose — _Gomukhasana_
+### Cow Face Pose (Yin: Shoelace) — _Gomukhasana_
 
 **Main cues:** seated, knees stacked one on top of other, feet beside hips, sit bones grounded evenly, spine long, optional arm bind behind back, breath steady in the compression
 
@@ -70,7 +70,7 @@ The nervous system responds strongly to hip work. Deep stretches in the groin an
 
 ---
 
-### Pigeon Pose — _Eka Pada Rajakapotasana_
+### Pigeon Pose (Yin: Sleeping Swan) — _Eka Pada Rajakapotasana_
 
 **Main cues:** front shin across mat, back leg long and neutral, front hip supported if needed, hips level toward floor, spine long before folding, hands frame front shin, stay or fold forward
 

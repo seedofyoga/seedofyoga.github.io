@@ -70,7 +70,7 @@ La logique physique des torsions est simple. La rotation mobilise la colonne tho
 
 ---
 
-### Torsion vertébrale couchée — _Supta Matsyendrasana_
+### Torsion vertébrale couchée (Yin : Torsion allongée) — _Supta Matsyendrasana_
 
 **Principaux repères :** allongé sur le dos, ramener un ou les deux genoux à la poitrine, guider les genoux d'un côté, bras ouverts sur les côtés, épaules à plat au sol, regard à l'opposé des genoux, laisser le poids des jambes descendre, respiration longue et régulière
 
