@@ -25,6 +25,7 @@ Deployed to GitHub Pages via GitHub Actions.
 | `content/blog/`                | Markdown blog posts with frontmatter                                                                   |
 | `static/images/`               | Logo and static assets                                                                                 |
 | `brand_assets/`                | Source brand files (logo.png)                                                                          |
+| `image-prompt/`                | AI image-generation prompts for blog illustrations (one md file per article)                           |
 | `hugo.toml`                    | Site config, nav menu, params                                                                          |
 | `.github/workflows/`           | CI (`ci.yml`) and deploy (`deploy.yml`) workflows                                                      |
 
@@ -70,6 +71,7 @@ npm test                            # Full test suite (builds Hugo first)
 - **Change schedule/pricing/contact**: edit the corresponding `data/*.yaml` file
 - **Modify colors or typography**: edit `layouts/partials/head.html`
 - **Invoke the `frontend-design` skill** before writing any frontend code
+- **Generate blog illustration prompts**: add a file in `image-prompt/` named after the article (e.g. `backbend-asanas.md`) — keep a shared style block at the top, then one prompt per pose for consistent minimalist black-and-white line drawings
 
 ## Screenshot Workflow
 

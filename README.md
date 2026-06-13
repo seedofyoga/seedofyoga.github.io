@@ -96,6 +96,7 @@ seedofyoga/
 │   ├── blog/              # Blog list + single templates
 │   └── _default/          # Base template
 ├── static/images/         # Logo and static assets
+├── image-prompt/          # AI image-generation prompts for blog illustrations
 └── .github/workflows/     # GitHub Pages deployment
 ```
 
@@ -127,6 +128,14 @@ Edit the corresponding file in `data/`:
 - **Contact details and social links** — `data/contact.yaml`
 
 Changes take effect on the next build or live-reload in dev mode.
+
+### Generating blog illustrations
+
+The `image-prompt/` folder holds ready-to-paste prompts for generating pose
+illustrations with an AI image tool. Each file corresponds to a blog article
+(e.g. `image-prompt/backbend-asanas.md`) and contains a shared style block plus
+one prompt per pose, producing consistent minimalist black-and-white line
+drawings on a plain white background.
 
 ## Deployment
 
