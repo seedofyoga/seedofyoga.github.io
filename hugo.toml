@@ -1,6 +1,6 @@
 baseURL = "https://seedofyoga.com/"
 title = "Seed of Yoga"
-languageCode = "en"
+locale = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
@@ -16,7 +16,7 @@ defaultContentLanguageInSubdir = false
 
 [languages]
   [languages.en]
-    languageName = "EN"
+    label = "EN"
     weight = 1
     [languages.en.params]
       description = "Yoga classes in Narbonne, Gruissan, Narbonne-Plage, St-Pierre-la-mer, Fleury"
@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
       weight = 6
 
   [languages.fr]
-    languageName = "FR"
+    label = "FR"
     weight = 2
     [languages.fr.params]
       description = "Cours de yoga sur Narbonne, Gruissan, Narbonne-Plage, St-Pierre-la-mer, Fleury"

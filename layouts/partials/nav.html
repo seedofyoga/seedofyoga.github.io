@@ -21,7 +21,7 @@
       <li class="flex items-center gap-1 text-sm font-semibold tracking-wide uppercase">
         {{ range hugo.Sites }}
           {{ $lang := .Language.Lang }}
-          {{ $langName := .Language.LanguageName }}
+          {{ $langName := .Language.Label }}
           {{ $translationURL := "" }}
           {{ if eq $lang $.Site.Language.Lang }}
             {{ $translationURL = $.RelPermalink }}
@@ -73,7 +73,7 @@
       <li class="flex items-center gap-2 py-3 px-3 text-base font-semibold">
         {{ range hugo.Sites }}
           {{ $lang := .Language.Lang }}
-          {{ $langName := .Language.LanguageName }}
+          {{ $langName := .Language.Label }}
           {{ $translationURL := "" }}
           {{ if eq $lang $.Site.Language.Lang }}
             {{ $translationURL = $.RelPermalink }}

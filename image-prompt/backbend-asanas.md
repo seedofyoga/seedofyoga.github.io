@@ -13,6 +13,10 @@ so the set stays visually consistent (matches `front-sitting.png`):
 > indicated by a single thin horizontal line, calm and clean, no text, no color,
 > centered composition.
 
+To turn an image into an illutration:
+
+Turn this image to a minimalist black-and-white line illustration, on a plain white background, clean thin black outlines, subtle light shading), side profile view. Calm and clean, no text, no color, centered composition.
+
 Each prompt is ready to paste as-is.
 
 ---
