@@ -6,11 +6,9 @@ image: '/images/blog/forward-fold-asanas.jpg'
 tags: ['asanas', 'postures de yoga', 'flexion avant']
 ---
 
-Les flexions avant demandent quelque chose de différent au corps. Là où les extensions s'ouvrent vers l'extérieur — poitrine déployée, regard levé — les flexions avant tournent l'attention vers l'intérieur. La colonne s'allonge ou s'arrondit vers les jambes. La tête peut tomber. L'effort devient plus silencieux, plus interne. Il y a dans ces postures une qualité de descente — non comme une défaite, mais comme un relâchement. Quelque chose dans le système doit céder.
+Les flexions avant tournent l'attention vers l'intérieur. La colonne s'allonge ou s'arrondit vers les jambes. La tête peut tomber. L'effort devient plus silencieux, plus interne. Il y a dans ces postures une qualité de descente — non comme une défaite, mais comme un relâchement. Quelque chose dans le système doit céder.
 
----
-
-Les effets physiologiques sont réels et mesurables. Les flexions avant compriment l'abdomen, stimulent le nerf vague et signalent au système nerveux parasympathique de se diriger vers le repos. Les ischio-jambiers, le bas du dos, les fléchisseurs de hanche — ces zones portent une grande quantité de tension inconsciente. Travailler patiemment avec les flexions avant dans le temps est l'une des façons les plus fiables de libérer cette tension. Le travail n'est pas agressif. Il récompense la patience davantage que l'effort.
+Les effets physiologiques sont réels et mesurables. Les flexions avant compriment l'abdomen, stimulent le nerf vague et signalent au système nerveux parasympathique de se diriger vers le repos. Les ischio-jambiers, le bas du dos, les fléchisseurs de hanche — ces zones portent une grande quantité de tension inconsciente. Travailler patiemment avec les flexions avant dans le temps est l'une des façons les plus fiables de libérer cette tension. Le travail récompense la patience davantage que l'effort.
 
 ---
 
@@ -30,7 +28,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Posture de l'orteil A — _Padangusthasana A_
+### Posture de l'orteil — _Padangusthasana_
 
 **Principaux repères :** pieds à largeur de hanches, se plier vers l'avant, index et majeur accrochent les gros orteils, coudes s'écartent en approfondissant, sommet du crâne vers le sol, poids équilibré dans les pieds, adoucir l'arrière des genoux si tendu
 
@@ -38,27 +36,11 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Posture de l'orteil B — _Padangusthasana B_
-
-**Principaux repères :** depuis Padangusthasana A, coudes se plient et s'écartent, colonne se plie plus profondément, sommet du crâne tombe vers le sol, prise sur les orteils se raffermit, ischions se lèvent, poids légèrement vers l'avant
-
-**Bienfaits :** relâchement profond des ischio-jambiers, traction spinale, apaisement tête sous le cœur, abandon à la gravité, introspection
-
----
-
-### Posture des mains sous les pieds A — _Pada Hastasana A_
+### Posture des mains sous les pieds — _Pada Hastasana_
 
 **Principaux repères :** pieds à largeur de hanches, glisser les paumes à plat sous les plantes des pieds, orteils au niveau des poignets, inspirer pour allonger la colonne, hanches au-dessus des talons, coudes légèrement souples, sommet du crâne se lève
 
 **Bienfaits :** étirement profond des poignets et des doigts, ouverture des ischio-jambiers, stimulation des voûtes plantaires, ancrage, attention vers l'intérieur
-
----
-
-### Posture des mains sous les pieds B — _Pada Hastasana B_
-
-**Principaux repères :** depuis Pada Hastasana A, coudes se plient et s'écartent, tronc se plie plus profondément, sommet du crâne tombe vers le sol, pieds appuient dans les paumes, ischions se lèvent, respiration lente et complète
-
-**Bienfaits :** relâchement profond de la chaîne postérieure, ouverture du haut du dos, traction cervicale, apaisement, introspection prolongée
 
 ---
 

@@ -2,13 +2,13 @@
 title: 'Backbend Asanas: Opening, Courage and Expansion'
 date: 2026-06-09
 description: 'Explore backbend asanas from Sphinx to Wheel — postures that open the front body, strengthen the spine and cultivate courage and vitality.'
-image: '/images/blog/backbend-asanas.jpg'
+image: '/images/backbend-asanas/camel.png'
 tags: ['asanas', 'yoga postures', 'backbend']
 ---
 
 Backbends ask the body to move against its habits. The front of the body — chest, belly, hip flexors, throat — tends to close inward across the day: hunched at desks, curled in chairs, contracted in moments of stress or self-protection. Backbends reverse that direction. They press the spine into extension, lift the sternum, and open what the body has quietly been guarding. In many traditions, this quality of opening is understood not only physically but as something closer to courage — the willingness to expose the vulnerable front of the body to whatever is in front of you.
 
-The spine was not designed for a single range of motion. Extension — the arc of a backbend — is as natural to it as flexion. Physically, these poses strengthen the posterior chain: the muscles running along the back of the body from the calves through the hamstrings, glutes, erector spinae, and upper back. They counteract the forward rounding that accumulates over time. They also affect the nervous system in a particular way: the chest expansion and upward gaze of backbends tend to shift the body toward alertness and energy.
+The spine was not designed for a single range of motion. Extension — the arc of a backbend — is as natural to it as flexion. Physically, these poses strengthen the posterior chain: the muscles running along the back of the body from the calves through the hamstrings, glutes, erector spinae, and upper back. They counteract the forward rounding that accumulates over time. The chest expansion and upward gaze of backbends also make the nervous system more alert.
 
 ---
 
@@ -94,7 +94,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ### Camel Pose — _Ustrasana_
 
-![Sphinx](/images/backbend-asanas/sphinx.png)
+![camel](/images/backbend-asanas/camel.png)
 
 **Main cues:** kneel with hips over knees, hands to lower back or heels, lift chest high, hips push forward over knees, chin down or head back, shoulders drawing back, thighs vertical
 
@@ -104,7 +104,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ### Wild Thing — _Camatkarasana_
 
-![Sphinx](/images/backbend-asanas/sphinx.png)
+![wild-thing](/images/backbend-asanas/wild-thing.png)
 
 **Main cues:** from side plank on one hand, sweep back foot behind to floor, lift hips high, chest spirals open toward ceiling, free arm arcs overhead, head drops back, weight through grounded hand and back foot
 
@@ -114,7 +114,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ### Fish Pose — _Matsyasana_
 
-![Sphinx](/images/backbend-asanas/sphinx.png)
+![fish](/images/backbend-asanas/fish.png)
 
 **Main cues:** lie on back, slide hands under hips palms down, press elbows to floor, lift chest and arch upper back, top of head to floor lightly, legs active and together, throat open
 
@@ -122,9 +122,9 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ---
 
-### Extended Foot Pose — _Uttana Padasana_
+### Raised leg Pose — _Uttana Padasana_
 
-![Sphinx](/images/backbend-asanas/sphinx.png)
+![raised-leg](/images/backbend-asanas/raised-leg.png)
 
 **Main cues:** from lying down, hands under buttocks palms down, arch back as in Fish Pose, legs lift to 45° extended and active, toes pointed, chest lifts high, back of head or crown on floor, breath expansive
 
@@ -134,7 +134,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ### Locust Pose — _Salabhasana_
 
-![Sphinx](/images/backbend-asanas/sphinx.png)
+![locust](/images/backbend-asanas/locust.png)
 
 **Main cues:** lie prone, arms alongside body or clasped behind, inhale to lift chest, arms, and legs simultaneously, gaze down or slightly forward, thighs and glutes engaged, weight on abdomen
 
@@ -144,7 +144,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ### Wheel Pose — _Urdhva Dhanurasana_
 
-![Sphinx](/images/backbend-asanas/sphinx.png)
+![wheel](/images/backbend-asanas/wheel.png)
 
 **Main cues:** lie on back, feet hip-width near hips, hands by ears fingers pointing to shoulders, press through hands and feet to lift fully, arms straight, chest toward wall, hips high, head hangs
 
@@ -154,7 +154,7 @@ The spine was not designed for a single range of motion. Extension — the arc o
 
 ### Upward Facing Two-Foot Staff Pose — _Dwi Pada Viparita Dandasana_
 
-![Sphinx](/images/backbend-asanas/sphinx.png)
+![upward-facing](/images/backbend-asanas/upward-facing.png)
 
 **Main cues:** from Wheel, lower forearms one at a time to floor, fingers interlaced behind head, legs straighten if accessible, forearms grounded, chest lifts, advanced practitioners only, props as needed
 

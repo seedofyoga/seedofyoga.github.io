@@ -2,13 +2,13 @@
 title: 'Asanas en flexion arrière : ouverture, courage et expansion'
 date: 2026-06-09
 description: 'Explorez les postures en flexion arrière, du Sphinx à la Roue — des asanas qui ouvrent la face avant du corps, renforcent la colonne et cultivent le courage et la vitalité.'
-image: '/images/blog/backbend-asanas.jpg'
+image: '/images/backbend-asanas/camel.png'
 tags: ['asanas', 'postures de yoga', 'flexion arrière']
 ---
 
 Les flexions arrière demandent au corps de se déplacer à contre-courant de ses habitudes. L'avant du corps — la poitrine, le ventre, les fléchisseurs de hanche, la gorge — a tendance à se refermer au fil de la journée : courbé au bureau, recroquevillé dans une chaise, contracté dans les moments de stress ou d'autoprotection. Les flexions arrière inversent cette direction. Elles portent la colonne en extension, soulèvent le sternum et ouvrent ce que le corps gardait silencieusement. Dans de nombreuses traditions, cette qualité d'ouverture est comprise non seulement physiquement, mais comme quelque chose de plus proche du courage — la disposition à exposer l'avant vulnérable du corps à ce qui se trouve devant soi.
 
-La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouvement. L'extension — l'arc d'une flexion arrière — lui est aussi naturelle que la flexion. Physiquement, ces postures renforcent la chaîne postérieure : les muscles qui courent le long de la face arrière du corps, des mollets aux ischio-jambiers, en passant par les fessiers, les érecteurs du rachis et le haut du dos. Elles contrecarrent l'arrondissement vers l'avant qui s'accumule avec le temps. Elles affectent aussi le système nerveux d'une façon particulière : l'expansion thoracique et le regard vers le haut propres aux flexions arrière ont tendance à orienter le corps vers l'éveil et l'énergie.
+La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouvement. L'extension — l'arc d'une flexion arrière — lui est aussi naturelle que la flexion. Physiquement, ces postures renforcent la chaîne postérieure : les muscles qui courent le long de la face arrière du corps, des mollets aux ischio-jambiers, en passant par les fessiers, les érecteurs du rachis et le haut du dos. Elles contrecarrent l'arrondissement vers l'avant qui s'accumule avec le temps. L'expansion thoracique et le regard vers le haut propres aux flexions arrière activent aussi le système nerveux et le rendent plus alerte.
 
 ---
 
@@ -94,6 +94,8 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ### Posture du chameau — _Ustrasana_
 
+![camel](/images/backbend-asanas/camel.png)
+
 **Principaux repères :** à genoux avec les hanches au-dessus des genoux, mains sur le bas du dos ou les talons, soulever la poitrine haut, hanches poussées en avant au-dessus des genoux, menton vers le bas ou tête en arrière, épaules qui reculent, cuisses verticales
 
 **Bienfaits :** ouverture profonde de la poitrine et des épaules, étirement des fléchisseurs de hanche, extension spinale complète, ouverture de la gorge, courage et vulnérabilité
@@ -101,6 +103,8 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 ---
 
 ### Chose sauvage — _Camatkarasana_
+
+![wild-thing](/images/backbend-asanas/wild-thing.png)
 
 **Principaux repères :** depuis la planche latérale sur une main, balayer le pied arrière derrière vers le sol, soulever les hanches haut, la poitrine pivote vers le plafond, le bras libre s'arque au-dessus de la tête, la tête se penche en arrière, poids dans la main ancrée et le pied arrière
 
@@ -110,13 +114,17 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ### Posture du poisson — _Matsyasana_
 
+![fish](/images/backbend-asanas/fish.png)
+
 **Principaux repères :** allongé sur le dos, glisser les mains sous les hanches paumes vers le bas, appuyer les coudes au sol, soulever la poitrine et arquer le haut du dos, sommet de la tête au sol légèrement, jambes actives et serrées, gorge ouverte
 
 **Bienfaits :** ouverture de la poitrine et de la gorge, extension thoracique haute, étirement des fléchisseurs de hanche, contre-posture à la chandelle, approfondissement de la respiration
 
 ---
 
-### Posture des jambes étendues — _Uttana Padasana_
+### Posture des jambes élevées — _Uttana Padasana_
+
+![raised-leg](/images/backbend-asanas/raised-leg.png)
 
 **Principaux repères :** depuis allongé, mains sous les fesses paumes vers le bas, arquer le dos comme dans Matsyasana, jambes levées à 45° allongées et actives, orteils pointés, poitrine bien levée, arrière de la tête ou sommet du crâne au sol, respiration expansive
 
@@ -126,6 +134,8 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ### Posture de la sauterelle — _Salabhasana_
 
+![locust](/images/backbend-asanas/locust.png)
+
 **Principaux repères :** allongé sur le ventre, bras le long du corps ou croisés derrière, inspirer pour soulever simultanément poitrine, bras et jambes, regard vers le bas ou légèrement vers l'avant, cuisses et fessiers engagés, poids sur l'abdomen
 
 **Bienfaits :** renforcement de la chaîne postérieure, extension spinale, engagement des fessiers et des ischio-jambiers, conscience du dos, contre-posture aux flexions avant
@@ -134,6 +144,8 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 
 ### Posture de la roue — _Urdhva Dhanurasana_
 
+![wheel](/images/backbend-asanas/wheel.png)
+
 **Principaux repères :** allongé sur le dos, pieds à la largeur des hanches près des hanches, mains près des oreilles doigts pointés vers les épaules, appuyer dans les mains et les pieds pour se soulever complètement, bras droits, poitrine vers le mur, hanches hautes, tête qui pend
 
 **Bienfaits :** extension spinale complète, ouverture de la poitrine et des épaules, renforcement des bras et des jambes, relâchement des fléchisseurs de hanche, posture culminante, énergisant et expansif
@@ -141,6 +153,8 @@ La colonne vertébrale n'a pas été conçue pour une seule amplitude de mouveme
 ---
 
 ### Posture du bâton renversé à deux pieds — _Dwi Pada Viparita Dandasana_
+
+![upward-facing](/images/backbend-asanas/upward-facing.png)
 
 **Principaux repères :** depuis la roue, abaisser les avant-bras un par un vers le sol, doigts entrelacés derrière la tête, jambes qui s'allongent si accessible, avant-bras ancrés, poitrine qui se soulève, praticiens avancés uniquement, accessoires si nécessaire
 
