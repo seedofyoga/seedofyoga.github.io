@@ -76,59 +76,27 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Tête au genou A — _Janu Sirsasana A_
+### Tête au genou — _Janu Sirsasana_
 
 **Principaux repères :** assis, une jambe allongée, l'autre pied à la face interne de la cuisse, inspirer pour allonger la colonne, se plier sur la jambe allongée, mains au pied ou sangle, ventre mène plutôt que le front, les deux ischions ancrés
+
+- Janu Sirsasana A : pied contre l'intérieur de la cuisse
+- Janu Sirsasana B : assis sur le talon (zone du perinee)
+- Janu Sirsasana C : genou fléchi ouvert vers l'extérieur, pied tourne de façon à ce que les orteils pointent vers le côté, cheville en dorsiflexion à 90°
 
 **Bienfaits :** étirement des ischio-jambiers et des hanches, stimulation des reins, apaisement du système nerveux, longueur spinale, relâchement asymétrique des hanches
 
 ---
 
-### Tête au genou B — _Janu Sirsasana B_
-
-**Principaux repères :** assis, talon appuyé contre le périnée avec le pied relevé, orteils pointés vers l'arrière, s'asseoir sur le bord du talon, deux ischions pondérés, plier vers la jambe allongée depuis les hanches, mains au pied ou à la sangle, ventre en tête
-
-**Bienfaits :** stimulation du périnée et du plancher pelvien, étirement de la cuisse interne de la jambe pliée, relâchement des ischio-jambiers de la jambe allongée, équilibre assis, engagement de la chakra racine
-
----
-
-### Tête au genou C — _Janu Sirsasana C_
-
-**Principaux repères :** assis, genou plié tourné vers l'extérieur, pied tourné de côté, orteils pointant latéralement, talon en angle, cheville en dorsiflexion à 90°, plier sur la jambe allongée, mains au pied ou à la sangle, ventre vers la cuisse
-
-**Bienfaits :** étirement profond de la cheville et du tendon d'Achille, ouverture de la hanche externe, relâchement des ischio-jambiers, longueur spinale, préparation aux ouvertures de hanches avancées
-
----
-
-### Flexion avant assise A — _Paschimottanasana A_
+### Flexion avant assise — _Paschimottanasana_
 
 **Principaux repères :** les deux jambes allongées, pieds en flexion, inspirer la colonne longue, se plier vers l'avant depuis les hanches, mains aux pieds ou sangle, coudes s'écartent, ventre vers les cuisses avant le front, ischions ancrés, souffle continu
 
+- Paschimottanasana A : attraper le gros orteil avec l'index et le majeur
+- Paschimottanasana B : les mains attrapent le bord extérieur du pied
+- Paschimottanasana C : une main attrape le poignet opposé autour du pied
+
 **Bienfaits :** étirement complet de la chaîne postérieure, apaisement du système nerveux, stimulation digestive, introspection, patience
-
----
-
-### Flexion avant assise B — _Paschimottanasana B_
-
-**Principaux repères :** deux jambes allongées, pieds fléchis, mains agrippent les bords extérieurs des pieds, coudes s'écartent, plier plus profondément depuis les hanches, ventre vers les cuisses, colonne longue avant d'arrondir, respiration continue
-
-**Bienfaits :** étirement profond des hanches et des ischio-jambiers, étirement du bord externe du pied, ouverture du haut du dos par l'écartement des coudes, introspection, apaisement
-
----
-
-### Flexion avant assise C — _Paschimottanasana C_
-
-**Principaux repères :** assis, jambes allongées, une main saisit le poignet opposé autour des pieds, coudes encadrent les pieds, plier depuis les hanches avec les bras liés comme ancre, ventre en tête, respiration continue
-
-**Bienfaits :** étirement complet de la chaîne postérieure, rotation des épaules, pli plus profond par la résistance du lien, culture de la patience, apaisement
-
----
-
-### Flexion avant assise D — _Paschimottanasana D_
-
-**Principaux repères :** assis, jambes allongées, atteindre pleinement autour des pieds (ou prière derrière les pieds), plier avec une longueur maximale dans la colonne d'abord, ventre vers les cuisses, menton vers les tibias, respiration continue
-
-**Bienfaits :** relâchement le plus profond de la chaîne postérieure, mobilité des épaules, abandon spinal, introspection, ouverture complète en flexion avant
 
 ---
 
@@ -148,7 +116,23 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Demi-lotus lié assis en flexion avant — _Ardha Baddha Padma Paschimattanasana_
+### Posture du Sage Marichi C — _Marichyasana C_
+
+**Principaux repères :** assis, une jambe étendue, l'autre genou fléchi avec le pied à plat près de la hanche, inspirer pour s'allonger, expirer pour pivoter vers le genou fléchi, bras extérieur du côté opposé accroché à l'extérieur du genou levé comme levier, main arrière au sol derrière le sacrum, poitrine soulevée, regard par-dessus l'épaule arrière
+
+**Bienfaits :** rotation vertébrale profonde, étirement des hanches et des fessiers, tonicité abdominale, engagement des ischio-jambiers, attention intérieure focalisée
+
+---
+
+### Posture du Sage Marichi D — _Marichyasana D_
+
+**Principaux repères :** assis, une jambe en demi-lotus, l'autre genou plié pied à plat près de la hanche, tourner vers le genou plié, le bras enroule à l'extérieur de la jambe pliée, le bras du lotus enroule derrière le dos, les deux mains se rejoignent en lien, colonne haute avant de tourner, regard par-dessus l'épaule arrière
+
+**Bienfaits :** rotation spinale profonde, ouverture de la hanche en lotus, mobilité des épaules, stimulation digestive, intégration avancée corps-esprit
+
+---
+
+### Demi-lotus lié assis en flexion avant — _Ardha Baddha Padma Paschimottanasana_
 
 **Principaux repères :** assis, un pied en demi-lotus à la hanche, le bras du même côté enroule derrière le dos pour tenir le pied en lotus, autre jambe allongée, plier vers l'avant sur la jambe allongée depuis les hanches, main libre au pied ou à la sangle, deux ischions ancrés au sol
 
@@ -156,7 +140,7 @@ Les effets physiologiques sont réels et mesurables. Les flexions avant comprime
 
 ---
 
-### Flexion avant à trois membres — _Triang Mukha Ek Pada Paschimattanasana_
+### Flexion avant à trois membres — _Triang Mukha Eka Pada Paschimottanasana_
 
 **Principaux repères :** assis, une jambe allongée, l'autre repliée en Virasana (pied à côté de la hanche, orteils pointés), ischions équilibrés (coussin sous la hanche surélevée si besoin), plier vers l'avant sur la jambe allongée, mains au pied ou à la sangle, colonne longue avant de plier
 
