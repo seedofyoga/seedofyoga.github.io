@@ -16,7 +16,7 @@ What unites standing poses is their relationship to the ground. Each one begins 
 
 ## Standing Poses
 
-### Mountain Pose — _Tadasana_
+### Mountain Pose — _Tadasana_ / _Samasthiti_
 
 **Main cues:** feet hip-width or together, weight through all four corners, legs active without gripping, spine tall from tailbone to crown, shoulders back and down, arms alongside body, palms forward, gaze level
 

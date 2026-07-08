@@ -16,7 +16,7 @@ Ce qui unit les postures debout, c'est leur rapport au sol. Chacune commence par
 
 ## Postures debout
 
-### Posture de la montagne — _Tadasana_
+### Posture de la montagne — _Tadasana_ / _Samasthiti_
 
 **Principaux repères :** pieds écartés à la largeur des hanches ou joints, poids sur les quatre coins des pieds, jambes actives sans se crisper, colonne longue depuis le coccyx jusqu'au sommet du crâne, épaules en arrière et vers le bas, bras le long du corps, paumes vers l'avant, regard horizontal
 

@@ -8,7 +8,7 @@ tags: ['asanas', 'yoga postures', 'forward bend']
 
 Forward bends turn the attention in. The spine rounds or lengthens toward the legs. The head may drop. The effort becomes quieter, more internal. There is a quality of descent in these postures, not as defeat but as release. Something in the system has to yield.
 
-The physiological effects are real and measurable. Forward folds compress the abdomen, stimulate the vagus nerve, and signal the parasympathetic nervous system toward rest. The hamstrings, the lower back, the hip flexors — these areas hold a great deal of unconscious tension. Working patiently with forward bends over time is one of the most reliable ways to release that holding. The work rewards patience more than effort.
+Forward folds compress the abdomen, stimulate the vagus nerve, and signal the parasympathetic nervous system toward rest. The hamstrings, the lower back, the hip flexors — these areas hold a great deal of unconscious tension. Working patiently with forward bends over time is one of the most reliable ways to release that holding. The work rewards patience more than effort.
 
 ---
 
@@ -94,7 +94,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ### Head-to-Knee Pose — _Janu Sirsasana_
 
-![Sphinx](/images/forward-fold/sphinx.png)
+![Janu-Sirsasana](/images/forward-fold/Janu-Sirsasana.png)
 
 **Main cues:** seated, one leg extended, inhale to lengthen spine, fold over extended leg, hands to foot or strap, belly leads not forehead, both sit bones grounded
 
@@ -182,7 +182,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ### Wide-Legged Forward Fold A — _Prasarita Padottanasana A_
 
-![Sphinx](/images/forward-fold/sphinx.png)
+![Prasarita-Padottanasana-A](/images/forward-fold/Prasarita-Padottanasana-A.png)
 
 **Main cues:** wide stance, feet parallel, fold from hips with spine long, hands to floor between or outside feet, crown toward or touching floor, weight slightly forward, inner thighs draw back
 
@@ -192,7 +192,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ### Wide-Legged Forward Fold B — _Prasarita Padottanasana B_
 
-![Sphinx](/images/forward-fold/sphinx.png)
+![Prasarita-Padottanasana-A](/images/forward-fold/Prasarita-Padottanasana-B.png)
 
 **Main cues:** wide stance, feet parallel, hands on hips, fold from hips with flat back first, then release fully, hands remain on hips throughout, crown toward floor, inner arches lift
 
@@ -202,7 +202,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ### Wide-Legged Forward Fold C — _Prasarita Padottanasana C_
 
-![Sphinx](/images/forward-fold/sphinx.png)
+![Prasarita-Padottanasana-C](/images/forward-fold/Prasarita-Padottanasana-C.png)
 
 **Main cues:** wide stance, feet parallel, interlace fingers behind back, fold forward from hips, arms sweep overhead toward floor, shoulder blades draw together, crown drops, legs firm
 
@@ -212,7 +212,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ### Wide-Legged Forward Fold D — _Prasarita Padottanasana D_
 
-![Sphinx](/images/forward-fold/sphinx.png)
+![Prasarita-Padottanasana-D](/images/forward-fold/Prasarita-Padottanasana-D.png)
 
 **Main cues:** wide stance, feet parallel, fold forward, index and middle fingers grip big toes, elbows bend outward as fold deepens, crown toward floor, feet active
 
@@ -222,9 +222,9 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ### Wide-Angled Seated Forward Fold A (Yin: Dragonfly) — _Upavistha Konasana A_
 
-![Sphinx](/images/forward-fold/sphinx.png)
+![Upavistha-Konasana-A](/images/forward-fold/Upavistha-Konasana-A.png)
 
-**Main cues:** seated, legs wide apart, sit bones grounded, inhale spine tall, fold forward from hips, hands walk forward, belly toward floor, feet flexed, inner thighs toward mat
+**Main cues:** seated, legs wide apart, sit bones grounded, inhale spine tall, fold forward from hips, hands walk forward or grab big toe, belly toward floor, feet flexed, inner thighs toward mat
 
 **Benefits:** inner groin and hamstring stretch, hip opening, adductor lengthening, spinal extension, quieting
 
@@ -232,7 +232,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ### Wide-Angled Seated Forward Fold B — _Upavistha Konasana B_
 
-![Sphinx](/images/forward-fold/sphinx.png)
+![Upavistha-Konasana-B](/images/forward-fold/Upavistha-Konasana-B.png)
 
 **Main cues:** from Upavistha Konasana A, roll back onto tailbone, grab outer edges of feet or big toes, lift legs skyward as body forms a V, chest lifts, sit bones float, gaze between feet
 
@@ -240,29 +240,9 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-### Tortoise Pose — _Kurmasana_
-
-![Sphinx](/images/forward-fold/sphinx.png)
-
-**Main cues:** seated, legs wide and bent, slide arms under knees, extend arms out to sides palms down, chest lowers toward floor, legs straighten over upper arms if available, chin or forehead toward mat, breath long and slow
-
-**Benefits:** deep hip and groin opening, full spinal forward release, shoulder and upper back stretch, withdrawal of senses, stillness
-
----
-
-### Sleeping Tortoise Pose — _Supta Kurmasana_
-
-![Sphinx](/images/forward-fold/sphinx.png)
-
-**Main cues:** from Kurmasana, bend elbows and draw them toward each other behind the back, clasp hands or fingers, cross ankles behind head, forehead toward mat, long slow breath, shoulders draw down and back further under legs
-
-**Benefits:** deep hip and groin opening, full spinal forward release, shoulder stretch, withdrawal of senses, deep quieting
-
----
-
 ### Both Big Toes Pose — _Ubhaya Padangusthasana_
 
-![Sphinx](/images/forward-fold/sphinx.png)
+![Ubhaya-Padangusthasana](/images/forward-fold/Ubhaya-Padangusthasana.png)
 
 **Main cues:** seated, grip both big toes with first two fingers of each hand, balance on tailbone, extend both legs skyward, spine lifts and lengthens, chest forward, gaze between or beyond feet, core holds torso upright
 
@@ -272,7 +252,7 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ### Upward Facing Intense West Stretch — _Urdhva Mukha Paschimattanasana_
 
-![Sphinx](/images/forward-fold/sphinx.png)
+![Urdhva-Mukha-Paschimattanasana](/images/forward-fold/Urdhva-Mukha-Paschimattanasana.png)
 
 **Main cues:** from Ubhaya Padangusthasana grip, bring forehead toward shins as legs extend fully, balance on tailbone, grip holds toes firmly, core engaged, spine rounds toward legs, breath steady
 
@@ -280,4 +260,24 @@ The physiological effects are real and measurable. Forward folds compress the ab
 
 ---
 
-Forward bends reward patience. The hamstrings and lower back take time — sometimes months, sometimes years — to soften and release. What accelerates the process is not more effort but more presence: staying longer, breathing more fully, releasing the jaw and the shoulders and the narrative about how far the body should go. Forward bends teach the same thing each time. You are not in control of the release. You can only create the conditions for it.
+### Tortoise Pose — _Kurmasana_
+
+![Kurmasana](/images/forward-fold/Kurmasana.png)
+
+**Main cues:** seated, legs wide and bent, slide arms under knees, extend arms out to sides palms down, chest lowers toward floor, legs straighten over upper arms if available, chin or forehead toward mat, breath long and slow
+
+**Benefits:** deep hip and groin opening, full spinal forward release, shoulder and upper back stretch, withdrawal of senses, stillness
+
+---
+
+### Sleeping Tortoise Pose — _Supta Kurmasana_
+
+![Supta-Kurmasana](/images/forward-fold/Supta-Kurmasana.png)
+
+**Main cues:** from Kurmasana, bend elbows and draw them toward each other behind the back, clasp hands or fingers, cross ankles behind head, forehead toward mat, long slow breath, shoulders draw down and back further under legs
+
+**Benefits:** deep hip and groin opening, full spinal forward release, shoulder stretch, withdrawal of senses, deep quieting
+
+---
+
+Forward bends reward patience. The hamstrings and lower back take time to soften and release. What accelerates the process is not more effort but more presence: staying longer, breathing more fully, releasing the jaw and the shoulders and the narrative about how far the body should go. You are not in control of the release. You can only create the conditions for it.
