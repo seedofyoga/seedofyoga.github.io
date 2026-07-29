@@ -86,7 +86,6 @@ Les flexions avant compriment l'abdomen, stimulent le nerf vague et signalent au
 
 ![Dandayamana-Mudrasana](/images/forward-fold/Dandayamana-Mudrasana.png)
 
-
 **Principaux repères :** depuis debout, mains entrelacées dans le dos, se plier vers l'avant depuis les hanches, les bras se lèvent au-dessus de la tête pendant que le tronc descend, poitrine vers les cuisses, sommet du crâne tombe, pieds joints, poids équilibré
 
 **Bienfaits :** ouverture profonde des épaules et de la poitrine, étirement des ischio-jambiers, relâchement du haut du dos, ancrage, qualité méditative
