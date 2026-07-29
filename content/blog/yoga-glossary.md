@@ -40,7 +40,7 @@ Patanjali's [Yoga Sutras](/blog/definition-of-yoga-8-limbs/) describe yoga as a 
 
 ## Postures and movement
 
-**Asana** in its modern form includes hundreds of physical postures. The [asanas guide](/blog/yoga-asanas-guide/) gives an overview organised by category, with Sanskrit names and key benefits for each.
+**Asana** in its modern form includes hundreds of physical postures, grouped by category: [standing](/blog/standing-asanas/), [seated](/blog/seated-asanas/), [backbends](/blog/backbend-asanas/), [forward bends](/blog/forward-fold-asanas/), [twists](/blog/twisting-asanas/), [hip openers](/blog/hip-opening-asanas/), [arm balances and inversions](/blog/arm-balance-inversions/), and [restorative](/blog/restorative-asanas/). Each article lists the poses in that family with their Sanskrit names and key benefits.
 
 **Vinyasa** (flowing sequence) refers to postures connected by breath and movement. In a vinyasa class, the transitions between poses are part of the practice. It also names a specific linking sequence you will encounter in many styles: plank — chaturanga — upward dog — downward dog.
 

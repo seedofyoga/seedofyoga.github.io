@@ -24,7 +24,7 @@ Cet article est cette liste. Un glossaire des termes que vous rencontrerez le pl
 
 ## Les huit membres
 
-Les [Yoga Sutras](/blog/definition-of-yoga-8-limbs/) de Patanjali décrivent le yoga comme un chemin à huit membres — _ashtanga_ (à ne pas confondre avec le style de yoga du même nom). Chaque membre est une étape de la pratique, qui part de l'éthique pour aller vers l'absorption profonde.
+Les [Yoga Sutras](/fr/blog/definition-of-yoga-8-limbs/) de Patanjali décrivent le yoga comme un chemin à huit membres — _ashtanga_ (à ne pas confondre avec le style de yoga du même nom). Chaque membre est une étape de la pratique, qui part de l'éthique pour aller vers l'absorption profonde.
 
 **Yama** (retenues éthiques) désigne les cinq façons dont le yoga nous invite à nous comporter dans le monde : la non-violence (_ahimsa_), la sincérité (_satya_), le non-vol (_asteya_), la continence (_brahmacharya_), et le non-attachement (_aparigraha_).
 
@@ -34,13 +34,13 @@ Les [Yoga Sutras](/blog/definition-of-yoga-8-limbs/) de Patanjali décrivent le 
 
 **Pratyahara** (retrait des sens) est le pont entre les pratiques extérieures et intérieures — apprendre à ramener l'attention vers l'intérieur plutôt que de suivre chaque stimulus extérieur.
 
-**Dharana** (concentration), **Dhyana** (méditation) et **Samadhi** (absorption) sont les trois derniers membres. Dharana est l'attention focalisée sur un seul objet. Dhyana est le moment où cette attention devient continue. Samadhi est celui où la frontière entre l'observateur et l'observé se dissout. L'[article sur la méditation](/blog/meditation-techniques/) couvre ces trois étapes en détail.
+**Dharana** (concentration), **Dhyana** (méditation) et **Samadhi** (absorption) sont les trois derniers membres. Dharana est l'attention focalisée sur un seul objet. Dhyana est le moment où cette attention devient continue. Samadhi est celui où la frontière entre l'observateur et l'observé se dissout. L'[article sur la méditation](/fr/blog/meditation-techniques/) couvre ces trois étapes en détail.
 
 ---
 
 ## Postures et mouvement
 
-**Asana** dans sa forme moderne comprend des centaines de postures physiques. Le [guide des asanas](/blog/yoga-asanas-guide/) en propose un aperçu organisé par catégorie, avec les noms en sanscrit et les principaux bienfaits.
+**Asana** dans sa forme moderne comprend des centaines de postures physiques, regroupées par catégorie : [debout](/fr/blog/standing-asanas/), [assis](/fr/blog/seated-asanas/), [flexions arrière](/fr/blog/backbend-asanas/), [flexions avant](/fr/blog/forward-fold-asanas/), [torsions](/fr/blog/twisting-asanas/), [ouverture des hanches](/fr/blog/hip-opening-asanas/), [équilibres sur les bras et inversions](/fr/blog/arm-balance-inversions/), et [asanas restaurateurs](/fr/blog/restorative-asanas/). Chaque article présente les postures de sa famille avec leurs noms en sanskrit et leurs principaux bienfaits.
 
 **Vinyasa** (séquence fluide) désigne des postures reliées par le souffle et le mouvement. Dans un cours de vinyasa, les transitions entre les postures font partie de la pratique. C'est aussi le nom d'une séquence de liaison spécifique : planche — chaturanga — chien tête en haut — chien tête en bas.
 
@@ -54,9 +54,9 @@ Les [Yoga Sutras](/blog/definition-of-yoga-8-limbs/) de Patanjali décrivent le 
 
 ## Souffle, geste et énergie
 
-**Pranayama** (régulation du souffle) est le quatrième membre du chemin de Patanjali et une pratique complète en soi. Le mot renvoie à la fois à l'extension du prana et à l'usage maîtrisé du souffle. Les principales techniques vont de la respiration rythmique simple aux pratiques plus avancées impliquant la rétention. Il existe un guide complet dans l'[article sur le pranayama](/blog/pranayama-guide/).
+**Pranayama** (régulation du souffle) est le quatrième membre du chemin de Patanjali et une pratique complète en soi. Le mot renvoie à la fois à l'extension du prana et à l'usage maîtrisé du souffle. Les principales techniques vont de la respiration rythmique simple aux pratiques plus avancées impliquant la rétention. Il existe un guide complet dans l'[article sur le pranayama](/fr/blog/pranayama-guide/).
 
-**Mudra** (geste ou sceau) désigne les positions des mains, les scellements corporels et les positions des yeux utilisés pour diriger le flux du prana. **Bandha** (verrou ou lien) désigne les contractions musculaires internes permettant de contenir et de rediriger l'énergie dans le corps. Les deux sont expliqués en détail dans l'[article sur les mudras et bandhas](/blog/mudras-and-bandhas/).
+**Mudra** (geste ou sceau) désigne les positions des mains, les scellements corporels et les positions des yeux utilisés pour diriger le flux du prana. **Bandha** (verrou ou lien) désigne les contractions musculaires internes permettant de contenir et de rediriger l'énergie dans le corps. Les deux sont expliqués en détail dans l'[article sur les mudras et bandhas](/fr/blog/mudras-and-bandhas/).
 
 **Kumbhaka** (rétention) est la pause entre l'inspiration et l'expiration dans le pranayama. _Antara kumbhaka_ est la pause après l'inspiration ; _bahya kumbhaka_ est la pause après l'expiration. Ces pratiques appartiennent aux techniques de pranayama plus avancées.
 
@@ -66,7 +66,7 @@ Les [Yoga Sutras](/blog/definition-of-yoga-8-limbs/) de Patanjali décrivent le 
 
 **Om** (ou _Aum_) est le son le plus fondamental du yoga. Il est dit être la vibration primordiale dont tous les autres sons naissent. Vous l'entendrez chanté au début et à la fin de nombreux cours.
 
-**Mantra** (phrase sacrée ou outil du mental) — un mot ou une phrase répété mentalement ou à voix haute pour concentrer l'esprit ou invoquer une qualité particulière. Les mantras viennent des traditions sanscrites et védiques, et leur sens compte autant que leur son. L'[article sur les mantras](/blog/yoga-mantras/) couvre ceux que vous rencontrerez le plus souvent.
+**Mantra** (phrase sacrée ou outil du mental) — un mot ou une phrase répété mentalement ou à voix haute pour concentrer l'esprit ou invoquer une qualité particulière. Les mantras viennent des traditions sanscrites et védiques, et leur sens compte autant que leur son. L'[article sur les mantras](/fr/blog/yoga-mantras/) couvre ceux que vous rencontrerez le plus souvent.
 
 **Namaste** (je m'incline devant toi) — le geste de salutation et d'au revoir du yoga : mains jointes au cœur, légère inclinaison. C'est une façon de reconnaître quelque chose de digne en l'autre personne.
 
@@ -76,7 +76,7 @@ Les [Yoga Sutras](/blog/definition-of-yoga-8-limbs/) de Patanjali décrivent le 
 
 ## Textes et enseignants
 
-**Patanjali** — le sage qui a compilé les Yoga Sutras, probablement vers le IIe siècle avant notre ère. Nous ne savons presque rien de lui en tant que personne. Son texte reste la référence fondatrice de la philosophie classique du yoga. L'[histoire du yoga](/blog/history-of-yoga/) retrace sa place dans la tradition.
+**Patanjali** — le sage qui a compilé les Yoga Sutras, probablement vers le IIe siècle avant notre ère. Nous ne savons presque rien de lui en tant que personne. Son texte reste la référence fondatrice de la philosophie classique du yoga. L'[histoire du yoga](/fr/blog/history-of-yoga/) retrace sa place dans la tradition.
 
 **Les Yoga Sutras** — la collection de 196 aphorismes de Patanjali sur la théorie et la pratique du yoga. Denses, précis, et encore largement étudiés plus de deux mille ans après leur rédaction.
 

@@ -1,9 +1,9 @@
 ---
-title: 'Décoder les noms des asanas en sanscrit'
+title: 'Décoder les noms des asanas en sanskrit'
 date: 2026-07-29
-description: "Parivrtta Ardha Chandrasana n'est pas une suite de syllabes arbitraire — c'est une description. Avec une quarantaine de mots de sanscrit, la plupart des noms de postures se décodent d'eux-mêmes."
+description: "Parivrtta Ardha Chandrasana n'est pas une suite de syllabes arbitraire — c'est une description. Avec une quarantaine de mots de sanskrit, la plupart des noms de postures se décodent d'eux-mêmes."
 image: '/images/8-limbs/asana.png'
-tags: ['sanscrit', 'asanas', 'guide du yoga']
+tags: ['sanskrit', 'asanas', 'guide du yoga']
 ---
 
 L'enseignant annonce « Parivrtta Ardha Chandrasana » et la salle hésite. Quelques personnes regardent autour d'elles pour voir ce que font les autres. Le nom arrive comme une longue suite de syllabes inconnues, quelque chose à imiter plutôt qu'à comprendre.
@@ -14,9 +14,9 @@ Cependant, ces noms ne sont pas des étiquettes arbitraires. Ce sont des descrip
 
 ## Asana : le mot de la fin
 
-**Asana** vient de la racine sanscrite _as_, qui signifie s'asseoir, être assis. Dans les [Yoga Sutras](/fr/blog/definition-of-yoga-8-limbs/) de Patanjali, l'asana est le troisième des huit membres, et il est décrit simplement comme une assise stable et confortable — une position que le corps peut tenir assez longtemps pour que le mental s'apaise. Les centaines de postures physiques que nous pratiquons aujourd'hui sont apparues bien plus tard, à travers le Hatha yoga, mais elles ont gardé le mot.
+**Asana** vient de la racine sanskrite _as_, qui signifie s'asseoir, être assis. Dans les [Yoga Sutras](/fr/blog/definition-of-yoga-8-limbs/) de Patanjali, l'asana est le troisième des huit membres, et il est décrit simplement comme une assise stable et confortable — une position que le corps peut tenir assez longtemps pour que le mental s'apaise. Les centaines de postures physiques que nous pratiquons aujourd'hui sont apparues bien plus tard, à travers le Hatha yoga, mais elles ont gardé le mot.
 
-Tous les noms de postures se terminent par `-asana`. Ce qui leur donne l'apparence d'un seul mot ininterrompu est une règle du sanscrit appelée _sandhi_ : les sons qui se rencontrent à la frontière de deux mots fusionnent. _Tada_ (montagne) plus _asana_ donne _Tadasana_. _Chandra_ (lune) plus _asana_ donne _Chandrasana_. Dès que l'on s'attend à cette fusion finale, le reste du nom se sépare beaucoup plus facilement.
+Tous les noms de postures se terminent par `-asana`. Ce qui leur donne l'apparence d'un seul mot ininterrompu est une règle du sanskrit appelée _sandhi_ : les sons qui se rencontrent à la frontière de deux mots fusionnent. _Tada_ (montagne) plus _asana_ donne _Tadasana_. _Chandra_ (lune) plus _asana_ donne _Chandrasana_. Dès que l'on s'attend à cette fusion finale, le reste du nom se sépare beaucoup plus facilement.
 
 ---
 
@@ -194,7 +194,7 @@ C'est pour cette raison que les noms se lisent de gauche à droite, comme une ph
 
 ## Une note sur la prononciation
 
-Quelques repères approximatifs, proposés par un pratiquant et non par un sanscritiste. La longueur des voyelles compte : le _a_ bref se prononce comme un _e_ atone, tandis que le _ā_ long s'ouvre comme le _a_ de « pâte » — _asana_ se dit donc plutôt AH-sa-na que a-SAH-na. Le _th_ de _Uttanasana_ ou de _hatha_ est un t aspiré, jamais le « th » anglais. Et le _ch_ de _chandra_ se prononce comme le « tch » de « tchèque ».
+Quelques repères approximatifs, proposés par un pratiquant et non par un sanskritiste. La longueur des voyelles compte : le _a_ bref se prononce comme un _e_ atone, tandis que le _ā_ long s'ouvre comme le _a_ de « pâte » — _asana_ se dit donc plutôt AH-sa-na que a-SAH-na. Le _th_ de _Uttanasana_ ou de _hatha_ est un t aspiré, jamais le « th » anglais. Et le _ch_ de _chandra_ se prononce comme le « tch » de « tchèque ».
 
 Pour l'entendre correctement, écoutez un enseignant qui a étudié la langue et imitez-le. La lecture sur une page ne mène pas très loin.
 
@@ -204,4 +204,4 @@ Pour l'entendre correctement, écoutez un enseignant qui a étudié la langue et
 
 Le vocabulaire est restreint et il se répète. Apprenez _ardha_, _supta_, _parivrtta_, _eka pada_ et une douzaine d'animaux, et la plupart de ce que dit l'enseignant cesse d'être un son étranger à imiter pour devenir quelque chose de plus proche d'une consigne : tourné, demi, lune. Ce basculement vaut le petit effort d'apprendre les mots, car il change ce que vous êtes capable d'entendre en cours.
 
-Pour le vocabulaire plus large du yoga, au-delà des postures, il y a le [glossaire des termes du yoga](/fr/blog/yoga-glossary/). Pour les postures elles-mêmes, les articles sur les [flexions arrière](/fr/blog/backbend-asanas/) et les [flexions avant](/fr/blog/forward-fold-asanas/) listent chacune avec son nom sanscrit — de bons endroits pour s'entraîner à les lire.
+Pour le vocabulaire plus large du yoga, au-delà des postures, il y a le [glossaire des termes du yoga](/fr/blog/yoga-glossary/). Pour les postures elles-mêmes, les articles sur les [flexions arrière](/fr/blog/backbend-asanas/) et les [flexions avant](/fr/blog/forward-fold-asanas/) listent chacune avec son nom sanskrit — de bons endroits pour s'entraîner à les lire.

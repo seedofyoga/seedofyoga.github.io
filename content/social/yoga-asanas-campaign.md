@@ -12,9 +12,9 @@ The body understands things the mind takes longer to articulate. This is part of
 
 Most people encounter yoga through a handful of postures. Downward dog. Child's pose. Something that looks like a warrior. Over time, a picture begins to form: different categories of poses that work the body in fundamentally different ways. Standing poses build steadiness from the ground up. Forward bends quiet the nervous system. Backbends open and energize. Twists release what accumulates in the spine. Inversions shift perspective, literally. Balancing poses teach the mind to stay present. Restorative poses allow everything else to settle.
 
-I wrote a guide to the main yoga asanas, organized by category — with their Sanskrit names and the key benefit each one offers. Not a sequence. Not a programme. A map of the territory, with enough context to change how you meet a posture when you arrive in it.
+I wrote an article for each of these categories — the poses that belong to it, their Sanskrit names, and the key benefit each one offers. Not a sequence. Not a programme. A map of the territory, with enough context to change how you meet a posture when you arrive in it.
 
-→ https://www.seedofyoga.com/blog/yoga-asanas-guide/
+→ https://www.seedofyoga.com/blog/
 
 **Hashtags:** #yoga #asanas #yogapractice
 
@@ -168,7 +168,7 @@ Studio Ghibli-style hand-drawn illustration. A flat lay from above: a small open
 
 Seven categories of yoga postures — standing, forward bends, backbends, twists, inversions, balancing, restorative.
 
-What each one offers and why it is practised: https://www.seedofyoga.com/blog/yoga-asanas-guide/
+What each one offers and why it is practised: https://www.seedofyoga.com/blog/
 
 #yoga #asanas #yogapractice
 
