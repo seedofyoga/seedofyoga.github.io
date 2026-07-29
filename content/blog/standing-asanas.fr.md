@@ -1,5 +1,5 @@
 ---
-title: 'Asanas debout : force, équilibre et ancrage'
+title: 'Asanas debout'
 date: 2026-06-09
 description: 'Explorez les postures debout de la Posture de la Montagne au Guerrier III — des postures fondamentales qui développent la force, la stabilité et la concentration.'
 image: '/images/blog/standing-asanas.jpg'

@@ -1,5 +1,5 @@
 ---
-title: 'Backbend Asanas: Opening, Courage and Expansion'
+title: 'Backbend Asanas'
 date: 2026-06-09
 description: 'Explore backbend asanas from Sphinx to Wheel — postures that open the front body, strengthen the spine and cultivate courage and vitality.'
 image: '/images/backbend-asanas/camel.png'

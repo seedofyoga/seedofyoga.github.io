@@ -1,5 +1,5 @@
 ---
-title: 'Asanas restaurateurs : repos, intégration et libération profonde'
+title: 'Asanas restaurateurs'
 date: 2026-06-09
 description: 'Explorez les postures restauratrices du Chat-Vache au Savasana — des postures douces qui apaisent le système nerveux, libèrent les tensions retenues et invitent le corps dans un repos profond.'
 image: '/images/blog/restorative-asanas.jpg'

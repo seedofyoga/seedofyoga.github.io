@@ -1,5 +1,5 @@
 ---
-title: 'Asanas en torsion : rotation, détoxification et clarté'
+title: 'Asanas en torsion'
 date: 2026-06-09
 description: 'Explorez les postures en torsion, de la Torsion de Bharadvaja à la Posture du Nœud — des asanas qui essorent la colonne, libèrent les tensions et restaurent la clarté énergétique.'
 image: '/images/blog/twisting-asanas.jpg'

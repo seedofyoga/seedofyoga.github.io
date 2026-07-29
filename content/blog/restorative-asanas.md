@@ -1,5 +1,5 @@
 ---
-title: 'Restorative Asanas: Rest, Integration and Deep Release'
+title: 'Restorative Asanas'
 date: 2026-06-09
 description: 'Explore restorative asanas from Cat-Cow to Savasana — gentle postures that calm the nervous system, release held tension and invite the body into deep rest.'
 image: '/images/blog/restorative-asanas.jpg'

@@ -1,5 +1,5 @@
 ---
-title: 'Twisting Asanas: Rotation, Detoxification and Clarity'
+title: 'Twisting Asanas'
 date: 2026-06-09
 description: "Explore twisting asanas from Bharadvaja's Twist to Rope Pose — postures that wring the spine, release tension and restore energetic clarity."
 image: '/images/blog/twisting-asanas.jpg'

@@ -1,5 +1,5 @@
 ---
-title: 'Hip Opening Asanas: Release, Space and Emotional Freedom'
+title: 'Hip Opening Asanas'
 date: 2026-06-09
 description: 'Explore hip opening asanas from Bound Angle to Monkey Pose — postures that release tension in the hips and pelvis, improve mobility and invite emotional openness.'
 image: '/images/blog/hip-opening-asanas.jpg'

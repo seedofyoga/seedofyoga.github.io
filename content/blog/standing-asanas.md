@@ -1,5 +1,5 @@
 ---
-title: 'Standing Asanas: Strength, Balance and Groundedness'
+title: 'Standing Asanas'
 date: 2026-06-09
 description: 'Explore standing asanas from Mountain Pose to Warrior III — foundational postures that build strength, stability, and focus.'
 image: '/images/blog/standing-asanas.jpg'

@@ -1,5 +1,5 @@
 ---
-title: 'Asanas en flexion avant : abandon, humilité et longueur'
+title: 'Asanas en flexion avant'
 date: 2026-06-09
 description: "Explorez les postures en flexion avant, de la Flexion avant debout à la Posture de la Tortue — des asanas qui cultivent l'abandon, la longueur spinale et la quiétude intérieure."
 image: '/images/blog/forward-fold-asanas.jpg'

@@ -1,5 +1,5 @@
 ---
-title: 'Arm Balances and Inversions: Strength, Inversion and the Courage to Fall'
+title: 'Arm Balances and Inversions'
 date: 2026-06-09
 description: 'Explore arm balances and inversions from Chaturanga to Headstand — postures that build upper body strength, shift perspective and cultivate concentration and trust.'
 image: '/images/blog/arm-balance-inversions.jpg'

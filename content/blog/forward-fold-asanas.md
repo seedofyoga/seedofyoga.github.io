@@ -1,5 +1,5 @@
 ---
-title: 'Forward Bend Asanas: Surrender, Humility and Length'
+title: 'Forward Bend Asanas'
 date: 2026-06-09
 description: 'Explore forward bend asanas from Standing Forward Bend to Tortoise Pose — postures that cultivate surrender, spinal length and introspective calm.'
 image: '/images/forward-fold/Uttanasana.png'

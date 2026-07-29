@@ -1,5 +1,5 @@
 ---
-title: 'Asanas en flexion arrière : ouverture, courage et expansion'
+title: 'Asanas en flexion arrière'
 date: 2026-06-09
 description: 'Explorez les postures en flexion arrière, du Sphinx à la Roue — des asanas qui ouvrent la face avant du corps, renforcent la colonne et cultivent le courage et la vitalité.'
 image: '/images/backbend-asanas/camel.png'

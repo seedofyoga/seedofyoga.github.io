@@ -1,5 +1,5 @@
 ---
-title: 'Seated Asanas: Stillness, Stability and Inner Focus'
+title: 'Seated Asanas'
 date: 2026-06-09
 description: 'Explore seated asanas from Easy Pose to Heron Pose — postures that cultivate stillness, core strength and meditative attention.'
 image: '/images/blog/seated-asanas.jpg'

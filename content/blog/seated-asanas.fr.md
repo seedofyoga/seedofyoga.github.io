@@ -1,5 +1,5 @@
 ---
-title: 'Asanas assis : quiétude, stabilité et attention intérieure'
+title: 'Asanas assis'
 date: 2026-06-09
 description: "Explorez les postures assises de la Posture Facile à la Posture du Héron — des asanas qui cultivent la quiétude, la force du centre et l'attention méditative."
 image: '/images/blog/seated-asanas.jpg'

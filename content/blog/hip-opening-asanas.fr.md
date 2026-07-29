@@ -1,5 +1,5 @@
 ---
-title: "Asanas d'ouverture des hanches : libération, espace et liberté émotionnelle"
+title: "Asanas d'ouverture des hanches"
 date: 2026-06-09
 description: "Explorez les postures d'ouverture des hanches, de la Posture de l'Angle Lié à la Posture du Singe — des asanas qui libèrent les tensions dans les hanches et le bassin, améliorent la mobilité et invitent à l'ouverture émotionnelle."
 image: '/images/blog/hip-opening-asanas.jpg'

@@ -1,5 +1,5 @@
 ---
-title: 'Équilibres sur les bras et inversions : force, inversion et le courage de tomber'
+title: 'Équilibres sur les bras et inversions'
 date: 2026-06-09
 description: 'Explorez les équilibres sur les bras et les inversions, du Chaturanga au Poirier — des postures qui développent la force du haut du corps, inversent la perspective et cultivent la concentration et la confiance.'
 image: '/images/blog/arm-balance-inversions.jpg'
