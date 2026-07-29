@@ -1,9 +1,9 @@
 ---
 title: 'Glossaire des termes du yoga'
 date: 2026-04-01
-description: 'Sanscrit, philosophie, pratique — le vocabulaire du yoga peut sembler une langue étrangère au début. Un glossaire des termes que vous rencontrerez le plus souvent sur et hors du tapis.'
+description: 'Sanskrit, philosophie, pratique — le vocabulaire du yoga peut sembler une langue étrangère au début. Un glossaire des termes que vous rencontrerez le plus souvent sur et hors du tapis.'
 image: '/images/history-of-yoga/history-thumbnail.png'
-tags: ['philosophie', 'guide du yoga', 'sanscrit', 'glossaire']
+tags: ['philosophie', 'guide du yoga', 'sanskrit', 'glossaire']
 ---
 
 Vous entrez dans votre premier cours de yoga et l'enseignant commence à parler dans une langue que vous ne connaissez pas. _Adho Mukha Svanasana. Ujjayi. Savasana._ Vous suivez du mieux que vous pouvez, mais une partie de votre esprit commence à dresser une liste.
@@ -14,7 +14,7 @@ Cet article est cette liste. Un glossaire des termes que vous rencontrerez le pl
 
 ## Les fondements
 
-**Yoga** vient de la racine sanscrite _yuj_, qui signifie relier ou unir. Le mot désigne quelque chose de bien plus large que l'exercice physique : l'apaisement de la conscience individuelle. Dans la définition de Patanjali, le yoga est _chitta vritti nirodha_ — l'arrêt des fluctuations du mental. Les postures n'en sont qu'une petite partie.
+**Yoga** vient de la racine sanskrite _yuj_, qui signifie relier ou unir. Le mot désigne quelque chose de bien plus large que l'exercice physique : l'apaisement de la conscience individuelle. Dans la définition de Patanjali, le yoga est _chitta vritti nirodha_ — l'arrêt des fluctuations du mental. Les postures n'en sont qu'une petite partie.
 
 **Prana** (force vitale) est l'énergie qui, selon la tradition, anime tous les êtres vivants et circule dans le corps par des canaux subtils appelés **nadis**. Les pratiques du yoga — en particulier les asanas et le pranayama — sont conçues en partie pour travailler directement avec cette énergie.
 
@@ -66,7 +66,7 @@ Les [Yoga Sutras](/fr/blog/definition-of-yoga-8-limbs/) de Patanjali décrivent 
 
 **Om** (ou _Aum_) est le son le plus fondamental du yoga. Il est dit être la vibration primordiale dont tous les autres sons naissent. Vous l'entendrez chanté au début et à la fin de nombreux cours.
 
-**Mantra** (phrase sacrée ou outil du mental) — un mot ou une phrase répété mentalement ou à voix haute pour concentrer l'esprit ou invoquer une qualité particulière. Les mantras viennent des traditions sanscrites et védiques, et leur sens compte autant que leur son. L'[article sur les mantras](/fr/blog/yoga-mantras/) couvre ceux que vous rencontrerez le plus souvent.
+**Mantra** (phrase sacrée ou outil du mental) — un mot ou une phrase répété mentalement ou à voix haute pour concentrer l'esprit ou invoquer une qualité particulière. Les mantras viennent des traditions sanskrites et védiques, et leur sens compte autant que leur son. L'[article sur les mantras](/fr/blog/yoga-mantras/) couvre ceux que vous rencontrerez le plus souvent.
 
 **Namaste** (je m'incline devant toi) — le geste de salutation et d'au revoir du yoga : mains jointes au cœur, légère inclinaison. C'est une façon de reconnaître quelque chose de digne en l'autre personne.
 
@@ -80,7 +80,7 @@ Les [Yoga Sutras](/fr/blog/definition-of-yoga-8-limbs/) de Patanjali décrivent 
 
 **Les Yoga Sutras** — la collection de 196 aphorismes de Patanjali sur la théorie et la pratique du yoga. Denses, précis, et encore largement étudiés plus de deux mille ans après leur rédaction.
 
-**Guru** (dissipateur des ténèbres) — un enseignant spirituel. En sanscrit, _gu_ signifie obscurité et _ru_ signifie lumière. Le mot porte bien plus que "professeur" : un guru est quelqu'un qui a parcouru le chemin et peut réellement guider les autres.
+**Guru** (dissipateur des ténèbres) — un enseignant spirituel. En sanskrit, _gu_ signifie obscurité et _ru_ signifie lumière. Le mot porte bien plus que "professeur" : un guru est quelqu'un qui a parcouru le chemin et peut réellement guider les autres.
 
 **Svadhyaya** (étude de soi) — l'un des niyamas. Il désigne l'étude des textes sacrés et, tout autant, l'étude de soi-même. L'objectif n'est pas d'accumuler des connaissances, mais de s'en servir comme d'un miroir.
 

@@ -14,7 +14,7 @@ Dans cet article, nous allons explorer les principaux mantras utilisés dans la 
 
 ## Qu'est-ce qu'un mantra ?
 
-Le mot _mantra_ vient de deux racines sanscrites : _man_ (esprit) et _tra_ (outil ou instrument). Un mantra est, littéralement, un outil pour l'esprit. L'idée est que répéter certains sons ou phrases — à voix haute, en murmure ou en silence — crée une qualité particulière d'attention. La répétition n'est pas censée être automatique. Elle est censée ancrer l'esprit à quelque chose de stable, comme alternative à ses errances habituelles.
+Le mot _mantra_ vient de deux racines sanskrites : _man_ (esprit) et _tra_ (outil ou instrument). Un mantra est, littéralement, un outil pour l'esprit. L'idée est que répéter certains sons ou phrases — à voix haute, en murmure ou en silence — crée une qualité particulière d'attention. La répétition n'est pas censée être automatique. Elle est censée ancrer l'esprit à quelque chose de stable, comme alternative à ses errances habituelles.
 
 Selon la philosophie du yoga, les sons ne sont pas neutres. Certaines syllabes sont dites porter des qualités particulières de résonance qui affectent le système nerveux, le souffle et la qualité de l'attention intérieure. Que vous abordez cela d'un point de vue traditionnel ou plus pragmatique, l'observation de base est la même : le chant change la façon dont l'esprit se sent. C'est déjà une raison suffisante pour explorer ces pratiques.
 
